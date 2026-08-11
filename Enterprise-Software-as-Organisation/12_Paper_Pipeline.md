@@ -1,0 +1,12 @@
+# Paper Pipeline
+
+| Paper | Question and theory | Data and method | Expected contribution | Dependency, journals, risks |
+|---|---|---|---|---|
+| 1. *Software as Codified Organisation Design* | How are coordination and governance encoded? Thompson, Galbraith, Mintzberg | Release-controlled SAP reference corpus; documentary/architectural coding across P2P, O2C, R2R | Establishes encoded organisation as object and tests primitives | Foundation. Possible: *Information and Organization*, *Journal of Information Technology*, *Information Systems Journal*. Risk: conceptual relabelling or thin corpus |
+| 2. *Fit-to-Standard as Organisational Design Negotiation* | How are vendor and customer coordination arrangements negotiated? Organisation design, sensemaking, misfit | Workshop observation, design decisions, backlog, interviews; process study | Explains implementation as negotiation over dependencies and rights | Uses Paper 1 vocabulary. Possible: *JSIS*, *ISJ*, *JIT*. Risk: access and retrospective rationalisation |
+| 3. *Configuration as Bounded Organisational Discretion* | Where and to whom does cloud ERP allocate design discretion? Decision rights and governance | Configuration catalogues plus comparative customer configurations and interviews | Locates discretion in architecture and implementation governance | Requires Papers 1–2 distinction. Risk: confusing technical options with exercised discretion |
+| 4. *Comparing Organisational Logics Across ERP Platforms* | Which organisational mechanisms are common or vendor-specific? Comparative organisation design | Matched reference processes across SAP and at least one other platform | Boundary conditions and platform-specific configurations | Requires stable codebook. Possible: *MISQ*, *ISR*, *JIT*. Risk: false equivalence and uneven documentation |
+| 5. *AI Agents as Organisational Coordination Actors* | How do agents change delegation, information processing, escalation, and accountability? Organisation design plus human–AI organising | Agentic workflow architectures and field cases | Extends primitives from routing human work to delegated action | Builds on governance baseline. Risk: rapidly changing systems and anthropomorphism |
+
+The sequence is cumulative but not a salami-slicing plan. Each paper requires a distinct phenomenon, data source, and theoretical problem. Journal choice is provisional and must be checked against actual contribution and current aims before submission.
+
