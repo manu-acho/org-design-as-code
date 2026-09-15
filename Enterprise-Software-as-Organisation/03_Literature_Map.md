@@ -21,7 +21,7 @@ Standardisation of work may be both a Mintzbergian coordination mechanism and an
 
 The main gap is a level-of-analysis gap. Enterprise-systems studies show what happens during and after implementation; organisation-design theories explain organisational arrangements; technology-in-practice studies explain enactment. Less developed is a reproducible method for moving from vendor reference artefacts to a bounded reconstruction of encoded organisation. This project addresses that gap while using routines and sociomaterial research to police its claims.
 
-The organisation-design stream has now been developed separately in [Stream One: Organisation Design, Detailed Literature Review](literature/Stream_01_Organisation_Design_Detailed_Review.md). Its accompanying [LeapSpace source audit](literature/Stream_01_LeapSpace_Source_Audit.md) records which supplied sources were retained, narrowed, relocated, or excluded.
+The organisation-design stream has now been developed separately in [Stream One: Organisation Design, Detailed Literature Review](literature/Stream_01_Organisation_Design_Detailed_Review.md). Its accompanying [source assessment](literature/Stream_01_Source_Assessment.md) records which candidate sources were retained, narrowed, relocated, or excluded.
 
 ## Priority reading route
 

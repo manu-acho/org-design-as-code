@@ -80,6 +80,7 @@ Start with [06_Research_Protocol.md](06_Research_Protocol.md), use [07_Data_Coll
 | `paper/` | Working manuscript blueprint and section drafts |
 | `references/` | Working bibliography and verification notes |
 | `figures/` | Guidance and eventual analytical figure outputs |
+| `SAP Learning/` | Cumulative E2E and SAP Activate lessons, source register, and research data-collection bridge |
 | `PROJECT_STATUS.md` | Authoritative record of completed and outstanding work |
 
 ## Current status

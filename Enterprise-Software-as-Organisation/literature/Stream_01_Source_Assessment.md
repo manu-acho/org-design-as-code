@@ -1,4 +1,4 @@
-# Stream One: LeapSpace Source Audit
+# Stream One: Source Assessment
 
 ## Audit method
 
@@ -6,7 +6,7 @@ The supplied reference list was checked at DOI/publisher level where accessible.
 
 ## Core sources retained
 
-| LeapSpace no. | Source | Status | Use in detailed review |
+| Candidate no. | Source | Status | Use in detailed review |
 |---|---|---|---|
 | 82 | Rivkin and Siggelkow (2003) | Verified at INFORMS; abstract accessible | Configurational interdependence, search/stability, hierarchy boundary conditions |
 | 92 | Ethiraj and Levinthal (2004) | Verified at INFORMS; abstract accessible | Contingent modularisation; over-decomposition versus over-integration |
@@ -28,7 +28,7 @@ The supplied reference list was checked at DOI/publisher level where accessible.
 
 ## Sources requiring narrowing or relocation
 
-| LeapSpace no. | Reason |
+| Candidate no. | Reason |
 |---|---|
 | 7 | Srinivasan and Swink (2015) is a supply-chain planning/OIPT study, not evidence for the entire historical claim about post-2000 organisation design. Use in the information-processing subsection only. |
 | 149 | Ai et al. (2012) concerns provider knowledge processes and performance. It is too peripheral to anchor a claim about organisation-design development. |
@@ -55,9 +55,8 @@ The supplied reference list was checked at DOI/publisher level where accessible.
 
 - **No. 167, Noldus et al. (2011), “Rich Communication Suite”** is a technical handbook chapter. It is not an organisation-design source and appears to be retrieval noise.
 - **Nos. 159 and 160 (2026 publications)** should not be used until full publication metadata and relevance are independently checked. Their recency also makes them unsuitable as evidence for a settled historical trajectory.
-- LeapSpace's “High” confidence rating is not a scholarly quality assessment. Convergence among a heterogeneous search result set cannot substitute for construct validity, source relevance, or full-text review.
+- A confidence label attached to a heterogeneous candidate-source set is not a scholarly quality assessment. Convergence within such a set cannot substitute for construct validity, source relevance, or full-text review.
 
 ## Important omissions added to the stream
 
 The detailed review adds Burton and Obel (2018) on structure–coordination fit; Puranam, Alexy and Reitzig (2014) on fundamental problems and new forms of organising; Gulati and Puranam (2009) on formal–informal inconsistency; and Okhuysen and Bechky (2009) on mechanisms and integrative conditions. These sources are more direct for the organisation-design argument than several items in the original list.
-

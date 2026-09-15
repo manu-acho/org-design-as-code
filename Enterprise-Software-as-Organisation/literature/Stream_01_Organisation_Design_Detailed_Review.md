@@ -2,9 +2,9 @@
 
 ## Purpose and evidential scope
 
-This review develops the organisation-design stream for the research programme on enterprise software as codified organisation design. It begins from the LeapSpace synthesis supplied on 8 August 2026, but it does not treat that synthesis or its confidence statement as evidence. Claims below are based on verified bibliographic records and, where accessible, publishers' abstracts or full texts. The review deliberately separates organisation-design scholarship from adjacent work on coordination, enterprise systems, digital infrastructure, and work design. Those adjacent streams matter, but moving a paper into “organisation design” merely because it discusses technology or coordination would obscure rather than strengthen the theoretical argument.
+This review develops the organisation-design stream for the research programme on enterprise software as codified organisation design. Claims are based on verified bibliographic records and, where accessible, publishers' abstracts or full texts. The review deliberately separates organisation-design scholarship from adjacent work on coordination, enterprise systems, digital infrastructure, and work design. Those adjacent streams matter, but moving a paper into “organisation design” merely because it discusses technology or coordination would obscure rather than strengthen the theoretical argument.
 
-The principal conclusion is more restrained than the LeapSpace formulation. Post-2000 research did not replace a classic Thompson–Galbraith–Mintzberg framework with a single new, modular or digital paradigm. It developed several partially connected lines of work: multi-contingency fit and misfit; configurational complementarity among design elements; decomposition and modularity under complex interdependence; process- and practice-based accounts of coordination; and renewed attention to the organisational possibilities associated with digital technologies. These developments make organisation design more dynamic and relational. Only some of them, however, directly support the claim that organisation is encoded in software.
+Post-2000 research did not replace a classic Thompson–Galbraith–Mintzberg framework with a single new, modular or digital paradigm. It developed several partially connected lines of work: multi-contingency fit and misfit; configurational complementarity among design elements; decomposition and modularity under complex interdependence; process- and practice-based accounts of coordination; and renewed attention to the organisational possibilities associated with digital technologies. These developments make organisation design more dynamic and relational. Only some of them, however, directly support the claim that organisation is encoded in software.
 
 ## 1. What organisation design explains
 
@@ -34,7 +34,7 @@ Gulati and Puranam (2009) extend configurational reasoning by analysing inconsis
 
 ### 2.3 Equifinality and the limits of optimal-design language
 
-The LeapSpace text correctly points towards multiple viable configurations, but the claim requires careful formulation. Contingency and configurational research permits **equifinality**: different configurations may perform similar functions or reach similar outcomes. It does not imply that any configuration is equally suitable. Nor can equifinality be inferred from the mere availability of configuration choices in software. Demonstrating functional equivalence requires comparative outcome evidence, which is outside the documentary design of Paper 1.
+Contingency and configurational research permits **equifinality**: different configurations may perform similar functions or reach similar outcomes. It does not imply that any configuration is equally suitable. Nor can equifinality be inferred from the mere availability of configuration choices in software. Demonstrating functional equivalence requires comparative outcome evidence, which is outside the documentary design of Paper 1.
 
 Accordingly, this programme should use “fit” in three distinct senses. **Architectural coherence** concerns consistency among encoded elements. **Implementation fit** concerns correspondence between a selected configuration and a particular organisational context. **Enacted fit** concerns whether actual practices meet coordination and information requirements. Documentary evidence can address only the first directly.
 
@@ -96,7 +96,7 @@ Yoo et al. (2012) locate organising for innovation in a digitised world, while d
 
 ## 6. Does post-2000 organisation design support “software-encoded structure”?
 
-The LeapSpace text makes its strongest, and least securely evidenced, move when it claims that enterprise systems and software architectures are treated as organisational design media that encode workflows, roles and control. The cited literature supports several components of this claim, but not the complete proposition as an established consensus.
+The proposition that enterprise systems and software architectures operate as organisational design media requires a carefully bounded evidence chain. The literature supports several components of this claim, but not the complete proposition as an established consensus.
 
 First, organisation-design research establishes that roles, tasks, information systems, decisions, controls and incentives are design components (Burton and Obel, 2018). Second, digital-organisation research establishes that IT features combine with organisational arrangements to enable new forms of organising (Zammuto et al., 2007). Third, enterprise-systems research shows that integrated systems embody process and data logics and that their effects vary with interdependence and differentiation (Gattiker and Goodhue, 2005). Fourth, software-architecture research shows that technical dependencies have coordination implications for the organisation producing software (Avritzer et al., 2010).
 
