@@ -1,10 +1,10 @@
 # Figure and Table Plan
 
-## Figure 1 — Enterprise software as layered organisation design
+## Figure 1  -  Enterprise software as layered organisation design
 
 Purpose: define the object without implying determinism. Evidence status: conceptual. Use the layered model in `02_Conceptual_Framework.md`, with a caption explaining that layers are analytical and mutually conditioning.
 
-## Figure 2 — From primitive to mechanism
+## Figure 2  -  From primitive to mechanism
 
 ```mermaid
 flowchart LR
@@ -13,11 +13,11 @@ flowchart LR
 
 Purpose: expose the inferential chain and prevent feature labelling from becoming theory.
 
-## Figure 3 — Research design and analytical process
+## Figure 3  -  Research design and analytical process
 
 Use the flow in `09_Analytical_Framework.md`, adding version freeze and negative-case loop. Evidence status: method.
 
-## Figure 4 — Encoded, implemented, enacted
+## Figure 4  -  Encoded, implemented, enacted
 
 ```mermaid
 flowchart TB

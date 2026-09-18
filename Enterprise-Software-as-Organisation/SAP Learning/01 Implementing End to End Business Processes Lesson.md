@@ -182,7 +182,17 @@ SAP separates two perspectives while integrating their records:
 - **Financial Accounting (FI):** external and legally oriented reporting, including the general ledger, receivables, payables, and asset accounting.
 - **Management Accounting (CO):** internal responsibility, cost, product, and profitability analysis.
 
-S/4HANA’s integrated accounting model means a business transaction can generate financial and management-accounting information together when relevant account assignments exist.
+S/4HANA’s integrated accounting model means a business transaction can generate financial and management-accounting information together when relevant account assignments exist. The end-to-end logic is:
+
+> operational business event → source document or journal entry → subledger where applicable → general ledger → management-accounting assignment where applicable → close and reporting
+
+Not every event uses every stage. Not every posting uses a subledger, not every G/L posting is a cost, and not every cost flows to a product. Business purpose and configuration determine the applicable records.
+
+The company code is the principal organisational unit for FI. CO adds structures such as the controlling area and, for profitability analysis, the operating concern. These distinguish legal reporting responsibility, internal cost responsibility, and market-oriented analysis.
+
+The principal account families also connect the process to its outputs. Assets, liabilities, and equity form the balance-sheet structure. Revenue and expense accounts form the profit-and-loss structure. Period profit or loss ultimately changes equity through closing.
+
+Subledgers preserve business-object detail that aggregate G/L balances cannot provide. AP answers which suppliers are owed, AR answers which customers owe the company, and Asset Accounting answers which individual long-term assets make up reported values.
 
 ### General Ledger Accounting
 
@@ -191,6 +201,28 @@ The general ledger is the central financial record. The **chart of accounts** su
 A journal entry follows double-entry bookkeeping: total debits equal total credits. The posting records not only amounts but also dates, company code, currency, accounts, references, and, where appropriate, management-accounting objects.
 
 G/L account types and account settings influence whether postings have cost-accounting relevance. Not every financial posting is a management-accounting cost. Where a posting represents a cost or revenue requiring internal responsibility, the system may require a cost centre, order, WBS element, profitability segment, or another account-assignment object.
+
+Connect the G/L account type to the information flow:
+
+- A **balance-sheet account** records financial position and normally does not represent a CO cost.
+- A **primary cost or revenue account** carries externally originating expense or revenue into CO when a controlling assignment is relevant.
+- A **non-operating expense or income account** separates values that should not be treated as ordinary operating cost or revenue.
+- A **secondary cost account** records internal CO allocations rather than a new external expense.
+
+In S/4HANA, primary and secondary cost elements are technically integrated into the G/L through the relevant account types. “Cost element” remains a useful conceptual term for how values are classified for CO, but it should not be imagined as an unrelated accounting ledger.
+
+### Following transactions through the architecture
+
+| Business event | Detailed record | Simplified financial effect | Management view |
+|---|---|---|---|
+| Supplier invoice for office supplies | Supplier open item in AP | Expense debit; supplier reconciliation account credit | Cost centre or another receiver identifies responsibility |
+| Customer billing | Customer open item in AR | Customer reconciliation account debit; revenue and tax credits as applicable | Profitability dimensions may receive revenue context |
+| Customer payment | Customer clearing information | Bank debit; customer reconciliation account credit | Clears the claim created by billing |
+| Machine acquisition through a supplier | Asset and supplier records | Asset debit; supplier reconciliation account credit | Asset assignment and later depreciation affect responsibility reporting |
+| Monthly depreciation | Asset subledger and journal entry | Depreciation expense debit; accumulated depreciation credit | Cost centre or another assignment can receive the cost |
+| Internal repair service | CO allocation record | No new external expense | Sender credited and receiver debited through a secondary cost account |
+
+These are simplified patterns. Taxes, clearing accounts, valuation design, account determination, and process configuration may add entries.
 
 ### Accounts Payable
 
@@ -202,6 +234,8 @@ The conceptual posting for a supplier invoice is:
 
 The supplier subledger records the individual open item, while the reconciliation account updates the general ledger automatically. Users normally do not post directly to reconciliation accounts. Payment clears the supplier open item and reduces cash or bank balances.
 
+Business Partner data contains shared general information plus role- and organisationally specific views. For AP, company-code data supplies accounting terms while purchasing data supports procurement. A supplier and its FI-vendor role are functional views of the party rather than separate real-world entities.
+
 The integration point is crucial: procurement can supply purchase-order and receipt references, while FI records the liability and value impact. Account assignment can simultaneously identify internal cost responsibility.
 
 ### Accounts Receivable
@@ -212,6 +246,8 @@ Accounts Receivable provides customer-level detail for claims against customers.
 
 Incoming payment clears the customer open item and increases cash or bank. AR is therefore not isolated bookkeeping; it is the financial continuation of Lead-to-Cash.
 
+The distinction between **open** and **cleared** items is essential. An invoice creates an unsettled claim or obligation. Payment and clearing link settlement to that item. A G/L balance alone cannot show the same customer- or supplier-level settlement history.
+
 ### Asset Accounting
 
 Asset Accounting tracks non-current assets throughout acquisition, capitalisation, depreciation, transfer, retirement, and disposal. An **asset master record** holds identity, classification, organisational assignment, and valuation-relevant information.
@@ -220,11 +256,25 @@ An **asset class** groups similar assets and helps control master-record layout 
 
 The architecture links the subledger and G/L: an acquisition changes the asset value and corresponding payable or clearing account; periodic depreciation recognises expense and accumulated depreciation; retirement removes or reclassifies value and may recognise gain or loss.
 
+Learn the asset lifecycle as one chain:
+
+> asset master and class → acquisition and capitalisation → useful-life valuation through depreciation areas → periodic depreciation → transfer where required → retirement or disposal
+
+The asset class answers what kind of asset is being managed. Account determination answers which G/L accounts its transactions affect. Depreciation areas answer which valuation views are maintained. These are related but distinct design decisions.
+
 ### Parallel accounting and ledgers
 
 Organisations may report under more than one accounting principle. Ledgers provide parallel accounting representations, while accounting principles are assigned according to the configured valuation design. A leading ledger supplies the principal accounting view; additional ledgers can represent other principles or reporting needs.
 
 Do not equate a ledger with an entire company or with a G/L account. A ledger is a parallel accounting book containing journal-entry data for its assigned accounting principle or purpose. Ledger-specific postings allow differences to be recognised without duplicating every operational transaction.
+
+Also distinguish:
+
+- the **accounting principle**, which expresses valuation and reporting rules such as local GAAP or IFRS;
+- the **ledger**, which stores the corresponding accounting representation;
+- the **depreciation area**, which holds an asset-valuation view and participates in the configured ledger and accounting-principle design.
+
+The same business event can therefore be represented across ledgers while principle-specific valuations or adjustments remain separable.
 
 ### Overhead Cost Controlling
 
@@ -241,11 +291,44 @@ Core objects include:
 
 If an IT cost centre supplies repair hours to another department, the activity type identifies the service and its quantity; the activity price values the internal consumption. The sender is credited and the receiver debited in management accounting. This makes internal resource dependence visible and accountable.
 
+Direct activity allocation requires a sender cost centre, a receiver cost object, an activity type, and a quantity. The activity price converts quantity into internal value. The secondary cost account classifies the flow; it does not create a second external expense.
+
 Planning supplies expected costs, quantities, and activity prices. Actual postings provide realised values. Variance analysis compares them. The point is not merely budgeting; it is the attribution and coordination of resource use across responsibility units.
+
+The notes connect planning through a dependent cycle:
+
+> sales planning → sales and operations planning → production and capacity planning → cost-centre cost and activity planning → activity-price calculation → material cost estimate → profit planning
+
+Planned primary costs estimate externally originating resources such as salaries, rent, utilities, and depreciation. Planned secondary costs estimate internal services consumed from other responsibility units. Fixed and variable classifications help explain how costs respond to activity, but their treatment depends on the planning model and time horizon.
+
+SAP Analytics Cloud appears in the learning example as a planning and analytics surface for budgets, forecasts, scenarios, and plan/actual comparison. It is not the accounting engine that records the underlying actual journal entries.
+
+### Cost centres and WBS elements
+
+A cost centre represents continuing organisational responsibility for overhead. A WBS element represents a defined part of a project and can collect project-specific costs, revenues, or budgets according to configuration. Use a cost centre when the main question is which continuing unit is responsible; use a WBS element when the main question is which project component consumed resources.
+
+Project costs can later be settled or allocated according to project design. Posting to a WBS element does not by itself determine which organisational unit ultimately bears the cost.
 
 ### Product cost and margin analysis
 
 Product Cost Controlling seeks to determine the cost of producing goods or services from materials, activities, overhead, and other resources. Margin analysis relates revenues and costs to profitability dimensions such as product, customer, market, or region. These components connect operational events to internal economic evaluation.
+
+A candidate cost flow is:
+
+> external costs recorded in FI → responsibility collected in cost objects → internal services allocated → activity prices and overhead rates calculated → product or service cost estimated where relevant → revenue and cost compared in margin analysis
+
+This is how costs *can* be traced when those relations are configured. Support-function costs are not automatically allocated to every product, and an allocation basis is a managerial modelling choice rather than an objective fact.
+
+### Common R2R misconceptions
+
+- The G/L does not replace supplier, customer, or asset detail; reconciliation connects specialised subledgers to it.
+- FI and CO are not unrelated systems. Relevant journal-entry values become available for responsibility and profitability analysis.
+- A cost centre is an account-assignment and responsibility object, not a G/L account.
+- A secondary allocation redistributes an existing cost internally; it does not create a new external expense.
+- Planning includes quantities, capacities, activity prices, responsibility, product estimates, and profitability, not only departmental budgets.
+- A Financial Statement Version arranges accounts for reporting; it is not the Chart of Accounts.
+- A ledger, accounting principle, depreciation area, and company code solve different problems.
+- An integrated posting model does not mean every business event produces every possible FI and CO record.
 
 ## 8 Recruit to Retire
 
@@ -269,11 +352,23 @@ Recruiting begins with an approved organisational need and a requisition. The pr
 
 Important objects include the requisition, candidate profile/application, interview or assessment records, and offer. Roles can include recruiter, hiring manager, interviewer, approver, and candidate. The architecture distributes who creates, views, evaluates, or approves information.
 
+Keep three objects distinct:
+
+- The **job requisition** is the internal, approval-relevant definition of the vacancy.
+- The **candidate profile** describes the person and can persist across opportunities.
+- The **application** connects that candidate to one particular requisition.
+
+A Route Map can govern requisition or offer approval. After publication through internal, external, private, agency, or job-board channels, pre-screening questions may supply scores or disqualification conditions. Recruiters manage applications in the Candidate Workbench and move them through a configured Talent Pipeline. The pipeline is therefore a status architecture for the organisation's selection process, not a universal fixed sequence.
+
+Candidate Relationship Management extends the process beyond active applicants through talent pools and campaigns, while sourcing analytics evaluates channels, campaigns, requisitions, cost, and results. These capabilities create a feedback loop from recruiting activity to future sourcing decisions.
+
 ### Onboarding
 
 Onboarding bridges accepted offer and productive employment. It coordinates forms, compliance tasks, equipment, access, orientation, training, manager activities, and employee data collection. The key conceptual point is that onboarding is cross-functional: HR, the manager, IT, facilities, payroll, security, and the new hire may all have interdependent tasks.
 
 The accepted candidate data should flow forward rather than be re-entered without control. However, the transfer still requires validation because recruiting data and employment master data serve different purposes and may have different completeness and legal requirements.
+
+Onboarding can be initiated from Recruiting when a candidate reaches the appropriate hire-ready state or manually for cases that did not originate in Recruiting. It generates role-specific tasks and notifications for the new hire, manager, recruiter, and HR. Personal-data collection and electronic signing precede HR's final review in **Manage Pending Hires**. HR completes organisational and employment information before creating the Employee Central record, which becomes active according to the hire date. Offboarding applies the same coordination logic to departure tasks, including equipment return, knowledge transfer, final payroll, documentation, and record updates.
 
 ### Employee Central
 
@@ -291,20 +386,26 @@ Key ideas to master include:
 
 Employee Central is therefore an active transaction system for employment events, not a passive address book.
 
+The People Profile is the user-facing view of employee information; it is not synonymous with Employee Central itself. Employee and Manager Self-Service expose only permitted transactions. Role-Based Permissions answer who may read or write which data for which population. Workflows answer who must approve a change, Event Reasons classify why a lifecycle event occurred, and Business Rules apply conditional system logic. Effective dating preserves when a change becomes valid rather than merely overwriting the prior state.
+
 ### Payroll and Finance integration
 
 Payroll transforms approved employee and time-related data into gross-to-net results. A simplified sequence is:
 
-1. establish payroll-relevant master data;
-2. capture or import time and variable payments;
-3. calculate gross earnings;
-4. apply taxes, deductions, and employer contributions;
-5. validate and correct exceptions;
-6. finalise payroll;
-7. pay employees and third parties;
-8. post payroll expense and liabilities to Finance.
+1. establish payroll-relevant master data and Payroll Area assignment;
+2. release payroll, temporarily protecting relevant data from change;
+3. start calculation for the applicable payroll period using the configured schema;
+4. review the payroll log and rejected employees;
+5. enter the correction phase, correct data, and rerun affected employees where required;
+6. exit payroll to finalise results and reopen data maintenance;
+7. execute subsequent payment activities;
+8. create and evaluate the posting run;
+9. review and release posting documents;
+10. transfer the financial consequences to Accounting.
 
-Posting to Finance aggregates payroll results into appropriate G/L and cost-accounting assignments while protecting unnecessary personal detail. The integration connects workforce events to labour cost, liabilities, cash, cost centres, and financial reporting.
+The Payroll Area groups employees processed under common timing parameters; the payroll period identifies the time being calculated. A Personnel Control Record governs payroll status for an area. Retroactive accounting handles relevant changes relating to already processed periods through a later payroll calculation.
+
+Payroll calculation and posting to Finance are separate controlled processes. Posting aggregates payroll results into appropriate G/L and cost-accounting assignments while protecting unnecessary personal detail. The sequence from posting-run creation through evaluation, document review, release, and transfer supplies control points before the accounting impact is recorded. The integration connects workforce events to labour cost, liabilities, cash, cost centres, and financial reporting.
 
 ## 9 The cross-process integration map
 
@@ -339,7 +440,10 @@ You should be able to explain, without relying on product slogans:
 9. how reconciliation accounts connect subledgers to the general ledger;
 10. how cost objects and activity types make internal responsibility and resource flows visible;
 11. the Recruiting → Onboarding → Employee Central → Payroll → Finance chain;
-12. the trigger, object, role, document, status, integration, and accounting consequence of each process.
+12. the trigger, object, role, document, status, integration, and accounting consequence of each process;
+13. the differences among requisition, posting, candidate profile, application, and offer;
+14. the functions of Route Maps, Talent Pipelines, Role-Based Permissions, workflows, Event Reasons, and Business Rules;
+15. the distinction between Payroll Area and payroll period, and between payroll calculation and posting to Finance.
 
 ## 11 Corrections and cautions for the current notes
 

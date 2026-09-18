@@ -165,4 +165,4 @@ The first executable research package should contain:
 
 ## 8 Current access limitation
 
-The Word files contain numerous HackMD links. On 15 September 2026, direct browser access displayed the HackMD sign-in shell rather than the note content. The Word files themselves remain fully readable, and official SAP pages were independently consulted to validate the central framework. The HackMD notes are therefore registered but not represented as read or verified.
+The Word files contain numerous HackMD links. Subsequent testing on 15 September 2026 established that the published finance and Recruit-to-Retire notes are readable, and their relevant content has been incorporated into the learning guide. Three directly tested links returned 403 Forbidden and were not used: `HJlJgdwEfe`, `ryenJuvVGg`, and `HJaRnrd8Ml`. Untested HackMD links remain discovery items rather than verified sources. In all cases, official SAP material remains the authority for certification and admissible product claims.

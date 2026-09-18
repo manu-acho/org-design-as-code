@@ -1,4 +1,4 @@
-# Findings Structure — Provisional, Not Findings
+# Findings Structure  -  Provisional, Not Findings
 
 ## Candidate 1: Structuralising interdependence
 

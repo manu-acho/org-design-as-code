@@ -40,44 +40,48 @@ These links are preserved for review. The file title and process label must be v
 
 ## HackMD links from E2E notes
 
-All links below were extracted from the Word document. They currently require a readable published view or authenticated access before their contents can be verified.
+All links below were extracted from the Word document. Access is mixed: the finance and Recruit-to-Retire notes tested in September 2026 are readable as published pages; untested links remain registered rather than verified.
 
 - https://hackmd.io/RKZ-wLIHR2Kmf8PpKAXrBg?view
 - https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/B1rMr7EbGe
 - https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/HyY0B1JfGe
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BJYdbYm4fe
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/SkMHBTjzGl
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BJYdbYm4fe  -  read: Overhead Cost Controlling
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/SkMHBTjzGl  -  read: General Ledger Basic Functions
 - https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BJSNR3ZZMg
 - https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/SyPrOZXbMg
 - https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/SyAmU4n-Ge
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/rkAm3XfNGl
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BkLbs1Q_Mg
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/rkAm3XfNGl  -  read: Ledgers for Parallel Accounting
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BkLbs1Q_Mg  -  read: Payroll and Posting to Finance
 - https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BkAw9ud-fg
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/HJlA7-uzzl
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/B1Ym2HOIfg
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/rkTCwhjmGg
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BkZ02ibvfx
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/HJlA7-uzzl  -  read: Financial and Management Accounting Basics
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/B1Ym2HOIfg  -  read: SuccessFactors Recruiting
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/rkTCwhjmGg  -  read: Asset Accounting
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BkZ02ibvfx  -  read: Employee Central
 - https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/ByM7WRLWfx
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/HJbzkPHmfg
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BJK1GR4Bzx
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/S16dNtLGzx
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/rkezRgRHzx
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/HJbzkPHmfg  -  read: Accounts Payable and Receivable
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BJK1GR4Bzx  -  read: SuccessFactors Solution Functions
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/S16dNtLGzx  -  read: Enterprise Structure and Data Objects
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/rkezRgRHzx  -  read: SuccessFactors Onboarding
 - https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/H1rex3UbMg
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BJt3XremGx
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/HkfPTwPVGe
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/B1Ym2HOIfg
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BkLbs1Q_Mg
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BJt3XremGx  -  read: General Ledger Integration
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/HkfPTwPVGe  -  read: Financial Management Synthesis
+Additional link supplied directly:
+
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/HJaRnrd8Ml  -  403 Forbidden; not used
 
 ## HackMD links from Activate notes
 
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/SJVB9R6Wzx
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/Hyvm-ZJOzl
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/rkDmKehEMg
-- `https://ha.io/@yl2u-hpeQU-iSu-PwJJHUw/BkbLfNmPGg` appears malformed in the source document and must be corrected before access.
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/rywaN2YUzx
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BylDA5DXzg
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/ByTdM8lmfx
-- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/B1G0JByLGl
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/SJVB9R6Wzx  -  read: Describing SAP Activate
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/Hyvm-ZJOzl  -  read: Integrated Toolchain Across Activate Phases
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BkbLfNmPGg  -  read: Understanding the Integrated Toolchain; corrects the malformed `ha.io` URL in the Word file
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/rywaN2YUzx  -  read: Cloud ERP Transformation Challenges and Opportunities
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/B1G0JByLGl  -  read: Clean Core
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/rkDmKehEMg  -  read: Activate Content Provisioning Tools
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/SJ5J5JOQze  -  read: Functional, Technical, and Basis Consultant Roles
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BylDA5DXzg  -  read: Activate Methodology Structure
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/ByTdM8lmfx  -  read: Three Pillars of SAP Activate
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/BJVoIcLYzg  -  403 Forbidden; not used
+- https://hackmd.io/@yl2u-hpeQU-iSu-PwJJHUw/rJiWXjRmzl  -  403 Forbidden; not used
 
 ## Access status convention
 

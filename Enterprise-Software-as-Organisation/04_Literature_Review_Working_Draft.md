@@ -1,12 +1,18 @@
 # Literature Review Working Draft
 
+## Reading and writing approach
+
+This draft will be developed as a cumulative explanation rather than a sequence of compressed theory summaries. Each section will introduce the organisational problem in plain language, define the relevant concepts, explain how the authors connect, apply the concepts to the research question, and state the evidential boundary. The complete theory, qualifications, and citation coverage will be preserved.
+
+The governing requirements are recorded in the [Scholarly Writing and Teaching Standard](literature/WRITING_STANDARD.md). In the consolidated revision, every theoretical stream should enter because it solves a problem or limitation left by the preceding stream. The result should be suitable for scholarly review, doctoral learning, and later teaching without turning illustrations into findings.
+
 ## Enterprise systems and organisational transformation
 
 Enterprise-systems scholarship has long recognised that integrated packages carry organisational consequences. Davenport (1998) argued that enterprise systems impose their own logic on strategy, organisation, and culture even as they promise information integration. Subsequent research displaced simple implementation narratives with process models, misfit accounts, and studies of adaptation. Markus and Tanis (2000) conceptualised enterprise-system experience across chartering, project, shakedown, and onward-and-upward phases. Soh, Kien and Tay-Yap (2000) showed that misalignments between package assumptions and organisational requirements are consequential and culturally situated. Boudreau and Robey (2005) demonstrated that users may avoid, work around, and later appropriate enterprise technologies in emergent ways.
 
 This literature establishes two premises for the present study. First, enterprise systems are not neutral tools: their integrated structures and process models matter organisationally. Second, realised effects cannot be read directly from technical design because implementation and use are contingent accomplishments. The literature has concentrated, understandably, on selection, implementation, transformation, and use. As a result, the package's architecture is commonly treated as a source of constraints or affordances entering those processes rather than as a primary empirical object from which an encoded model of organisation might be reconstructed.
 
-The proposed shift is therefore one of analytical direction. Instead of beginning with an organisation and asking how technology changes it, this study begins with a reference architecture and asks what organisational assumptions it makes explicit. This does not restore technological determinism. It isolates a prior analytical layer—encoded organisational logic—and distinguishes it from implemented configuration and enacted practice.
+The proposed shift is therefore one of analytical direction. Instead of beginning with an organisation and asking how technology changes it, this study begins with a reference architecture and asks what organisational assumptions it makes explicit. This does not restore technological determinism. It isolates a prior analytical layer - encoded organisational logic - and distinguishes it from implemented configuration and enacted practice.
 
 ## Organisation design and interdependence
 
@@ -52,11 +58,10 @@ Three bodies of knowledge meet without fully resolving the research problem. Ent
 
 The gap is a theory-informed, empirically auditable way to reconstruct organisational assumptions from enterprise-software reference artefacts. This study addresses it through documentary and architectural analysis of SAP S/4HANA Cloud Public Edition. It identifies software constructs, determines their operation in relation to organisational activities, codes dependency and coordination, analyses information and governance, and compares configurations across P2P, O2C, and R2R.
 
-The candidate concept of a software organisational primitive supports this movement. A primitive is not a smallest technical component. It is a recurring construct—such as a role, workflow, status, rule, or access restriction—whose operation instantiates an organisational mechanism. Organisational meaning is relational: a status matters because it gates work or signals an exception; a role matters because it connects actors, actions, objects, and structural scopes.
+The candidate concept of a software organisational primitive supports this movement. A primitive is not a smallest technical component. It is a recurring construct - such as a role, workflow, status, rule, or access restriction - whose operation instantiates an organisational mechanism. Organisational meaning is relational: a status matters because it gates work or signals an exception; a role matters because it connects actors, actions, objects, and structural scopes.
 
 ## Analytical framework
 
 The framework asks six ordered questions of each evidence segment. What differentiated activity, actor, object, or unit is represented? What dependency is present? Which primitive or configuration manages that dependency? What information operation occurs? Which right, authority, accountability, or control relation is established? What discretion remains and to whom? Thompson, Mintzberg, and Galbraith guide the theoretical codes, while governance codes remain analytically distinct.
 
 Within-process analysis reconstructs mechanism configurations. Cross-process analysis tests whether patterns recur under different coordination conditions. Negative cases include activities without a visible coordinating mechanism, exceptions handled outside the reference process, role templates that do not allocate decisions, and configurable elements whose organisational significance is weak. The resulting claims concern the reference architecture and the organisational logic it encodes. Claims about implementation, behaviour, performance, or outcomes require different evidence and are excluded.
-

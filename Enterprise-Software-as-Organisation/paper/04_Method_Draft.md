@@ -1,4 +1,4 @@
-# Method — Working Draft
+# Method  -  Working Draft
 
 ## Research design and case selection
 

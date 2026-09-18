@@ -1,4 +1,4 @@
-# Discussion Structure — Conditional Pathways
+# Discussion Structure  -  Conditional Pathways
 
 ## Enterprise software as codified organisation design
 

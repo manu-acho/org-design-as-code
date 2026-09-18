@@ -48,7 +48,7 @@ Observation and interpretation occupy separate memo sections. Negative-case sear
 
 ## Quality and validity
 
-Construct validity comes from explicit definitions and triangulation across artefact classes. Interpretive validity comes from inference chains, rival explanations, peer challenge, and negative cases. Reliability is pursued through a frozen manual, corpus identifiers, coding decision logs, and versioned matrices—not through a claim of theory-free replication. Triangulation compares process, product, role/authorisation, and configuration representations. Divergence is data and receives a discrepancy memo.
+Construct validity comes from explicit definitions and triangulation across artefact classes. Interpretive validity comes from inference chains, rival explanations, peer challenge, and negative cases. Reliability is pursued through a frozen manual, corpus identifiers, coding decision logs, and versioned matrices - not through a claim of theory-free replication. Triangulation compares process, product, role/authorisation, and configuration representations. Divergence is data and receives a discrepancy memo.
 
 The audit trail comprises corpus register, immutable captures or locators, evidence log, coding matrix, codebook version, memo links, analytic displays, claim–evidence table, and manuscript commit history. A reader should be able to move from a manuscript claim back to evidence and forward from each evidence segment to its interpretations.
 

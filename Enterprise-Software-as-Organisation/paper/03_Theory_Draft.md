@@ -1,4 +1,4 @@
-# Theory — Working Draft
+# Theory  -  Working Draft
 
 ## Enterprise systems as organisational artefacts
 
@@ -18,7 +18,7 @@ Mintzberg's mechanisms address how differentiated work is brought into relation.
 
 Enterprise architecture can instantiate these mechanisms in combinations. A workflow may prescribe steps, route approval authority, and expose status. A validation may standardise work and exercise formal control. Software complicates direct supervision because approval authority is not necessarily hierarchical supervision. It also complicates mutual adjustment: an exception loop is not mutual adjustment unless actors can iteratively alter one another's inputs. These ambiguities are opportunities to test theory rather than reasons to force codes.
 
-Malone and Crowston's focus on dependencies and their management reinforces the relational unit. Okhuysen and Bechky's integrating conditions—accountability, predictability, and common understanding—help explain what mechanisms may accomplish. However, a reference artefact can encode a capacity for predictability without proving that actors experience common understanding.
+Malone and Crowston's focus on dependencies and their management reinforces the relational unit. Okhuysen and Bechky's integrating conditions - accountability, predictability, and common understanding - help explain what mechanisms may accomplish. However, a reference artefact can encode a capacity for predictability without proving that actors experience common understanding.
 
 ## Information processing
 

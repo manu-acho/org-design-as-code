@@ -18,7 +18,7 @@ The project has five objectives:
 4. Assess where encoded arrangements correspond to, combine, or depart from classical organisation theory.
 5. Develop a rigorous foundation for later research on Fit-to-Standard, implementation choices, cross-platform variation, and AI agents as organisational actors.
 
-Thompson's theory of interdependence, Galbraith's information-processing view, and Mintzberg's coordination mechanisms provide the main theoretical lenses. A candidate contribution is the concept of the **software organisational primitive**: a recurring construct—such as a role, workflow, status, rule, approval, block, access right, master-data object, or system event—that performs an identifiable organisational operation.
+Thompson's theory of interdependence, Galbraith's information-processing view, and Mintzberg's coordination mechanisms provide the main theoretical lenses. A candidate contribution is the concept of the **software organisational primitive**: a recurring construct - such as a role, workflow, status, rule, approval, block, access right, master-data object, or system event - that performs an identifiable organisational operation.
 
 ## Scope and analytical boundary
 
@@ -55,6 +55,12 @@ The first study provides the conceptual and methodological foundation for subseq
 
 See [12_Paper_Pipeline.md](12_Paper_Pipeline.md) for the provisional sequence, data requirements, and contribution of each paper.
 
+### Research monograph and course
+
+The programme also includes a provisional Springer research monograph and a postgraduate master course, **Enterprise Software as Organisation Design: Processes, Coordination and Digital Transformation**. Both reuse the verified literature and evidence infrastructure while serving different purposes. The book develops a cumulative argument. The course develops demonstrable student capability through aligned modules, cases, activities, and assessments.
+
+The postgraduate course is the source curriculum for controlled undergraduate and executive pathways. See the [book workspace](Enterprise-Software-as-Organisation/book/README.md) and [course workspace](Enterprise-Software-as-Organisation/course/README.md).
+
 ## Research workflow
 
 1. Freeze the target SAP release and exact solution-process scope.
@@ -78,6 +84,8 @@ Start with [06_Research_Protocol.md](06_Research_Protocol.md), use [07_Data_Coll
 | `literature/` | Reading list, source audits, detailed reviews, and note templates |
 | `memos/` | Analytical, theoretical, and methodological memo templates |
 | `paper/` | Working manuscript blueprint and section drafts |
+| `book/` | Research-monograph concept and proposal architecture |
+| `course/` | Postgraduate curriculum, pathway designs, modules, cases, exercises, and assessments |
 | `references/` | Working bibliography and verification notes |
 | `figures/` | Guidance and eventual analytical figure outputs |
 | `PROJECT_STATUS.md` | Authoritative record of completed and outstanding work |
@@ -91,8 +99,13 @@ No SAP corpus has yet been collected or coded, and no empirical findings are cla
 ## Research quality principles
 
 - Keep observation, interpretation, and theoretical inference separate.
+- Do not use em dashes in project prose.
+- Write for scholarly precision and teaching clarity: introduce the problem, define the concept, explain how authors connect, show its research use, and state its boundary.
+- Preserve substantive detail during readability revisions; relocate complexity when necessary, but do not silently delete it.
 - Preserve source version, provenance, and exact evidence location.
 - Distinguish template roles and capabilities from configured or exercised authority.
 - Require traceable evidence, a rival interpretation, and a stated scope for every retained claim.
 - Search for exceptions and negative cases rather than analysing only normative process flows.
 - Never convert a vendor representation into a claim about organisational outcomes without appropriate implementation or field evidence.
+
+See the [Scholarly Writing and Teaching Standard](literature/WRITING_STANDARD.md) for the project-wide approach to reviews, the consolidated literature review, and the book.

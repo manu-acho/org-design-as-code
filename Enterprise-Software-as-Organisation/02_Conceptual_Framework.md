@@ -14,7 +14,7 @@ flowchart TB
   B -. "Paper 1 boundary" .-> B
 ```
 
-The arrows represent translation, not deterministic causation. Implementation selects and changes reference elements; enactment may reproduce or depart from the configured arrangement. Documentary analysis is valid for B and provides propositions—not evidence—about C or D.
+The arrows represent translation, not deterministic causation. Implementation selects and changes reference elements; enactment may reproduce or depart from the configured arrangement. Documentary analysis is valid for B and provides propositions - not evidence - about C or D.
 
 ## Layered analytical model
 

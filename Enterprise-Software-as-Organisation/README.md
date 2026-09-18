@@ -18,7 +18,7 @@ The project has five objectives:
 4. Assess where encoded arrangements correspond to, combine, or depart from classical organisation theory.
 5. Develop a rigorous foundation for later research on Fit-to-Standard, implementation choices, cross-platform variation, and AI agents as organisational actors.
 
-Thompson's theory of interdependence, Galbraith's information-processing view, and Mintzberg's coordination mechanisms provide the main theoretical lenses. A candidate contribution is the concept of the **software organisational primitive**: a recurring construct—such as a role, workflow, status, rule, approval, block, access right, master-data object, or system event—that performs an identifiable organisational operation.
+Thompson's theory of interdependence, Galbraith's information-processing view, and Mintzberg's coordination mechanisms provide the main theoretical lenses. A candidate contribution is the concept of the **software organisational primitive**: a recurring construct - such as a role, workflow, status, rule, approval, block, access right, master-data object, or system event - that performs an identifiable organisational operation.
 
 ## Scope and analytical boundary
 
@@ -55,6 +55,18 @@ The first study provides the conceptual and methodological foundation for subseq
 
 See [12_Paper_Pipeline.md](12_Paper_Pipeline.md) for the provisional sequence, data requirements, and contribution of each paper.
 
+### Research monograph
+
+The programme now includes a provisional research monograph, **Enterprise Software as Organisation Design: Coordination, Processes and Transformation in SAP S/4HANA**. The book will integrate the theoretical framework, documentary method, end-to-end process analyses, comparative findings, and transformation implications for a broader academic and reflective-practitioner audience. It will share the verified literature and empirical evidence base but will not reproduce the dissertation or article manuscripts.
+
+The proposal is gated by empirical progress: it should not be submitted until the SAP scope is frozen, the pilot and codebook are accepted, at least one process analysis is complete, and the comparative promise is evidence-supported. See the [book workspace](book/README.md) and [book status](book/BOOK_STATUS.md).
+
+### Postgraduate course and derived pathways
+
+The programme now includes a postgraduate master course, **Enterprise Software as Organisation Design: Processes, Coordination and Digital Transformation**. The course converts verified theory, process learning, documentary method, and eventual empirical cases into a twelve-week curriculum with aligned learning outcomes, activities, and assessments.
+
+The postgraduate design is the source curriculum. Advanced undergraduate and executive pathways may be derived from it through controlled adaptations in depth, pacing, readings, activities, and assessment. Course content shares the project's literature, bibliography, SAP corpus, and evidence controls. No module or case may be designated teaching-ready until it passes the course's source, provenance, instructional-alignment, and inferential checks. See the [course workspace](course/README.md) and [course status](course/COURSE_STATUS.md).
+
 ## Research workflow
 
 1. Freeze the target SAP release and exact solution-process scope.
@@ -78,6 +90,8 @@ Start with [06_Research_Protocol.md](06_Research_Protocol.md), use [07_Data_Coll
 | `literature/` | Reading list, source audits, detailed reviews, and note templates |
 | `memos/` | Analytical, theoretical, and methodological memo templates |
 | `paper/` | Working manuscript blueprint and section drafts |
+| `book/` | Research-monograph concept, Springer proposal, market analysis, chapter architecture, and reuse controls |
+| `course/` | Postgraduate master curriculum, derived pathways, module scaffolds, cases, assessments, and teaching standards |
 | `references/` | Working bibliography and verification notes |
 | `figures/` | Guidance and eventual analytical figure outputs |
 | `SAP Learning/` | Cumulative E2E and SAP Activate lessons, source register, and research data-collection bridge |
@@ -91,6 +105,7 @@ No SAP corpus has yet been collected or coded, and no empirical findings are cla
 
 ## Research quality principles
 
+- Do not use em dashes in project prose. Use commas, colons, parentheses, or sentence breaks instead.
 - Keep observation, interpretation, and theoretical inference separate.
 - Preserve source version, provenance, and exact evidence location.
 - Distinguish template roles and capabilities from configured or exercised authority.
