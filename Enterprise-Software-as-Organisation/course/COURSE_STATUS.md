@@ -16,6 +16,7 @@
 - A four-part assessment pattern and core marking dimensions are defined.
 - A teaching and evidence standard governs sources, cases, examples, writing, and inference.
 - A module-to-literature crosswalk identifies which modules can start now, which require bounded drafts, and which remain gated by additional shared literature work or empirical evidence.
+- A serious-game concept memo records a future tabletop simulation companion, its theoretical mechanics, evidence rules, and deferred development gates.
 - Controlled folders and templates exist for modules, cases, exercises, assessments, instructor material, slides, reading packs, and derived pathways.
 
 ## In progress

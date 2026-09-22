@@ -29,6 +29,7 @@ An official reference artefact may support a teaching claim about encoded design
 | `04_Assessment_Strategy.md` | Assessment design, integrity rules, and grading logic |
 | `05_Teaching_and_Evidence_Standard.md` | Source, writing, case, and inferential requirements |
 | `06_Literature_Crosswalk.md` | Module readiness, shared literature gaps, and non-duplication workflow |
+| `07_Serious_Game_Concept_Memo.md` | Deferred course-companion simulation concept and development gates |
 | `COURSE_STATUS.md` | Completed work, development gates, and next actions |
 | `modules/` | Ten content modules that can be scheduled across twelve teaching weeks |
 | `cases/` | Verified process and architecture cases |
