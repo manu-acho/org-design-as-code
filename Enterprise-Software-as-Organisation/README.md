@@ -31,41 +31,83 @@ Documentary evidence can establish what the reference architecture represents or
 
 ## Intended deliverables
 
-### Paper 1: Software as Codified Organisation Design
+The programme is designed to produce a connected portfolio of scholarly, educational, and practitioner outputs from one verified literature and evidence base. These deliverables have different readiness gates and must not be treated as if they were all complete.
 
-The immediate deliverable is a journal-ready study comprising:
+| Deliverable family | Principal output | Current maturity |
+|---|---|---|
+| Scholarly foundation | Nine detailed literature streams, source assessments, shared bibliography, and consolidated review | Streams 1 to 3 complete; Streams 4 to 9 planned |
+| Empirical infrastructure | Release-controlled SAP corpus, evidence register, coding framework, analytical displays, and research memos | Designed but not yet populated |
+| Research papers | Paper 1 and a longer-term article programme | Paper 1 architecture drafted; empirical findings not yet available |
+| Research monograph | Springer-oriented research book integrating theory, method, process analysis, and transformation | Concept and proposal architecture established |
+| Academic course | Postgraduate master course with undergraduate and executive pathways | Curriculum architecture established; modules not yet teaching-ready |
+| SAP learning assets | Cumulative End-to-End Processes and SAP Activate lessons, sources, and research bridge | Active and progressively updated |
+| Serious game | Course-companion enterprise-design simulation | Concept memo only; intentionally deferred |
+
+### 1. Scholarly foundation
+
+The immediate theoretical programme is to complete nine non-duplicative literature streams:
+
+1. organisation design;
+2. coordination theory;
+3. decision theory;
+4. enterprise systems, implementation, and transformation;
+5. organisational routines;
+6. technology, materiality, and organisation;
+7. digital infrastructure, standards, and classification;
+8. governance, control, accountability, and decision rights;
+9. business-process management and process architecture.
+
+Each stream should produce a detailed review and source assessment. The streams will then support a consolidated literature review, theory-led book chapters, and theory-led course modules without duplicating literature work. See the [literature map](03_Literature_Map.md), [reading route](literature/Reading_List.md), and [writing standard](literature/WRITING_STANDARD.md).
+
+### 2. Empirical research infrastructure
+
+The empirical programme will produce:
 
 - a release-controlled corpus of official SAP reference artefacts;
 - an auditable evidence register and coded evidence set;
-- a validated two-stage coding framework linking software constructs to organisational mechanisms;
-- within-process dependency and mechanism maps for P2P, O2C, and R2R;
-- a cross-process comparison of coordination, governance, information-processing, and control arrangements;
-- an evaluated set of software organisational primitives, including counter-evidence and boundary conditions;
-- a claim–evidence–rival interpretation table with confidence judgements;
-- analytical figures, tables, research memos, and a complete manuscript.
+- a validated two-stage coding framework linking software constructs with organisational mechanisms;
+- within-process maps for P2P, O2C, and R2R;
+- cross-process comparisons of coordination, governance, information, decision, and control arrangements;
+- negative-case and rival-interpretation records;
+- claim-evidence-rival tables with confidence judgements;
+- analytical figures, tables, and research memos.
 
-### Longer-term research programme
+These outputs remain gated by the SAP release freeze, exact process scope, corpus registration, and codebook pilot.
 
-The first study provides the conceptual and methodological foundation for subsequent work on:
+### 3. Research papers
 
-1. Fit-to-Standard as organisational design negotiation.
-2. Cloud ERP configuration as bounded organisational discretion.
-3. Comparative organisational logics across enterprise-software platforms.
+The immediate paper is **Software as Codified Organisation Design**. It will develop and evaluate a documentary method for reconstructing the organisational logic represented in enterprise-software reference architecture. It will also assess the candidate concept of the software organisational primitive.
+
+The longer-term paper programme addresses:
+
+1. Fit-to-Standard as organisational design negotiation;
+2. cloud ERP configuration as bounded organisational discretion;
+3. comparative organisational logics across enterprise-software platforms;
 4. AI agents as coordination, delegation, and governance actors.
 
-See [12_Paper_Pipeline.md](12_Paper_Pipeline.md) for the provisional sequence, data requirements, and contribution of each paper.
+See the [paper pipeline](12_Paper_Pipeline.md) and [paper blueprint](paper/00_Paper_Blueprint.md).
 
-### Research monograph
+### 4. Research monograph
 
-The programme now includes a provisional research monograph, **Enterprise Software as Organisation Design: Coordination, Processes and Transformation in SAP S/4HANA**. The book will integrate the theoretical framework, documentary method, end-to-end process analyses, comparative findings, and transformation implications for a broader academic and reflective-practitioner audience. It will share the verified literature and empirical evidence base but will not reproduce the dissertation or article manuscripts.
+The provisional monograph is **Enterprise Software as Organisation Design: Coordination, Processes and Transformation in SAP S/4HANA**. It will integrate the theoretical framework, documentary method, end-to-end process analyses, comparative findings, and transformation implications for academic and reflective-practitioner audiences.
 
-The proposal is gated by empirical progress: it should not be submitted until the SAP scope is frozen, the pilot and codebook are accepted, at least one process analysis is complete, and the comparative promise is evidence-supported. See the [book workspace](book/README.md) and [book status](book/BOOK_STATUS.md).
+The book will share the verified literature and evidence base without reproducing the paper manuscripts. Theory-led chapters may be developed after the nine streams are complete. Empirical chapters remain conditional on the corpus and analysis. A proposal should not be submitted until the empirical gate recorded in the book workspace is satisfied. See the [book workspace](book/README.md) and [book status](book/BOOK_STATUS.md).
 
-### Postgraduate course and derived pathways
+### 5. Academic course and pathways
 
-The programme now includes a postgraduate master course, **Enterprise Software as Organisation Design: Processes, Coordination and Digital Transformation**. The course converts verified theory, process learning, documentary method, and eventual empirical cases into a twelve-week curriculum with aligned learning outcomes, activities, and assessments.
+The postgraduate master course is **Enterprise Software as Organisation Design: Processes, Coordination and Digital Transformation**. It converts verified theory, process knowledge, documentary method, and eventual empirical cases into a twelve-week curriculum with aligned outcomes, activities, and assessments.
 
-The postgraduate design is the source curriculum. Advanced undergraduate and executive pathways may be derived from it through controlled adaptations in depth, pacing, readings, activities, and assessment. Course content shares the project's literature, bibliography, SAP corpus, and evidence controls. No module or case may be designated teaching-ready until it passes the course's source, provenance, instructional-alignment, and inferential checks. See the [course workspace](course/README.md) and [course status](course/COURSE_STATUS.md).
+The postgraduate design is the source curriculum. Advanced undergraduate and executive pathways will be derived through controlled changes in depth, pacing, readings, activities, and assessment. Theory-led modules can be developed from completed literature streams. SAP teaching cases remain gated by controlled empirical evidence. See the [course workspace](course/README.md), [literature crosswalk](course/06_Literature_Crosswalk.md), and [course status](course/COURSE_STATUS.md).
+
+### 6. SAP learning and professional knowledge assets
+
+The SAP Learning workspace will continue to consolidate End-to-End Business Processes and SAP Activate study material. Its outputs include cumulative lessons, a source register, a research-resource map, and a bridge from certification learning to controlled data collection. Certification notes support learning and source discovery but do not replace verified scholarly or empirical evidence. See [SAP Learning](SAP%20Learning/README.md).
+
+### 7. Serious game companion
+
+The deferred **Enterprise Design Lab: The Organisation Behind the System** concept may eventually accompany the course. The proposed tabletop simulation would allow participants to experience trade-offs among standardisation, coordination, authority, discretion, control, exception handling, and resilience.
+
+Active development will begin only after the nine literature streams and initial theory-led modules are complete. SAP-specific scenarios will require controlled corpus evidence and permissions review. See the [serious game concept memo](course/07_Serious_Game_Concept_Memo.md).
 
 ## Research workflow
 

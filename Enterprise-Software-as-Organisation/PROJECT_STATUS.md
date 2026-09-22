@@ -1,6 +1,6 @@
 # Project Status
 
-**Status date:** 18 September 2026
+**Status date:** 22 September 2026
 **Current stage:** Research design and corpus-readiness  
 **Immediate milestone:** Freeze the SAP release and process scope, then complete the pilot corpus and codebook pilot.
 

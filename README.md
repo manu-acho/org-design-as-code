@@ -31,35 +31,19 @@ Documentary evidence can establish what the reference architecture represents or
 
 ## Intended deliverables
 
-### Paper 1: Software as Codified Organisation Design
+The project will produce a connected portfolio from one verified literature and evidence base:
 
-The immediate deliverable is a journal-ready study comprising:
+1. **Scholarly foundation:** nine detailed literature streams, source assessments, a shared bibliography, and a consolidated review.
+2. **Empirical infrastructure:** a release-controlled SAP corpus, evidence register, coding framework, analytical displays, and research memos.
+3. **Research papers:** Paper 1 on software as codified organisation design, followed by studies of Fit-to-Standard, configuration, platform comparison, and AI agents.
+4. **Research monograph:** **Enterprise Software as Organisation Design: Coordination, Processes and Transformation in SAP S/4HANA**.
+5. **Academic course:** a postgraduate master course with controlled undergraduate and executive pathways.
+6. **SAP learning assets:** cumulative End-to-End Processes and SAP Activate lessons, sources, and a research data-collection bridge.
+7. **Serious game companion:** the deferred **Enterprise Design Lab** tabletop simulation concept.
 
-- a release-controlled corpus of official SAP reference artefacts;
-- an auditable evidence register and coded evidence set;
-- a validated two-stage coding framework linking software constructs to organisational mechanisms;
-- within-process dependency and mechanism maps for P2P, O2C, and R2R;
-- a cross-process comparison of coordination, governance, information-processing, and control arrangements;
-- an evaluated set of software organisational primitives, including counter-evidence and boundary conditions;
-- a claim–evidence–rival interpretation table with confidence judgements;
-- analytical figures, tables, research memos, and a complete manuscript.
+The deliverables have different readiness gates. Theory-led outputs depend on the nine literature streams. Empirical papers, book chapters, and teaching cases depend on a frozen SAP scope, registered corpus, and validated coding. The serious game remains deferred until the literature and initial course modules are complete.
 
-### Longer-term research programme
-
-The first study provides the conceptual and methodological foundation for subsequent work on:
-
-1. Fit-to-Standard as organisational design negotiation.
-2. Cloud ERP configuration as bounded organisational discretion.
-3. Comparative organisational logics across enterprise-software platforms.
-4. AI agents as coordination, delegation, and governance actors.
-
-See [12_Paper_Pipeline.md](12_Paper_Pipeline.md) for the provisional sequence, data requirements, and contribution of each paper.
-
-### Research monograph and course
-
-The programme also includes a provisional Springer research monograph and a postgraduate master course, **Enterprise Software as Organisation Design: Processes, Coordination and Digital Transformation**. Both reuse the verified literature and evidence infrastructure while serving different purposes. The book develops a cumulative argument. The course develops demonstrable student capability through aligned modules, cases, activities, and assessments.
-
-The postgraduate course is the source curriculum for controlled undergraduate and executive pathways. See the [book workspace](Enterprise-Software-as-Organisation/book/README.md) and [course workspace](Enterprise-Software-as-Organisation/course/README.md).
+See the detailed [project README](Enterprise-Software-as-Organisation/README.md), [project status](Enterprise-Software-as-Organisation/PROJECT_STATUS.md), [book workspace](Enterprise-Software-as-Organisation/book/README.md), and [course workspace](Enterprise-Software-as-Organisation/course/README.md).
 
 ## Research workflow
 
