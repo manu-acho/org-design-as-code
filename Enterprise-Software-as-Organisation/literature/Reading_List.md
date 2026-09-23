@@ -17,7 +17,7 @@
 
 ## Phenomenon and boundary literatures
 
-10. Davenport (1998); Markus and Tanis (2000); Soh, Kien and Tay-Yap (2000); Boudreau and Robey (2005). Output: enterprise-systems gap memo.
+10. Davenport (1998); Markus and Tanis (2000); Soh, Kien and Tay-Yap (2000); Brehm, Heinzl, and Markus (2001); Hong and Kim (2002); Robey, Ross, and Boudreau (2002); Pollock, Procter, and Williams (2003); Kallinikos (2004); Boudreau and Robey (2005); Gattiker and Goodhue (2005); Volkoff, Strong, and Elmes (2005); Strong and Volkoff (2010); Shang and Seddon (2002); Peng and Gala (2014); Bjelland and Haddara (2018); Singh and Pekkola (2021). Output: enterprise-systems gap, lifecycle, fit, adaptation, tailoring, cloud evolution, and evidence-transition memo. See the completed [Stream Four detailed review](Stream_04_Enterprise_Systems_Implementation_Transformation_Detailed_Review.md) and [source assessment](Stream_04_Source_Assessment.md).
 11. Orlikowski (1992; 2000); Leonardi (2011); Feldman and Pentland (2003). Output: encoded/implemented/enacted boundary memo.
 12. Star and Ruhleder (1996); Bowker and Star (1999); Hanseth and Lyytinen (2010); Tilson, Lyytinen and Sørensen (2010). Output: infrastructure/classification boundary memo.
 

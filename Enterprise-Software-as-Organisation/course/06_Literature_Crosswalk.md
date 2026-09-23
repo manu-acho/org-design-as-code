@@ -16,7 +16,7 @@ The course requires three source families that must remain separate:
 
 | Module | Shared literature base | Current sufficiency | Course development decision | Additional work required |
 |---|---|---|---|---|
-| 1. Enterprise Software and Organisation | Enterprise systems; routines; technology and organisation; digital infrastructure | Sufficient for a first student lesson, but not yet consolidated into dedicated detailed reviews | Start now with bounded introductory content | Later produce shared reviews of enterprise systems and the encoded-implemented-enacted boundary literatures |
+| 1. Enterprise Software and Organisation | Completed Stream 4; routines; technology and organisation; digital infrastructure | Enterprise-systems foundation is complete; boundary literatures remain pending | Develop the enterprise-systems content now | Add Streams 5 to 7 before finalising the encoded-implemented-enacted treatment |
 | 2. End-to-End Processes | SAP Learning material; enterprise systems | Insufficient as an academic treatment of process concepts and representations | Develop orientation content only | Add a business-process management and process-architecture stream before finalising the scholarly lesson and reading pack |
 | 3. Organisation Design | Completed Stream 1 | Sufficient for full content development | Start now | Verify assigned editions and page-specific readings |
 | 4. Coordination and Interdependence | Completed Stream 2 | Sufficient for full content development | Start now | Select student readings and verify any page-specific claims |
@@ -24,7 +24,7 @@ The course requires three source families that must remain separate:
 | 6. Knowledge Boundaries | Stream 2; Bechky, Carlile, Faraj, and Gittell material | Sufficient for full content development | Start now | Build a cross-functional object exercise after controlled evidence becomes available |
 | 7. Decision Theory | Completed Stream 3 | Sufficient for full content development | Start now | Verify assigned editions and page-specific readings |
 | 8. Governance and Control | Ouchi and Eisenhardt in the map; adjacent decision material | Insufficient for a full postgraduate module | Outline only | Develop a dedicated governance, control, accountability, and decision-rights review |
-| 9. SAP Activate and Transformation | SAP Activate lesson; enterprise-systems foundation | Sufficient for process orientation, insufficient for a complete academic module | Develop the Activate orientation, but defer full scholarly completion | Consolidate packaged-software implementation, adaptation, standardisation, Fit-to-Standard, and digital-transformation scholarship |
+| 9. SAP Activate and Transformation | SAP Activate lesson; completed Stream 4 | Sufficient for a bounded academic treatment, with an explicit cloud ERP evidence gap | Develop the module while preserving the vendor-evidence boundary | Maintain a literature watch for independent public-cloud ERP and Fit-to-Standard studies |
 | 10. Comparative Process Analysis | Analytical framework and coding manual | The method is available, but empirical teaching cases are not | Develop method instruction only | Wait for release-controlled P2P, O2C, and R2R evidence before building comparative cases |
 
 ## Relationship to the nine-stream literature map
@@ -47,8 +47,10 @@ The authoritative programme therefore contains nine substantive streams.
 2. **Expanded Stream 8: Governance, organisational control, accountability, and decision rights**  
    Needed for Module 8 and for the research coding framework. The existing Ouchi and Eisenhardt foundation is too narrow for a full module. The review must distinguish behaviour and output control, monitoring, standards, intervention, consequences, decision rights, answerability, traceability, and legitimacy.
 
-3. **Expanded Stream 4: Enterprise systems, implementation, and transformation**  
-   Needed for Modules 1 and 9, the book, and later papers. Existing enterprise-systems sources establish integration, lifecycle, misfit, adaptation, and improvisation, but they need a dedicated synthesis addressing configuration, standardisation, local variation, implementation choices, and the limits of Fit-to-Standard claims.
+### Completed expansion
+
+**Expanded Stream 4: Enterprise systems, implementation, and transformation**
+Completed for Modules 1 and 9, the book, and later papers. The detailed review now covers integration, lifecycle, multidimensional fit, learning, adaptation, configuration, customisation, outcomes, and the limits of Fit-to-Standard claims. Independent evidence on contemporary public-cloud ERP remains limited and requires continuing retrieval rather than unsupported inference.
 
 ### Priority B: valuable consolidation, but current teaching can begin
 

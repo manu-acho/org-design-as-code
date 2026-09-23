@@ -35,7 +35,7 @@ The programme is designed to produce a connected portfolio of scholarly, educati
 
 | Deliverable family | Principal output | Current maturity |
 |---|---|---|
-| Scholarly foundation | Nine detailed literature streams, source assessments, shared bibliography, and consolidated review | Streams 1 to 3 complete; Streams 4 to 9 planned |
+| Scholarly foundation | Nine detailed literature streams, source assessments, shared bibliography, and consolidated review | Streams 1 to 4 complete; Streams 5 to 9 planned |
 | Empirical infrastructure | Release-controlled SAP corpus, evidence register, coding framework, analytical displays, and research memos | Designed but not yet populated |
 | Research papers | Paper 1 and a longer-term article programme | Paper 1 architecture drafted; empirical findings not yet available |
 | Research monograph | Springer-oriented research book integrating theory, method, process analysis, and transformation | Concept and proposal architecture established |

@@ -25,7 +25,7 @@ The streams are connected but not amalgamated. Each must state the problem it ex
 | 1 | Organisation design | Complete | Complete | Maintain and verify assigned editions |
 | 2 | Coordination theory | Complete | Complete | Maintain and verify assigned editions |
 | 3 | Decision theory | Complete | Complete | Maintain and verify assigned editions |
-| 4 | Enterprise systems, implementation, and transformation | Not yet complete | Not yet complete | Consolidate mapped sources and extend the implementation and transformation coverage |
+| 4 | Enterprise systems, implementation, and transformation | Complete | Complete | Retrieve outstanding full texts and maintain the cloud ERP evidence watch |
 | 5 | Organisational routines | Not yet complete | Not yet complete | Develop detailed review and source assessment |
 | 6 | Technology, materiality, and organisation | Not yet complete | Not yet complete | Develop detailed review and source assessment |
 | 7 | Digital infrastructure, standards, and classification | Not yet complete | Not yet complete | Develop detailed review and source assessment |
@@ -62,16 +62,17 @@ The coordination stream is developed in [Stream Two: Coordination Theory, Detail
 
 The decision-theory stream is developed in [Stream Three: Decision Theory, Detailed Literature Review](literature/Stream_03_Decision_Theory_Detailed_Review.md). Its [source assessment](literature/Stream_03_Decision_Theory_Source_Assessment.md) rebuilds the evidence base around Simon, March and Simon, and later extensions. It separates decision premises, programmes, authority, permissions, discretion, automation, traceability, and accountability.
 
+The enterprise-systems stream is developed in [Stream Four: Enterprise Systems, Implementation, and Transformation](literature/Stream_04_Enterprise_Systems_Implementation_Transformation_Detailed_Review.md). Its [source assessment](literature/Stream_04_Source_Assessment.md) separates package architecture, implementation choice, configured arrangements, enacted use, and organisational outcomes. It also records the limited independent evidence currently available for public-cloud ERP and Fit-to-Standard claims.
+
 ## Priority reading route
 
-Streams 1 to 3 provide the completed foundation. The remaining reviews should be developed in this order:
+Streams 1 to 4 provide the completed foundation. The remaining reviews should be developed in this order:
 
-1. Stream 4, because enterprise systems, implementation, and transformation establish the phenomenon and connect the architecture with later organisational choices.
-2. Stream 5, because routines establish why a documented process cannot stand for recurrent performance.
-3. Stream 6, because technology, materiality, and organisation provide the main corrective to deterministic inference.
-4. Stream 7, because infrastructure, standards, and classification extend the analysis across systems, organisations, and time.
-5. Stream 8, because governance and control build on distinctions already stabilised in organisation design, coordination, and decision theory.
-6. Stream 9, because business-process management supplies the process-representation vocabulary needed for the course, book, method, and empirical analysis.
+1. Stream 5, because routines establish why a documented process cannot stand for recurrent performance.
+2. Stream 6, because technology, materiality, and organisation provide the main corrective to deterministic inference.
+3. Stream 7, because infrastructure, standards, and classification extend the analysis across systems, organisations, and time.
+4. Stream 8, because governance and control build on distinctions already stabilised in organisation design, coordination, and decision theory.
+5. Stream 9, because business-process management supplies the process-representation vocabulary needed for the course, book, method, and empirical analysis.
 
 This order is a production sequence rather than a hierarchy of theoretical importance. Sources may be collected in parallel, but each stream should receive its own detailed review and source assessment before cross-stream consolidation.
 
