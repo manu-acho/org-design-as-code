@@ -1,6 +1,6 @@
 # Project Status
 
-**Status date:** 23 September 2026
+**Status date:** 19 October 2026
 **Current stage:** Research design and corpus-readiness  
 **Immediate milestone:** Freeze the SAP release and process scope, then complete the pilot corpus and codebook pilot.
 
@@ -40,10 +40,11 @@ The project has a coherent conceptual, methodological, and manuscript architectu
 - Working drafts exist for the abstract, introduction, theory, method, and conclusion.
 - Findings and discussion files are deliberately conditional structures, not statements of empirical results.
 - The repository README now documents the project objectives, scope, deliverables, workflow, and research-quality principles.
-- A SAP Learning workspace now consolidates the current End-to-End Business Processes and SAP Activate notes, records linked sources and access limitations, and maps certification material to a controlled empirical data-collection route.
+- A private process knowledge base consolidates End-to-End Business Processes and SAP Activate notes, records linked sources and access limitations, and supports controlled empirical preparation without forming part of the public research record.
 - A separate book workspace now defines the proposed Springer research monograph, provisional chapter architecture, audience and market position, initial competing-title assessment, reuse controls, and evidence-based proposal gate.
 - A dedicated course workspace now defines a postgraduate master course, twelve programme learning outcomes, a twelve-week curriculum, an aligned assessment strategy, ten module scaffolds, teaching and evidence controls, content templates, and governed undergraduate and executive pathways. No module or SAP case is yet represented as teaching-ready.
 - The authoritative literature map now contains nine non-duplicative streams. The former enterprise-systems stream is expanded to implementation and transformation, the governance stream is expanded to accountability and decision rights, and business-process management and process architecture is added as Stream 9. The course crosswalk links every module to this shared structure and separates substantive scholarship, SAP case evidence, and course-only teaching-design literature.
+- A separate Kering upstream supply-network governance workstream now has a provisional research design, contextual-literature architecture, evidence protocol, ethics and access controls, blank workstream registers, and its own status gates. It reuses the nine shared streams without creating a tenth foundational stream or mixing Kering evidence with the SAP corpus.
 
 ## Work in progress
 
@@ -63,6 +64,7 @@ The project has a coherent conceptual, methodological, and manuscript architectu
 - No within-process mechanism maps, cross-process comparisons, negative-case results, or confidence judgements exist.
 - Manuscript corpus counts and evidence counts remain explicit placeholders.
 - No empirical figures or tables have been produced.
+- The Kering workstream remains at feasibility stage: its boundaries are not frozen, no sources have been registered or coded, no access has been obtained, and no findings exist.
 
 ## Claims that must not yet be made
 
@@ -74,7 +76,7 @@ Do not claim that SAP improves coordination, produces centralisation or standard
 2. Complete the core bibliography and literature-matrix verification for Thompson, Galbraith, Mintzberg, and the principal organisation-design sources.
 3. Build a pilot corpus containing the structural/IAM materials and at least two complementary official artefacts for each process domain, using the corpus register and immutable capture rules.
 4. Pilot descriptive and theoretical coding, document ambiguities and disagreements, revise the manual, and release codebook version 1.0.
-5. Produce one evidence-backed dependency/mechanism map per process and an initial claim–evidence–rival table before drafting empirical findings.
+5. Produce one evidence-backed dependency/mechanism map per process and an initial claim-evidence-rival table before drafting empirical findings.
 
 Book-development work should remain secondary to these five actions until the empirical pilot is complete. After that gate, reassess the chapter architecture, prepare one sample chapter, and develop a submission-ready Springer proposal.
 

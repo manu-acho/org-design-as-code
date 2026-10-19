@@ -2,7 +2,7 @@
 
 This repository is the research environment for a programme examining enterprise software as a form of codified organisation design. Rather than beginning with what happens after a system is implemented, the project asks what model of organisation is already represented in an enterprise-software reference architecture: how work is divided, dependencies are coordinated, decisions are allocated, information is made visible, and behaviour is constrained or enabled.
 
-SAP S/4HANA Cloud Public Edition is the instrumental case. The initial empirical study focuses on Procure-to-Pay (P2P), Order-to-Cash (O2C), and Record-to-Report (R2R), using release-controlled official reference artefacts.
+SAP S/4HANA Cloud Public Edition is the instrumental case for the first empirical study. That study focuses on Procure-to-Pay (P2P), Order-to-Cash (O2C), and Record-to-Report (R2R), using release-controlled official reference artefacts. A separately governed Kering workstream is at feasibility stage and explores how digital, contractual, and procedural interfaces encode governance across a multi-tier artisan supply network.
 
 ## Research objective
 
@@ -37,10 +37,11 @@ The programme is designed to produce a connected portfolio of scholarly, educati
 |---|---|---|
 | Scholarly foundation | Nine detailed literature streams, source assessments, shared bibliography, and consolidated review | Streams 1 to 4 complete; Streams 5 to 9 planned |
 | Empirical infrastructure | Release-controlled SAP corpus, evidence register, coding framework, analytical displays, and research memos | Designed but not yet populated |
+| Inter-organisational application | Kering upstream supply-network governance study with its own contextual literature, evidence protocol, and access gates | Concept and feasibility architecture established |
 | Research papers | Paper 1 and a longer-term article programme | Paper 1 architecture drafted; empirical findings not yet available |
 | Research monograph | Springer-oriented research book integrating theory, method, process analysis, and transformation | Concept and proposal architecture established |
 | Academic course | Postgraduate master course with undergraduate and executive pathways | Curriculum architecture established; modules not yet teaching-ready |
-| SAP learning assets | Cumulative End-to-End Processes and SAP Activate lessons, sources, and research bridge | Active and progressively updated |
+| Process knowledge base | Private technical and professional-learning material supporting process orientation and source discovery | Maintained outside the public repository |
 | Serious game | Course-companion enterprise-design simulation | Concept memo only; intentionally deferred |
 
 ### 1. Scholarly foundation
@@ -99,9 +100,9 @@ The postgraduate master course is **Enterprise Software as Organisation Design: 
 
 The postgraduate design is the source curriculum. Advanced undergraduate and executive pathways will be derived through controlled changes in depth, pacing, readings, activities, and assessment. Theory-led modules can be developed from completed literature streams. SAP teaching cases remain gated by controlled empirical evidence. See the [course workspace](course/README.md), [literature crosswalk](course/06_Literature_Crosswalk.md), and [course status](course/COURSE_STATUS.md).
 
-### 6. SAP learning and professional knowledge assets
+### 6. Process knowledge base
 
-The SAP Learning workspace will continue to consolidate End-to-End Business Processes and SAP Activate study material. Its outputs include cumulative lessons, a source register, a research-resource map, and a bridge from certification learning to controlled data collection. Certification notes support learning and source discovery but do not replace verified scholarly or empirical evidence. See [SAP Learning](SAP%20Learning/README.md).
+A private process knowledge base consolidates End-to-End Business Processes and SAP Activate study material. It supports orientation, source discovery, and later teaching development, but it is not part of the public research record. Certification notes do not replace verified scholarly or empirical evidence. Any claim transferred into the public repository must be independently verified and cited to an appropriate public or controlled research source.
 
 ### 7. Serious game companion
 
@@ -134,16 +135,16 @@ Start with [06_Research_Protocol.md](06_Research_Protocol.md), use [07_Data_Coll
 | `paper/` | Working manuscript blueprint and section drafts |
 | `book/` | Research-monograph concept, Springer proposal, market analysis, chapter architecture, and reuse controls |
 | `course/` | Postgraduate master curriculum, derived pathways, module scaffolds, cases, assessments, and teaching standards |
+| `workstreams/` | Separately governed empirical applications that reuse the shared theory without mixing corpora or evidence claims |
 | `references/` | Working bibliography and verification notes |
 | `figures/` | Guidance and eventual analytical figure outputs |
-| `SAP Learning/` | Cumulative E2E and SAP Activate lessons, source register, and research data-collection bridge |
 | `PROJECT_STATUS.md` | Authoritative record of completed and outstanding work |
 
 ## Current status
 
 The project is at **research-design and corpus-readiness**. The conceptual framework, research and collection protocols, coding manual, analytical framework, manuscript architecture, templates, and execution plan are in place.
 
-No SAP corpus has yet been collected or coded, and no empirical findings are claimed. The next milestone is to freeze the target SAP release and process IDs, verify the core bibliography, and build the pilot corpus. For the current completion boundary and next actions, see [PROJECT_STATUS.md](PROJECT_STATUS.md).
+No SAP or Kering corpus has yet been collected or coded, and no empirical findings are claimed. The next main-project milestone is to freeze the target SAP release and process IDs, verify the core bibliography, and build the pilot corpus. The Kering workstream remains at bounded feasibility stage. For the current completion boundary and next actions, see [PROJECT_STATUS.md](PROJECT_STATUS.md) and [Kering workstream status](workstreams/kering-supply-network-governance/KERING_STATUS.md).
 
 ## Research quality principles
 

@@ -46,7 +46,7 @@ The course must reuse, rather than duplicate:
 
 - the bibliography in `../references/`;
 - source assessments and scholarly reviews in `../literature/`;
-- certification learning and source records in `../SAP Learning/`;
+- the private process knowledge base, consulted as an internal orientation source and not published as part of the course repository;
 - the controlled SAP corpus and evidence registers in `../data/`;
 - research boundaries and coding rules in `../06_Research_Protocol.md`, `../07_Data_Collection_Protocol.md`, and `../08_Coding_Manual.md`;
 - the scholarly writing requirements in `../literature/WRITING_STANDARD.md`.

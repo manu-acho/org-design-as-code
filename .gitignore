@@ -1,7 +1,42 @@
 /Big6_Longitudinal_Research_Project_Master_Prompt.md
 /.private-applications/
 /.private-prototypes/
-/output/pdf/bolter/
+/.private-course-partnerships/
+/.private-*/
+
+# Internal study and professional-development material
+/Enterprise-Software-as-Organisation/SAP Learning/
+
+# Private partner-development and collaboration material
+/Enterprise-Software-as-Organisation/workstreams/kering-supply-network-governance/foundation-study/
+/Enterprise-Software-as-Organisation/workstreams/kering-supply-network-governance/02_Integrated_Programme_Architecture.md
+/Enterprise-Software-as-Organisation/book/proposal/correspondence/
+/Enterprise-Software-as-Organisation/book/proposal/submissions/
+
+# Raw, identifiable, confidential, or access-controlled research material
+/Enterprise-Software-as-Organisation/data/raw/
+/Enterprise-Software-as-Organisation/data/interviews/
+/Enterprise-Software-as-Organisation/data/consent/
+/Enterprise-Software-as-Organisation/source-materials/
+/Enterprise-Software-as-Organisation/attachments/
 /.source-reviews/
 **/*[Ll]eap[Ss]pace*.pdf
 **/*[Ss]ci[Ss]pace*.pdf
+/Enterprise-Software-as-Organisation/workstreams/*/private/
+/Enterprise-Software-as-Organisation/workstreams/*/data/raw/
+/Enterprise-Software-as-Organisation/workstreams/*/data/interviews/
+/Enterprise-Software-as-Organisation/workstreams/*/data/consent/
+
+# Generated and temporary files
+/output/
+/tmp/
+**/.DS_Store
+**/~$*
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+**/*.pem
+**/*.key
+**/credentials*.json

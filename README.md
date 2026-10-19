@@ -2,7 +2,7 @@
 
 This repository is the research environment for a programme examining enterprise software as a form of codified organisation design. Rather than beginning with what happens after a system is implemented, the project asks what model of organisation is already represented in an enterprise-software reference architecture: how work is divided, dependencies are coordinated, decisions are allocated, information is made visible, and behaviour is constrained or enabled.
 
-SAP S/4HANA Cloud Public Edition is the instrumental case. The initial empirical study focuses on Procure-to-Pay (P2P), Order-to-Cash (O2C), and Record-to-Report (R2R), using release-controlled official reference artefacts.
+SAP S/4HANA Cloud Public Edition is the instrumental case for the initial empirical study. That study focuses on Procure-to-Pay (P2P), Order-to-Cash (O2C), and Record-to-Report (R2R), using release-controlled official reference artefacts. A separately governed Kering workstream is at feasibility stage and extends the programme toward inter-organisational governance across a multi-tier artisan supply network.
 
 ## Research objective
 
@@ -38,12 +38,19 @@ The project will produce a connected portfolio from one verified literature and 
 3. **Research papers:** Paper 1 on software as codified organisation design, followed by studies of Fit-to-Standard, configuration, platform comparison, and AI agents.
 4. **Research monograph:** **Enterprise Software as Organisation Design: Coordination, Processes and Transformation in SAP S/4HANA**.
 5. **Academic course:** a postgraduate master course with controlled undergraduate and executive pathways.
-6. **SAP learning assets:** cumulative End-to-End Processes and SAP Activate lessons, sources, and a research data-collection bridge.
+6. **Process knowledge base:** a privately maintained technical and professional-learning resource that supports source discovery, process orientation, and later teaching development.
 7. **Serious game companion:** the deferred **Enterprise Design Lab** tabletop simulation concept.
+8. **Inter-organisational application:** a proposed Kering upstream supply-network governance study, kept separate from the SAP corpus and supported by a bounded contextual literature review.
 
-The deliverables have different readiness gates. Theory-led outputs depend on the nine literature streams. Empirical papers, book chapters, and teaching cases depend on a frozen SAP scope, registered corpus, and validated coding. The serious game remains deferred until the literature and initial course modules are complete.
+The deliverables have different readiness gates. Theory-led outputs depend on the nine literature streams. SAP empirical papers, book chapters, and teaching cases depend on a frozen SAP scope, registered corpus, and validated coding. Any Kering output depends on that workstream's separate feasibility, evidence, access, and ethics gates. The serious game remains deferred until the literature and initial course modules are complete.
 
 See the detailed [project README](Enterprise-Software-as-Organisation/README.md), [project status](Enterprise-Software-as-Organisation/PROJECT_STATUS.md), [book workspace](Enterprise-Software-as-Organisation/book/README.md), and [course workspace](Enterprise-Software-as-Organisation/course/README.md).
+
+The [empirical workstreams](Enterprise-Software-as-Organisation/workstreams/README.md) directory governs additional cases without duplicating the shared nine-stream literature or mixing evidence between cases.
+
+## Public repository boundary
+
+This repository is the public research interface. It includes research questions, theoretical synthesis, protocols, evidence templates, public workstream designs, and output architecture. It excludes private study notes, application dossiers, partner-facing proposals, correspondence, raw source-review exports, participant material, confidential evidence, credentials, and temporary or generated working files. Excluded material may inform later public outputs only after verification, ethical review where required, and deliberate publication.
 
 ## Research workflow
 
@@ -70,6 +77,7 @@ Start with [06_Research_Protocol.md](06_Research_Protocol.md), use [07_Data_Coll
 | `paper/` | Working manuscript blueprint and section drafts |
 | `book/` | Research-monograph concept and proposal architecture |
 | `course/` | Postgraduate curriculum, pathway designs, modules, cases, exercises, and assessments |
+| `workstreams/` | Separately governed empirical applications with their own case literature, evidence, ethics, and status controls |
 | `references/` | Working bibliography and verification notes |
 | `figures/` | Guidance and eventual analytical figure outputs |
 | `PROJECT_STATUS.md` | Authoritative record of completed and outstanding work |

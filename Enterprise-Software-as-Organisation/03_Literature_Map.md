@@ -50,6 +50,14 @@ Teaching-design literature on constructive alignment, cases, assessment, accessi
 
 The operational module-by-module status and non-duplication workflow are maintained in the [Course Literature Crosswalk](course/06_Literature_Crosswalk.md).
 
+## Context-specific literature for empirical workstreams
+
+The nine streams are the programme's shared theoretical foundation. Empirical workstreams may require bounded industry, regulatory, organisational-field, or case literature that does not warrant another foundational stream.
+
+The Kering upstream supply-network governance workstream therefore maintains a separate [context-specific literature map](workstreams/kering-supply-network-governance/context-literature/README.md). It reuses the nine streams and adds five bounded domain clusters: firm boundaries and selective integration; global value chains, network governance, and industrial districts; responsible supply-chain and due-diligence governance; inter-organisational information systems and traceability; and luxury, craftsmanship, resilience, and supplier ecosystems.
+
+Sources discovered through an empirical workstream should enter the shared bibliography or a shared stream only when they make a general theoretical contribution to the programme. Case application alone is not sufficient. This rule prevents parallel reviews and preserves one authoritative theoretical base.
+
 ## Conceptual overlaps and disciplined separations
 
 Standardisation of work may be both a Mintzbergian coordination mechanism and an Ouchian behaviour control. Coding may record both, but analysis must state which question each answers. A shared master-data object may coordinate pooled activity and provide information-processing capacity; it is not automatically a governance mechanism. Access restrictions govern visibility and action but do not demonstrate accountability unless consequences or answerability are documented.

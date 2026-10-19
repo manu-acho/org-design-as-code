@@ -20,8 +20,7 @@ Students should be able to:
 
 ## Core source route
 
-- `../../../SAP Learning/01 Implementing End to End Business Processes Lesson.md`
-- `../../../SAP Learning/03 Research Resource and Data Collection Map.md`
+- private verified process-orientation material maintained outside the public repository
 - `../../../05_SAP_Knowledge_Map.md`
 - `../../../07_Data_Collection_Protocol.md`
 

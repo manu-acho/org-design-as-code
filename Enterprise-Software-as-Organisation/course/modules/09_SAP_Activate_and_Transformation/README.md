@@ -21,8 +21,7 @@ Students should be able to:
 
 ## Core source route
 
-- `../../../SAP Learning/02 SAP Activate Project Management Lesson.md`
-- `../../../SAP Learning/04 Source Register.md`
+- private verified SAP Activate orientation and source records maintained outside the public repository
 - `../../../14_Research_Risks_and_Limitations.md`
 - future verified implementation and transformation literature
 
