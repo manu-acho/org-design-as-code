@@ -145,7 +145,7 @@ The following sections preserve the full scholarly review, its source qualificat
 
 This stream asks how enterprise software can be analysed as an arrangement for coordinating interdependent work. It does **not** assume that a workflow, data object, role, or alert produces coordination in practice. The defensible claim from reference artefacts is narrower: software can encode candidate dependencies, coordination mechanisms, visibility conditions, and escalation paths. Whether actors understand, accept, repair, or circumvent those arrangements requires implementation or practice evidence.
 
-The review was rebuilt from the LeapSpace report rather than copied from it. The report is a useful discovery aid, but its citations include the uploaded prompt itself, two unresolved Scopus links, peripheral engineering studies, and recent papers that cannot anchor the theoretical lineage. Claims below therefore rest on independently checked publications. The accompanying [source assessment](Stream_02_Source_Assessment.md) records the access level for every source used.
+The review was rebuilt from the LeapSpace report rather than copied from it. The report is a useful discovery aid, but its citations include the uploaded prompt itself, two unresolved Scopus links, peripheral engineering studies, and recent papers that cannot anchor the theoretical lineage. Claims below therefore rest on independently checked publications. The internal source assessment records the access level for every source used.
 
 ## 1. What coordination theory explains
 

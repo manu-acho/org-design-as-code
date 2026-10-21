@@ -22,7 +22,6 @@ Students should be able to:
 ## Core source route
 
 - `../../../literature/Stream_03_Decision_Theory_Detailed_Review.md`
-- `../../../literature/Stream_03_Decision_Theory_Source_Assessment.md`
 - `../../../08_Coding_Manual.md`
 
 ## Planned activity

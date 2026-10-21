@@ -45,11 +45,11 @@ An official reference artefact may support a teaching claim about encoded design
 The course must reuse, rather than duplicate:
 
 - the bibliography in `../references/`;
-- source assessments and scholarly reviews in `../literature/`;
+- internal source assessments and scholarly reviews;
 - the private process knowledge base, consulted as an internal orientation source and not published as part of the course repository;
 - the controlled SAP corpus and evidence registers in `../data/`;
 - research boundaries and coding rules in `../06_Research_Protocol.md`, `../07_Data_Collection_Protocol.md`, and `../08_Coding_Manual.md`;
-- the scholarly writing requirements in `../literature/WRITING_STANDARD.md`.
+- the project's internal scholarly writing requirements.
 
 ## Development rule
 

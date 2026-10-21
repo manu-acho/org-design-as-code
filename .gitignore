@@ -7,6 +7,10 @@
 # Internal study and professional-development material
 /Enterprise-Software-as-Organisation/SAP Learning/
 
+# Internal literature quality-control material
+/Enterprise-Software-as-Organisation/literature/*Source_Assessment.md
+/Enterprise-Software-as-Organisation/literature/WRITING_STANDARD.md
+
 # Private partner-development and collaboration material
 /Enterprise-Software-as-Organisation/workstreams/kering-supply-network-governance/foundation-study/
 /Enterprise-Software-as-Organisation/workstreams/kering-supply-network-governance/02_Integrated_Programme_Architecture.md

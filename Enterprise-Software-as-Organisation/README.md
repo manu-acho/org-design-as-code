@@ -35,7 +35,7 @@ The programme is designed to produce a connected portfolio of scholarly, educati
 
 | Deliverable family | Principal output | Current maturity |
 |---|---|---|
-| Scholarly foundation | Nine detailed literature streams, source assessments, shared bibliography, and consolidated review | Streams 1 to 4 complete; Streams 5 to 9 planned |
+| Scholarly foundation | Nine detailed literature streams, a shared bibliography, and a consolidated review | Streams 1 to 5 complete; Streams 6 to 9 planned |
 | Empirical infrastructure | Release-controlled SAP corpus, evidence register, coding framework, analytical displays, and research memos | Designed but not yet populated |
 | Inter-organisational application | Kering upstream supply-network governance study with its own contextual literature, evidence protocol, and access gates | Concept and feasibility architecture established |
 | Research papers | Paper 1 and a longer-term article programme | Paper 1 architecture drafted; empirical findings not yet available |
@@ -58,7 +58,7 @@ The immediate theoretical programme is to complete nine non-duplicative literatu
 8. governance, control, accountability, and decision rights;
 9. business-process management and process architecture.
 
-Each stream should produce a detailed review and source assessment. The streams will then support a consolidated literature review, theory-led book chapters, and theory-led course modules without duplicating literature work. See the [literature map](03_Literature_Map.md), [reading route](literature/Reading_List.md), and [writing standard](literature/WRITING_STANDARD.md).
+Each stream should produce a detailed review supported by an internal source assessment. The streams will then support a consolidated literature review, theory-led book chapters, and theory-led course modules without duplicating literature work. See the [literature map](03_Literature_Map.md) and [reading route](literature/Reading_List.md).
 
 ### 2. Empirical research infrastructure
 
@@ -130,7 +130,7 @@ Start with [06_Research_Protocol.md](06_Research_Protocol.md), use [07_Data_Coll
 | `06_Research_Protocol.md`–`10_Research_Memos.md` | Collection, coding, analysis, and inferential discipline |
 | `11_Figure_and_Table_Plan.md`–`15_Execution_Plan.md` | Outputs, paper programme, translation, risks, and delivery plan |
 | `data/` | Corpus, evidence-log, and coding-matrix templates |
-| `literature/` | Reading list, source audits, detailed reviews, and note templates |
+| `literature/` | Reading list, detailed reviews, and note templates |
 | `memos/` | Analytical, theoretical, and methodological memo templates |
 | `paper/` | Working manuscript blueprint and section drafts |
 | `book/` | Research-monograph concept, Springer proposal, market analysis, chapter architecture, and reuse controls |

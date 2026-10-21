@@ -28,7 +28,7 @@ The book does not argue that software determines an organisation. It distinguish
 
 The book should be pleasurable to read without sacrificing scholarly precision. Each chapter will move through a teaching sequence: a concrete organisational problem, an illustrative process or artefact, the theory needed to interpret it, a return to the case, and an explicit statement of evidence limits. Relationships among theorists will be explained rather than left as citation sequences. Definitions, examples, research applications, and boundaries will be made visible to the reader.
 
-Detailed distinctions, counterarguments, propositions, and verification notes must be retained in the chapter, a table, a note, or an appendix. The shared [Scholarly Writing and Teaching Standard](../literature/WRITING_STANDARD.md) controls manuscript drafting.
+Detailed distinctions, counterarguments, propositions, and verification notes must be retained in the chapter, a table, a note, or an appendix. The project's internal scholarly writing and teaching standard controls manuscript drafting.
 
 ## Distinctive contribution
 

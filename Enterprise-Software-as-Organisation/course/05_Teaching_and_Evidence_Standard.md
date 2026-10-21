@@ -46,7 +46,7 @@ Every SAP case must record:
 
 ## Writing standard
 
-Course content inherits `../literature/WRITING_STANDARD.md`. In particular:
+Course content inherits the project's internal scholarly writing and teaching standard. In particular:
 
 - begin with the practical or organisational problem;
 - define specialised terms on first use;

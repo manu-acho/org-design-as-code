@@ -20,7 +20,7 @@ Its intended contribution is an integrated account of dependencies, coordination
 
 The book will be rigorous, readable, and teachable. Chapters will begin with a recognisable organisational problem, make it concrete through a process or artefact, introduce theory in the order needed to understand that problem, and then return to the case with greater analytical precision. Technical detail, counterarguments, and evidence limits will be preserved in the main text, tables, notes, or appendices rather than removed.
 
-The [Scholarly Writing and Teaching Standard](../literature/WRITING_STANDARD.md) governs drafting. In particular, chapters must explain relationships among theorists, distinguish examples from findings, and keep encoded architecture separate from implementation and enacted practice.
+The project's internal scholarly writing and teaching standard governs drafting. In particular, chapters must explain relationships among theorists, distinguish examples from findings, and keep encoded architecture separate from implementation and enacted practice.
 
 ## Publication gate
 

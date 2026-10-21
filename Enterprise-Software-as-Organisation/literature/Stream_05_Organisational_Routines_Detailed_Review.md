@@ -4,7 +4,7 @@
 
 This review was rebuilt from independently checked publisher, journal, university-repository, and scholarly-book records. The supplied LeapSpace and SciSpace reports were used only as discovery aids. Neither report is treated as scholarly evidence.
 
-The LeapSpace report cited the uploaded research prompt as evidence, omitted many requested foundational works from its usable reference sequence, and included unrelated sources. The SciSpace report supplied a richer conceptual structure and several valuable source leads, but its in-text reference numbers frequently do not correspond to the publications listed under those numbers. It also overstates some source-access claims and makes claims about cloud ERP and process mining that exceed the cited evidence. The accompanying [source assessment](Stream_05_Source_Assessment.md) records these problems and the access level of the sources retained here.
+The LeapSpace report cited the uploaded research prompt as evidence, omitted many requested foundational works from its usable reference sequence, and included unrelated sources. The SciSpace report supplied a richer conceptual structure and several valuable source leads, but its in-text reference numbers frequently do not correspond to the publications listed under those numbers. It also overstates some source-access claims and makes claims about cloud ERP and process mining that exceed the cited evidence. The internal source assessment records these problems and the access level of the sources retained here.
 
 Page-specific claims remain subject to checking against the exact copy used for publication. Where only an abstract or substantial publisher preview was available, this review makes only claims supported by that material.
 

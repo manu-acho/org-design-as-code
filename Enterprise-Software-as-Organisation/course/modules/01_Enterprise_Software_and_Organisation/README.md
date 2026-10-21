@@ -23,7 +23,6 @@ Students should be able to:
 - `../../../00_Research_Vision.md`
 - `../../../02_Conceptual_Framework.md`
 - `../../../04_Literature_Review_Working_Draft.md`
-- `../../../literature/WRITING_STANDARD.md`
 
 ## Planned activity
 

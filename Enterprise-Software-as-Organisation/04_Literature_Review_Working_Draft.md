@@ -4,7 +4,7 @@
 
 This draft will be developed as a cumulative explanation rather than a sequence of compressed theory summaries. Each section will introduce the organisational problem in plain language, define the relevant concepts, explain how the authors connect, apply the concepts to the research question, and state the evidential boundary. The complete theory, qualifications, and citation coverage will be preserved.
 
-The governing requirements are recorded in the [Scholarly Writing and Teaching Standard](literature/WRITING_STANDARD.md). In the consolidated revision, every theoretical stream should enter because it solves a problem or limitation left by the preceding stream. The result should be suitable for scholarly review, doctoral learning, and later teaching without turning illustrations into findings.
+The governing requirements are recorded in the project's internal scholarly writing and teaching standard. In the consolidated revision, every theoretical stream should enter because it solves a problem or limitation left by the preceding stream. The result should be suitable for scholarly review, doctoral learning, and later teaching without turning illustrations into findings.
 
 ## Enterprise systems and organisational transformation
 

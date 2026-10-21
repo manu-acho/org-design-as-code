@@ -22,7 +22,6 @@ Students should be able to:
 ## Core source route
 
 - `../../../literature/Stream_01_Organisation_Design_Detailed_Review.md`
-- `../../../literature/Stream_01_Source_Assessment.md`
 - `../../../02_Conceptual_Framework.md`
 
 ## Planned activity
