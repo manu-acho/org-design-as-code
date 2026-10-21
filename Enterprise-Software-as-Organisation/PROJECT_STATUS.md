@@ -1,6 +1,6 @@
 # Project Status
 
-**Status date:** 19 October 2026
+**Status date:** 21 October 2026
 **Current stage:** Research design and corpus-readiness  
 **Immediate milestone:** Freeze the SAP release and process scope, then complete the pilot corpus and codebook pilot.
 
@@ -35,8 +35,9 @@ The project has a coherent conceptual, methodological, and manuscript architectu
 - The decision-theory stream now has a detailed review and source assessment. It distinguishes decision premises, programmes, authority, permission, discretion, automation, traceability, and accountability, while rejecting opaque uploads, prompt citations, and irrelevant retrievals from the supplied LeapSpace report.
 - The enterprise-systems, implementation, and transformation stream now has a detailed review and source assessment. The supplied LeapSpace report was treated as a discovery aid only: prompt citations, opaque identifiers, unrelated implementation studies, and unsupported SAP conclusions were rejected. The rebuilt review distinguishes reference architecture, implementation choice, configured arrangements, enacted practice, and outcomes, and records the limited independent evidence for public-cloud ERP and Fit-to-Standard.
 - A subsequent SciSpace Stream 4 report has been audited and incorporated selectively. Verified additions strengthen tailoring choices, vendor generification and artefact biography, procedural properties of ERP packages, contingent post-implementation outcomes, and cloud-update research. Claims equating vanilla implementation with Fit-to-Standard or generalising mandatory updates and reduced discretion to all public-cloud ERP were rejected.
+- The organisational-routines stream now has a detailed review and source assessment. It distinguishes routine artefacts, ostensive understandings, performative patterns, stability and variation, and routine ecologies. The supplied LeapSpace and SciSpace reports were treated as discovery aids only. Prompt citations, mismatched numbered citations, incorrect bibliographic metadata, unrelated sources, and overclaims about cloud ERP and process mining were rejected or corrected through independent source verification.
 - A SciSpace Decision Theory review and its citation audit have been assessed. Five sources were added selectively to strengthen decision premises, organisation-structure links, institutional effects, formal versus real authority, and application-level decision rights. Unsupported SAP examples and overbroad automation propositions were rejected.
-- All four completed literature streams now use a three-layer reading structure: a learning guide, a readable scholarly synthesis, and a complete technical expansion. The technical expansions use problem-led openings, definitions at first use, explicit connections among authors, shorter argument stages, and labelled illustrations. A project-wide scholarly writing and teaching standard governs the consolidated review and book so that accessibility improvements retain theoretical detail, evidence boundaries, propositions, and citation coverage.
+- All five completed literature streams now use a three-layer reading structure: a learning guide, a readable scholarly synthesis, and a complete technical expansion. The technical expansions use problem-led openings, definitions at first use, explicit connections among authors, shorter argument stages, and labelled illustrations. A project-wide scholarly writing and teaching standard governs the consolidated review and book so that accessibility improvements retain theoretical detail, evidence boundaries, propositions, and citation coverage.
 - Working drafts exist for the abstract, introduction, theory, method, and conclusion.
 - Findings and discussion files are deliberately conditional structures, not statements of empirical results.
 - The repository README now documents the project objectives, scope, deliverables, workflow, and research-quality principles.
@@ -48,7 +49,7 @@ The project has a coherent conceptual, methodological, and manuscript architectu
 
 ## Work in progress
 
-- The revised organisation-design, coordination-theory, and decision-theory reviews, source assessments, and writing standard are present in the working tree but have not yet been committed.
+- The revised reviews and source assessments for Streams 1 to 5, together with the writing standard, are present in the working tree but have not yet been committed.
 - Bibliographic metadata has been checked for part of the expanded theory streams, but verification against every exact full-text edition to be page-cited remains incomplete.
 - The literature matrix has not yet been populated for all core theoretical works.
 - The book is at concept and proposal-architecture stage only. Its chapter promises, sample chapter, schedule, permissions position, and publisher fit remain conditional on empirical progress.

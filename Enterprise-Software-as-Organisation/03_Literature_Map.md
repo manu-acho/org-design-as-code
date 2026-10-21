@@ -2,7 +2,7 @@
 
 ## Architecture of the review
 
-The shared literature programme contains nine streams. Organisation design, coordination theory, and decision theory provide the completed explanatory foundation. Enterprise-systems research establishes the phenomenon and connects reference architecture with implementation and transformation. Routines and technology-in-practice research prevent encoded design from being mistaken for enacted work. Digital-infrastructure research adds standards, classifications, installed bases, and generativity. Governance and control clarify rights, monitoring, intervention, answerability, and consequences. Business-process management explains the representational form through which much of the empirical architecture becomes observable.
+The shared literature programme contains nine streams. Organisation design, coordination theory, and decision theory provide the explanatory foundation. Enterprise-systems research establishes the phenomenon and connects reference architecture with implementation and transformation. Organisational-routines research now establishes the boundary between artefacts, participant understandings, and recurrent performance. Technology-in-practice research will extend that boundary through materiality, affordance, constraint, and situated use. Digital-infrastructure research adds standards, classifications, installed bases, and generativity. Governance and control clarify rights, monitoring, intervention, answerability, and consequences. Business-process management explains the representational form through which much of the empirical architecture becomes observable.
 
 The streams are connected but not amalgamated. Each must state the problem it explains, its relationship with neighbouring streams, and the boundary beyond which another literature is required.
 
@@ -26,7 +26,7 @@ The streams are connected but not amalgamated. Each must state the problem it ex
 | 2 | Coordination theory | Complete | Complete | Maintain and verify assigned editions |
 | 3 | Decision theory | Complete | Complete | Maintain and verify assigned editions |
 | 4 | Enterprise systems, implementation, and transformation | Complete | Complete | Retrieve outstanding full texts and maintain the cloud ERP evidence watch |
-| 5 | Organisational routines | Not yet complete | Not yet complete | Develop detailed review and source assessment |
+| 5 | Organisational routines | Complete | Complete | Maintain and complete assigned full-text verification |
 | 6 | Technology, materiality, and organisation | Not yet complete | Not yet complete | Develop detailed review and source assessment |
 | 7 | Digital infrastructure, standards, and classification | Not yet complete | Not yet complete | Develop detailed review and source assessment |
 | 8 | Governance, control, accountability, and decision rights | Not yet complete | Not yet complete | Expand beyond the current control foundation and develop the full review |
@@ -72,16 +72,17 @@ The decision-theory stream is developed in [Stream Three: Decision Theory, Detai
 
 The enterprise-systems stream is developed in [Stream Four: Enterprise Systems, Implementation, and Transformation](literature/Stream_04_Enterprise_Systems_Implementation_Transformation_Detailed_Review.md). Its [source assessment](literature/Stream_04_Source_Assessment.md) separates package architecture, implementation choice, configured arrangements, enacted use, and organisational outcomes. It also records the limited independent evidence currently available for public-cloud ERP and Fit-to-Standard claims.
 
+The organisational-routines stream is developed in [Stream Five: Organisational Routines](literature/Stream_05_Organisational_Routines_Detailed_Review.md). Its [source assessment](literature/Stream_05_Source_Assessment.md) separates routine artefacts, ostensive understandings, performative patterns, and routine ecologies. It also records the citation failures in the supplied discovery reports and prevents process models, interviews, or event logs from being treated as complete evidence of enacted routines.
+
 ## Priority reading route
 
-Streams 1 to 4 provide the completed foundation. The remaining reviews should be developed in this order:
+Streams 1 to 5 provide the completed foundation. The remaining reviews should be developed in this order:
 
-1. Stream 5, because routines establish why a documented process cannot stand for recurrent performance.
-2. Stream 6, because technology, materiality, and organisation provide the main corrective to deterministic inference.
-3. Stream 7, because infrastructure, standards, and classification extend the analysis across systems, organisations, and time.
-4. Stream 8, because governance and control build on distinctions already stabilised in organisation design, coordination, and decision theory.
-5. Stream 9, because business-process management supplies the process-representation vocabulary needed for the course, book, method, and empirical analysis.
+1. Stream 6, because technology, materiality, and organisation provide the main corrective to deterministic inference.
+2. Stream 7, because infrastructure, standards, and classification extend the analysis across systems, organisations, and time.
+3. Stream 8, because governance and control build on distinctions already stabilised in organisation design, coordination, and decision theory.
+4. Stream 9, because business-process management supplies the process-representation vocabulary needed for the course, book, method, and empirical analysis.
 
 This order is a production sequence rather than a hierarchy of theoretical importance. Sources may be collected in parallel, but each stream should receive its own detailed review and source assessment before cross-stream consolidation.
 
-Full bibliographic records and verification flags are maintained in `references/references.bib`. The operational source sequence is maintained in `literature/Reading_List.md`, which must be updated as Streams 4 to 9 are developed.
+Full bibliographic records and verification flags are maintained in `references/references.bib`. The operational source sequence is maintained in `literature/Reading_List.md`, which must be updated as Streams 6 to 9 are developed.
