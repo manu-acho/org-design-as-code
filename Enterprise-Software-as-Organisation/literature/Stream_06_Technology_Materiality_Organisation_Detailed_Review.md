@@ -2,9 +2,7 @@
 
 ## Evidence note
 
-This review was rebuilt from independently checked publisher, journal, scholarly-repository, and university records. The supplied LeapSpace and SciSpace reports were used only as discovery aids. Neither report is treated as scholarly evidence.
-
-The LeapSpace report repeatedly cites the uploaded research prompt as if it were a source. Its confidence labels therefore do not provide a reliable audit trail. The SciSpace report offers a much stronger conceptual structure, especially its separation of features, affordances, actualisation, and outcomes. However, much of its evidence is abstract-level, several citations have metadata or relevance problems, and its revised prose was not subjected to a fresh claim-by-claim audit.
+This review was rebuilt from independently checked publisher, journal, scholarly-repository, and university records. Discovery material was used only to locate candidate sources and is not treated as scholarly evidence. Candidate references with metadata, relevance, access, or claim-support problems were excluded or narrowed during verification.
 
 The central attributions in this review have now been checked independently at the strongest accessible evidence level. Complete articles or manuscripts were used where available. Abstract-only sources support only propositions explicitly stated in their abstracts, and metadata alone supports no substantive claim. The internal source assessment records these limits. Exact-edition and page-level checks remain necessary before publication wherever the version of record was not available.
 

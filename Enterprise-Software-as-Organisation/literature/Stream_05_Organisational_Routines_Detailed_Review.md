@@ -2,9 +2,7 @@
 
 ## Evidence note
 
-This review was rebuilt from independently checked publisher, journal, university-repository, and scholarly-book records. The supplied LeapSpace and SciSpace reports were used only as discovery aids. Neither report is treated as scholarly evidence.
-
-The LeapSpace report cited the uploaded research prompt as evidence, omitted many requested foundational works from its usable reference sequence, and included unrelated sources. The SciSpace report supplied a richer conceptual structure and several valuable source leads, but its in-text reference numbers frequently do not correspond to the publications listed under those numbers. It also overstates some source-access claims and makes claims about cloud ERP and process mining that exceed the cited evidence. The internal source assessment records these problems and the access level of the sources retained here.
+This review was rebuilt from independently checked publisher, journal, university-repository, and scholarly-book records. Discovery material was used only to locate candidate sources and is not treated as scholarly evidence. Candidate references with mismatched metadata, unresolved access, weak relevance, or unsupported claims were excluded or narrowed during verification.
 
 The central attributions have now been checked at the strongest accessible evidence level. Complete articles or manuscripts were used where available. Where only an abstract, chapter summary, or substantial publisher preview was available, the review makes only claims stated in that material and identifies the limit in the source assessment. Page-specific claims and detailed uses of unavailable books or chapters remain subject to checking against the exact edition used for publication.
 
@@ -348,8 +346,6 @@ This boundary strengthens rather than diminishes Paper 1. The paper can analyse 
 
 ## Part IV: Audit conclusion
 
-The LeapSpace report contains useful leads to Feldman and Pentland, D'Adderio, Howard-Grenville, routine ecologies, and workflow-log research. Its synthesis cannot be accepted because it cites the prompt as evidence, contains unexplained gaps in its reference numbering, includes unrelated publications, and declares high confidence without an adequate access audit.
+The resulting review rests on independently verified publications covering ostensive and performative aspects, endogenous change, artefacts, routine ecologies, business-process emergence, and enterprise-system assimilation. Sources with unreliable citation routes, incorrect metadata, unresolved access, or weak relevance were not used as evidence.
 
-The SciSpace report is broader and correctly foregrounds the artefact, ostensive, and performative distinction. It also identifies valuable sources on artefact systems, routine ecology, business-process emergence, and enterprise-system assimilation. Its numbered citations are nevertheless unreliable: many numbers in the prose resolve to different works in the final reference list, and several foundational works discussed in the prose are absent from that numbered list. Claims about cloud ERP, complete reconstruction of performance through logs, and a general represented-configured-enacted framework were narrowed or rebuilt from other streams.
-
-The resulting review retains the reports' useful discovery work but rests its argument on independently verified publications. The review also preserves strict boundaries with Stream 4 on implementation and Stream 6 on technology and materiality.
+Claims about cloud ERP, complete reconstruction of performance through event logs, and a general represented-configured-enacted framework were narrowed or assigned to the appropriate neighbouring stream. The review preserves strict boundaries with Stream 4 on implementation and Stream 6 on technology and materiality.

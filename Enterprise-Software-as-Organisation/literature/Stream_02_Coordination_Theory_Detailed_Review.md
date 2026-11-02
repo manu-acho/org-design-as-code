@@ -165,7 +165,7 @@ The following sections preserve the full scholarly review, its source qualificat
 
 This stream asks how enterprise software can be analysed as an arrangement for coordinating interdependent work. It does **not** assume that a workflow, data object, role, or alert produces coordination in practice. The defensible claim from reference artefacts is narrower: software can encode candidate dependencies, coordination mechanisms, visibility conditions, and escalation paths. Whether actors understand, accept, repair, or circumvent those arrangements requires implementation or practice evidence.
 
-The review was rebuilt from the LeapSpace report rather than copied from it. The report is a useful discovery aid, but its citations include the uploaded prompt itself, two unresolved Scopus links, peripheral engineering studies, and recent papers that cannot anchor the theoretical lineage. Claims below therefore rest on independently checked publications. The internal source assessment records the access level for every source used.
+The review was rebuilt around independently checked original publications. Discovery material was used only to locate candidate sources and is not treated as evidence. The supporting verification record distinguishes complete-text, abstract-level, metadata-only, and unresolved access so that each claim remains within the evidence actually inspected.
 
 ## 1. What coordination theory explains
 
@@ -300,7 +300,7 @@ None establishes that a documented SAP S/4HANA feature produces coordination in 
 
 ## 7. Governance, authority, and the limit of coordination theory
 
-Coordination theory brings the analysis close to governance, but the two should not be collapsed. The LeapSpace report usefully points toward governance and decision rights, although it overstates their absence from coordination research. Coordination theory frequently addresses roles, accountability, allocation, and arrangements adjacent to control.
+Coordination theory brings the analysis close to governance, but the two should not be collapsed. Coordination research frequently addresses roles, accountability, allocation, and arrangements adjacent to control, while governance adds questions of legitimate decision capacity, rule setting, resource allocation, and answerability.
 
 The more precise question for this project is how software structures distribute **decision opportunities, visibility, vetoes, obligations, and escalation rights**.
 

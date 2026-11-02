@@ -2,7 +2,7 @@
 
 ## Evidence note
 
-This review was developed from the project bibliography, verified publisher and repository records, official SAP documentation, and a critical audit of the supplied LeapSpace report. The LeapSpace report is a discovery aid, not scholarly evidence. It cited the uploaded prompt as evidence, did not retrieve the four foundational works it was asked to assess, and mixed relevant enterprise-systems research with unrelated implementation studies. No claim below relies on the report itself.
+This review was developed from the project bibliography, verified publisher and repository records, and official SAP documentation. Discovery material was used only to locate candidate sources and is not treated as scholarly evidence. No claim below relies on a third-party synthesis.
 
 Access status matters. The central claims in this review have now been checked against complete articles or chapters where accessible and against publisher abstracts where complete text was unavailable. Abstract-only sources support only claims stated in those abstracts. Metadata alone is not used as substantive evidence. The accompanying source assessment records the access level and limitation for each retained source. Page-specific claims still require checking against the exact published copy used before publication.
 
@@ -160,7 +160,7 @@ Outcomes also unfold over time. Stabilisation costs may precede operational gain
 
 ### 10. Cloud ERP and Fit-to-Standard require a narrower claim
 
-The supplied LeapSpace report overstates the independent scholarly evidence on contemporary SAP public-cloud implementation. The SciSpace report identifies two stronger cloud-ERP studies, but they still do not establish the organisational effects of SAP S/4HANA Cloud Public Edition. Peng and Gala (2014) derive potential benefits and barriers from interviews with 16 ERP and cloud consultants. Bjelland and Haddara (2018) study update processes across 10 Norwegian client organisations and one cloud ERP vendor. The latter supports a bounded claim that cloud delivery can move update timing toward the vendor and make post-implementation change more iterative. Neither study evaluates SAP Fit-to-Standard or proves that every public-cloud customer lacks release discretion.
+Independent scholarly evidence on contemporary SAP public-cloud implementation remains limited. Peng and Gala (2014) derive potential benefits and barriers from interviews with 16 ERP and cloud consultants. Bjelland and Haddara (2018) study update processes across 10 Norwegian client organisations and one cloud ERP vendor. The latter supports a bounded claim that cloud delivery can move update timing toward the vendor and make post-implementation change more iterative. Neither study evaluates SAP Fit-to-Standard or proves that every public-cloud customer lacks release discretion.
 
 Current SAP documentation describes SAP Activate as a six-phase framework. During Explore, teams review preconfigured processes in a starter system, document requirements not covered by standard processes, and identify configuration decisions. During Realize, teams configure, build, test, and validate. This establishes SAP's current official method and vocabulary. It does not establish how projects enact the method or whether it succeeds.
 
@@ -180,7 +180,7 @@ Enterprise-systems research operates at several levels that must be coded separa
 - the user, group, process, business unit, or organisation enacting it;
 - the outcomes measured at a particular time.
 
-The LeapSpace report blurred these levels when it used unrelated studies of healthcare, policing, and port decarbonisation to support a claim about macro, meso, and micro enterprise-system implementation. Those sources were retrieved through the word "implementation," not through conceptual relevance, and are excluded.
+The source-selection process excludes studies retrieved through generic uses of the word "implementation" when they do not address enterprise systems or the relevant organisational mechanism. This prevents unrelated settings from being used to support claims about levels of enterprise-system implementation.
 
 ### 12. The architecture and the implementation choice set
 
@@ -266,6 +266,6 @@ The project must not claim from reference documents alone that:
 
 ## Part IV: Audit conclusion
 
-The LeapSpace report located 33 named external sources plus four prompt-upload entries and two absent numbers in its reference sequence. Four prompt citations are rejected as evidence. At least four external sources are plainly off-topic for this review, and several others are adjacent, practitioner-oriented, or too weakly accessed to support the claims assigned to them. The report's confidence rating of "Medium" is rejected because the core source assessment used opaque internal identifiers and the foundational works were not actually retrieved.
+The review rests on independently identified and checked scholarship. Candidate sources were retained only when their publication identity, relevance, and accessible evidence supported the claim assigned to them. Off-topic implementation studies, unresolved records, prompt-derived material, and claims exceeding the inspected evidence were excluded.
 
-This curated review retains the LeapSpace report's useful leads to Volkoff, Strong, and Elmes (2005), Wang et al. (2007), Singh and Pekkola (2021), and limited SAP implementation literature. The subsequent SciSpace report contributed important additional leads on tailoring, artefact biography, information packages, post-implementation contingency, cloud updates, and cloud-adoption dilemmas. Both reports remain discovery aids. The argument has been rebuilt around independently identified scholarship, and the accompanying assessment records each decision.
+The resulting evidence base strengthens the analysis of integration, lifecycle, fit, tailoring, artefact biography, procedural properties, post-implementation contingency, cloud adoption, and cloud updates. The remaining gap is contemporary independent evidence on SAP S/4HANA Cloud Public Edition, Fit-to-Standard enactment, clean-core constraints, and continuous-release organisational effects.
