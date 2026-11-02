@@ -12,6 +12,10 @@ Enterprise software matters because it can distribute information, categories, r
 
 The argument follows judgement as it moves through an organisation. It begins with the limits of individual rationality, then examines the premises and programmes that structure recurrent choices. Authority and discretion complicate that picture, while automation reveals that judgement is often relocated rather than removed. The final distinction is between making a decision, authorising it, calculating an input, recommending an option, and executing an action.
 
+### Evidence basis and limits
+
+This review has been checked against complete articles or repository manuscripts where lawfully accessible and otherwise against publisher or institutional abstracts. The exact assigned editions of Simon's *Administrative Behavior*, March and Simon's *Organizations*, Cyert and March's *A Behavioral Theory of the Firm*, and Barnard's *The Functions of the Executive* were not available for complete inspection in this pass. Their use is therefore limited to concepts also supported by accessible primary articles or stable scholarly records. Page-specific quotations and edition-sensitive claims require the acquired books.
+
 ## Learning guide
 
 ### 1. Begin with bounded rationality
@@ -140,7 +144,7 @@ Permission is inspectable in architecture; accepted and effective authority requ
 
 Bovens and Zouridis describe a movement from street-level to system-level bureaucracy when rules are increasingly embedded in information systems. This insight should be used carefully. Automation may narrow front-line discretion, but choices remain in defining categories, training models, setting tolerances, maintaining data, specifying exceptions, and authorising overrides.
 
-Joseph and Gaba's attention-based perspective reinforces this point. Structures distribute attention as well as authority. Gosain shows how enterprise systems can embed organisational knowledge and institutionalise assumptions. Loasby helps explain that institutions and routines make some forms of knowledge usable while leaving others outside the frame.
+Joseph and Gaba reinforce this point by distinguishing aggregation and constraint perspectives on how structure affects information processing and decision-making. Gosain argues that enterprise systems can both be shaped by institutional forces and carry institutional commitments that constrain action. Loasby helps explain how institutions and organisational routines supply structures and decision premises under uncertainty.
 
 The project's concept of **discretion relocation** captures this movement. It asks where judgement has gone, who can exercise it, and whether affected actors can see or contest the premises.
 

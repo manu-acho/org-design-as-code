@@ -12,6 +12,10 @@ Enterprise software matters because it can represent dependencies and proposed w
 
 The argument begins with dependencies rather than features. It then asks how different mechanisms address different dependencies, why mechanisms rely on informational and relational conditions, and how formal arrangements coexist with situated adjustment. The destination is deliberately modest: a defensible account of the coordination proposal encoded in software, not an inference that coordination has succeeded.
 
+### Evidence basis and limits
+
+This review has been checked against complete articles or repository manuscripts where lawfully accessible and otherwise against publisher, author, or institutional abstracts. Abstract-only sources support only the propositions stated in those abstracts. Thompson (1967) and Mintzberg (1979) were not available in their exact assigned book editions during this pass, so their bounded concepts are corroborated through accessible scholarly sources and Mintzberg's own 1980 article. Page-specific claims must be checked against acquired editions before publication.
+
 ## Learning guide
 
 ### 1. Begin with the dependency
@@ -228,7 +232,7 @@ These studies sharpen a crucial boundary: **shared data are not shared meaning**
 
 The preceding literature establishes that objects can do more than store information. Coordination artefacts deserve their own analytical category because they can represent work, make dependencies visible, orient attention, preserve state, and provide a focal point for negotiation.
 
-Zaitsev, Gal, and Tan (2020) analyse coordination artefacts in agile software development. Their study is valuable because it shows that an artefact's coordination role depends on use and changing project conditions, not simply on its technical presence.
+Zaitsev, Gal, and Tan (2020) analyse coordination artefacts in one customer-vendor agile software-development project. They identify foundational, projective, exposition, and indicative artefacts whose information richness and mutability were shaped to support different activities. Their study is valuable because it traces how informational potential was enacted in situated use. It does not show that artefacts coordinate independently of people or that the four types transfer unchanged to ERP settings.
 
 For ERP reference architecture, candidate coordination artefacts include business objects, status records, approval histories, worklists, schedules, exception queues, process diagrams, analytical views, and notifications. Their possible functions should be coded separately:
 

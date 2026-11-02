@@ -16,7 +16,7 @@ The course requires three source families that must remain separate:
 
 | Module | Shared literature base | Current sufficiency | Course development decision | Additional work required |
 |---|---|---|---|---|
-| 1. Enterprise Software and Organisation | Completed Stream 4; routines; technology and organisation; digital infrastructure | Enterprise-systems foundation is complete; boundary literatures remain pending | Develop the enterprise-systems content now | Add Streams 5 to 7 before finalising the encoded-implemented-enacted treatment |
+| 1. Enterprise Software and Organisation | Completed Streams 4 to 6; digital infrastructure | Enterprise systems, routines, and technology-in-practice foundations are complete; infrastructure remains pending | Develop the enterprise-systems and encoded-implemented-enacted content now | Add Stream 7 before finalising the infrastructure treatment |
 | 2. End-to-End Processes | SAP Learning material; enterprise systems | Insufficient as an academic treatment of process concepts and representations | Develop orientation content only | Add a business-process management and process-architecture stream before finalising the scholarly lesson and reading pack |
 | 3. Organisation Design | Completed Stream 1 | Sufficient for full content development | Start now | Verify assigned editions and page-specific readings |
 | 4. Coordination and Interdependence | Completed Stream 2 | Sufficient for full content development | Start now | Select student readings and verify any page-specific claims |
@@ -55,7 +55,7 @@ Completed for Modules 1 and 9, the book, and later papers. The detailed review n
 ### Priority B: valuable consolidation, but current teaching can begin
 
 4. **Routines, sociomateriality, and technology-in-practice**  
-   Needed to deepen the encoded, implemented, and enacted distinction. The core sources are already mapped. The work required is synthesis and source auditing rather than a new discovery stream.
+   Completed through Streams 5 and 6. The shared reviews now distinguish artefacts, recurrent performances, material arrangements, relational possibilities, actualisation, situated practice, and outcomes. Module development should reuse these reviews rather than create a parallel synthesis.
 
 5. **Information, attention, and organisational visibility**  
    Galbraith and the completed streams support an initial module. A later supplement may be needed to cover attention allocation, information visibility, overload, selective representation, and the ability to act on information.

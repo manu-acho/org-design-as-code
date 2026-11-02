@@ -35,7 +35,7 @@ The programme is designed to produce a connected portfolio of scholarly, educati
 
 | Deliverable family | Principal output | Current maturity |
 |---|---|---|
-| Scholarly foundation | Nine detailed literature streams, a shared bibliography, and a consolidated review | Streams 1 to 5 complete; Streams 6 to 9 planned |
+| Scholarly foundation | Nine detailed literature streams, a shared bibliography, and a consolidated review | Readable drafts and accessible-source evidence hardening for Streams 1 to 6 complete; exact-edition acquisition remains; Streams 7 to 9 planned |
 | Empirical infrastructure | Release-controlled SAP corpus, evidence register, coding framework, analytical displays, and research memos | Designed but not yet populated |
 | Inter-organisational application | Kering upstream supply-network governance study with its own contextual literature, evidence protocol, and access gates | Concept and feasibility architecture established |
 | Research papers | Paper 1 and a longer-term article programme | Paper 1 architecture drafted; empirical findings not yet available |
@@ -138,13 +138,13 @@ Start with [06_Research_Protocol.md](06_Research_Protocol.md), use [07_Data_Coll
 | `workstreams/` | Separately governed empirical applications that reuse the shared theory without mixing corpora or evidence claims |
 | `references/` | Working bibliography and verification notes |
 | `figures/` | Guidance and eventual analytical figure outputs |
-| `PROJECT_STATUS.md` | Authoritative record of completed and outstanding work |
+| `PUBLIC_PROJECT_STATUS.md` | Public account of programme progress, maturity, and next milestones |
 
 ## Current status
 
 The project is at **research-design and corpus-readiness**. The conceptual framework, research and collection protocols, coding manual, analytical framework, manuscript architecture, templates, and execution plan are in place.
 
-No SAP or Kering corpus has yet been collected or coded, and no empirical findings are claimed. The next main-project milestone is to freeze the target SAP release and process IDs, verify the core bibliography, and build the pilot corpus. The Kering workstream remains at bounded feasibility stage. For the current completion boundary and next actions, see [PROJECT_STATUS.md](PROJECT_STATUS.md) and [Kering workstream status](workstreams/kering-supply-network-governance/KERING_STATUS.md).
+No SAP or Kering corpus has yet been collected or coded, and no empirical findings are claimed. The next main-project milestone is to complete Streams 7 to 9, freeze the target SAP release and process IDs, and build the pilot corpus. The Kering workstream remains at bounded feasibility stage. For the public completion boundary and next actions, see [PUBLIC_PROJECT_STATUS.md](PUBLIC_PROJECT_STATUS.md) and [Kering workstream status](workstreams/kering-supply-network-governance/KERING_STATUS.md).
 
 ## Research quality principles
 

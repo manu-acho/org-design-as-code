@@ -44,7 +44,7 @@ The project will produce a connected portfolio from one verified literature and 
 
 The deliverables have different readiness gates. Theory-led outputs depend on the nine literature streams. SAP empirical papers, book chapters, and teaching cases depend on a frozen SAP scope, registered corpus, and validated coding. Any Kering output depends on that workstream's separate feasibility, evidence, access, and ethics gates. The serious game remains deferred until the literature and initial course modules are complete.
 
-See the detailed [project README](Enterprise-Software-as-Organisation/README.md), [project status](Enterprise-Software-as-Organisation/PROJECT_STATUS.md), [book workspace](Enterprise-Software-as-Organisation/book/README.md), and [course workspace](Enterprise-Software-as-Organisation/course/README.md).
+See the detailed [project README](Enterprise-Software-as-Organisation/README.md), [public project status](Enterprise-Software-as-Organisation/PUBLIC_PROJECT_STATUS.md), [book workspace](Enterprise-Software-as-Organisation/book/README.md), and [course workspace](Enterprise-Software-as-Organisation/course/README.md).
 
 The [empirical workstreams](Enterprise-Software-as-Organisation/workstreams/README.md) directory governs additional cases without duplicating the shared nine-stream literature or mixing evidence between cases.
 
@@ -80,13 +80,13 @@ Start with [06_Research_Protocol.md](06_Research_Protocol.md), use [07_Data_Coll
 | `workstreams/` | Separately governed empirical applications with their own case literature, evidence, ethics, and status controls |
 | `references/` | Working bibliography and verification notes |
 | `figures/` | Guidance and eventual analytical figure outputs |
-| `PROJECT_STATUS.md` | Authoritative record of completed and outstanding work |
+| `PUBLIC_PROJECT_STATUS.md` | Public account of programme progress, maturity, and next milestones |
 
 ## Current status
 
 The project is at **research-design and corpus-readiness**. The conceptual framework, research and collection protocols, coding manual, analytical framework, manuscript architecture, templates, and execution plan are in place.
 
-No SAP corpus has yet been collected or coded, and no empirical findings are claimed. The next milestone is to freeze the target SAP release and process IDs, verify the core bibliography, and build the pilot corpus. For the current completion boundary and next actions, see [PROJECT_STATUS.md](PROJECT_STATUS.md).
+No SAP corpus has yet been collected or coded, and no empirical findings are claimed. The next milestone is to complete Streams 7 to 9, freeze the target SAP release and process IDs, and build the pilot corpus. For the public completion boundary and next actions, see [PUBLIC_PROJECT_STATUS.md](PUBLIC_PROJECT_STATUS.md).
 
 ## Research quality principles
 

@@ -2,7 +2,7 @@
 
 ## Architecture of the review
 
-The shared literature programme contains nine streams. Organisation design, coordination theory, and decision theory provide the explanatory foundation. Enterprise-systems research establishes the phenomenon and connects reference architecture with implementation and transformation. Organisational-routines research now establishes the boundary between artefacts, participant understandings, and recurrent performance. Technology-in-practice research will extend that boundary through materiality, affordance, constraint, and situated use. Digital-infrastructure research adds standards, classifications, installed bases, and generativity. Governance and control clarify rights, monitoring, intervention, answerability, and consequences. Business-process management explains the representational form through which much of the empirical architecture becomes observable.
+The shared literature programme contains nine streams. Organisation design, coordination theory, and decision theory provide the explanatory foundation. Enterprise-systems research establishes the phenomenon and connects reference architecture with implementation and transformation. Organisational-routines research establishes the boundary between artefacts, participant understandings, and recurrent performance. Technology, materiality, and organisation research now extends that boundary through technology-in-practice, affordance, constraint, actualisation, and sociomateriality. Digital-infrastructure research adds standards, classifications, installed bases, and generativity. Governance and control clarify rights, monitoring, intervention, answerability, and consequences. Business-process management explains the representational form through which much of the empirical architecture becomes observable.
 
 The streams are connected but not amalgamated. Each must state the problem it explains, its relationship with neighbouring streams, and the boundary beyond which another literature is required.
 
@@ -13,7 +13,7 @@ The streams are connected but not amalgamated. Each must state the problem it ex
 | 3 | Decision theory | Simon (1947/1997); March and Simon (1958/1993) | Bounded rationality, decision premises, programmes, authority, discretion | Explains how categories, rules, information, defaults, and permissions distribute premises and structure choice | Formal permissions and programmes do not establish accepted authority, exercised judgement, or decision quality |
 | 4 | Enterprise systems, implementation, and transformation | Davenport (1998); Markus and Tanis (2000); Soh, Kien and Tay-Yap (2000); Boudreau and Robey (2005) | Integration, process standardisation, lifecycle, misfit, adaptation, improvisation, configuration, implementation choice | Establishes the empirical phenomenon and connects encoded architecture with selection, configuration, Fit-to-Standard, local variation, and transformation | Architecture is often treated as an input to implementation rather than an organisational artefact in its own right; encoded and implemented arrangements must remain separate |
 | 5 | Organisational routines | Feldman and Pentland (2003) | Ostensive and performative aspects, artefacts, recurrent patterns, stability, variation, change | Explains how documented procedures and artefacts relate to, but do not determine, recurrent performances | A reference process is neither a complete ostensive routine nor evidence of enacted performance |
-| 6 | Technology, materiality, and organisation | Orlikowski (1992, 2000); Leonardi (2011) | Duality of technology, practice lens, materiality, affordance, constraint, situated use | Corrects deterministic readings and explains how technical arrangements become consequential in relation with actors and practices | Paper 1 brackets enactment and must not infer situated use from documentary architecture |
+| 6 | Technology, materiality, and organisation | Orlikowski (1992, 2000, 2007); Orlikowski and Scott (2008); Leonardi (2011); Volkoff and Strong (2013) | Duality of technology, practice lens, materiality, sociomateriality, affordance, constraint, actualisation, situated use | Corrects deterministic readings and separates represented features, relational possibilities, actualisation, and realised consequences | Paper 1 brackets enactment and must not infer perception, actualisation, or situated use from documentary architecture |
 | 7 | Digital infrastructure, standards, and classification | Star and Ruhleder (1996); Bowker and Star (1999); Hanseth and Lyytinen (2010); Tilson, Lyytinen and Sørensen (2010) | Relational infrastructure, classification, standards, installed base, generativity, path dependence | Explains how shared classifications and technical arrangements organise distributed work and evolve over time | ERP reference architecture is more bounded than infrastructure, although configured systems may become infrastructural |
 | 8 | Governance, control, accountability, and decision rights | Ouchi (1979); Eisenhardt (1985), with authority and decision-rights links from Stream 3 | Behaviour and output control, standards, monitoring, intervention, decision rights, answerability, consequences, legitimacy | Separates coordination and permission from governance, accountability, and control; supports analysis of approvals, monitoring, override, audit, and escalation | Existing foundations are too narrow; traceability does not establish accountability, and technical access does not establish legitimate authority |
 | 9 | Business-process management and process architecture | Foundational source set to be identified and verified | Process, event, activity, actor, object, state, boundary, hand-off, variation, exception, ownership, orchestration | Provides the representational vocabulary for analysing end-to-end process artefacts before applying organisation theory | A process model is not performed work, and a standard path is not the complete organisational architecture |
@@ -22,12 +22,12 @@ The streams are connected but not amalgamated. Each must state the problem it ex
 
 | No. | Stream | Detailed review | Source assessment | Current action |
 |---:|---|---|---|---|
-| 1 | Organisation design | Complete | Complete | Maintain and verify assigned editions |
-| 2 | Coordination theory | Complete | Complete | Maintain and verify assigned editions |
-| 3 | Decision theory | Complete | Complete | Maintain and verify assigned editions |
-| 4 | Enterprise systems, implementation, and transformation | Complete | Complete | Retrieve outstanding full texts and maintain the cloud ERP evidence watch |
-| 5 | Organisational routines | Complete | Complete | Maintain and complete assigned full-text verification |
-| 6 | Technology, materiality, and organisation | Not yet complete | Not yet complete | Develop detailed review and source assessment |
+| 1 | Organisation design | Draft complete | Evidence hardened at strongest accessible level | Acquire exact foundational editions for page-level publication checks |
+| 2 | Coordination theory | Draft complete | Evidence hardened at strongest accessible level | Acquire exact foundational editions for page-level publication checks |
+| 3 | Decision theory | Draft complete | Evidence hardened at strongest accessible level | Acquire exact foundational editions for page-level publication checks |
+| 4 | Enterprise systems, implementation, and transformation | Draft complete | Evidence hardened at strongest accessible level | Maintain the cloud ERP and Fit-to-Standard evidence watch and acquire remaining complete articles |
+| 5 | Organisational routines | Draft complete | Evidence hardened at strongest accessible level | Acquire Nelson and Winter, remaining complete articles, and relevant handbook chapters |
+| 6 | Technology, materiality, and organisation | Draft complete | Evidence hardened at strongest accessible level | Acquire versions of record and complete the ontology comparison before empirical design |
 | 7 | Digital infrastructure, standards, and classification | Not yet complete | Not yet complete | Develop detailed review and source assessment |
 | 8 | Governance, control, accountability, and decision rights | Not yet complete | Not yet complete | Expand beyond the current control foundation and develop the full review |
 | 9 | Business-process management and process architecture | Not yet complete | Not yet complete | Conduct a bounded source search, then develop the review and assessment |
@@ -74,15 +74,16 @@ The enterprise-systems stream is developed in [Stream Four: Enterprise Systems, 
 
 The organisational-routines stream is developed in [Stream Five: Organisational Routines](literature/Stream_05_Organisational_Routines_Detailed_Review.md). Its internal source assessment separates routine artefacts, ostensive understandings, performative patterns, and routine ecologies. It also records the citation failures in the supplied discovery reports and prevents process models, interviews, or event logs from being treated as complete evidence of enacted routines.
 
+The technology, materiality, and organisation stream is developed in [Stream Six: Technology, Materiality, and Organisation](literature/Stream_06_Technology_Materiality_Organisation_Detailed_Review.md). Its internal source assessment separates technical arrangements, affordances, constraints, actualisation, practices, and outcomes. It treats the represented-configured-implemented-perceived-enacted-outcome chain as project synthesis and prevents documentary architecture from being used as evidence of situated practice.
+
 ## Priority reading route
 
-Streams 1 to 5 provide the completed foundation. The remaining reviews should be developed in this order:
+Streams 1 to 6 provide the completed foundation. The remaining reviews should be developed in this order:
 
-1. Stream 6, because technology, materiality, and organisation provide the main corrective to deterministic inference.
-2. Stream 7, because infrastructure, standards, and classification extend the analysis across systems, organisations, and time.
-3. Stream 8, because governance and control build on distinctions already stabilised in organisation design, coordination, and decision theory.
-4. Stream 9, because business-process management supplies the process-representation vocabulary needed for the course, book, method, and empirical analysis.
+1. Stream 7, because infrastructure, standards, and classification extend the analysis across systems, organisations, and time.
+2. Stream 8, because governance and control build on distinctions already stabilised in organisation design, coordination, and decision theory.
+3. Stream 9, because business-process management supplies the process-representation vocabulary needed for the course, book, method, and empirical analysis.
 
 This order is a production sequence rather than a hierarchy of theoretical importance. Sources may be collected in parallel, but each stream should receive its own detailed review and source assessment before cross-stream consolidation.
 
-Full bibliographic records and verification flags are maintained in `references/references.bib`. The operational source sequence is maintained in `literature/Reading_List.md`, which must be updated as Streams 6 to 9 are developed.
+Full bibliographic records and verification flags are maintained in `references/references.bib`. The operational source sequence is maintained in `literature/Reading_List.md`, which must be updated as Streams 7 to 9 are developed.

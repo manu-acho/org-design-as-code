@@ -4,7 +4,7 @@
 
 This review was developed from the project bibliography, verified publisher and repository records, official SAP documentation, and a critical audit of the supplied LeapSpace report. The LeapSpace report is a discovery aid, not scholarly evidence. It cited the uploaded prompt as evidence, did not retrieve the four foundational works it was asked to assess, and mixed relevant enterprise-systems research with unrelated implementation studies. No claim below relies on the report itself.
 
-Access status matters. Several core claims below are supported by publisher abstracts and bibliographic records rather than complete article text. Those limits are recorded in the accompanying source assessment. Page-specific claims require checking against the exact copy used before publication.
+Access status matters. The central claims in this review have now been checked against complete articles or chapters where accessible and against publisher abstracts where complete text was unavailable. Abstract-only sources support only claims stated in those abstracts. Metadata alone is not used as substantive evidence. The accompanying source assessment records the access level and limitation for each retained source. Page-specific claims still require checking against the exact published copy used before publication.
 
 The stream follows an enterprise system through four analytically distinct moments: the generic package, the implementation choice, the configured arrangement, and enacted use. Integration and standardisation create the initial promise. Misfit, adaptation, and lifecycle research then show why the promise cannot be read as an outcome. Public-cloud ERP sharpens the problem because the available choices and update conditions may differ, but those differences must be established for the product and release rather than assumed.
 
@@ -142,7 +142,7 @@ Boudreau and Robey (2005) move the analysis beyond implementation into use. Thei
 
 ### 8. Misfit opens several adaptation routes
 
-A misfit may be answered by organisational adaptation, package adaptation, or a combination. Soh and Sia's analysis of so-called vanilla implementations shows that few organisations simply accept a package without modification. Strong and Volkoff explain why the choice is multidimensional. A role imposition, for example, raises different questions from a missing report or unusable field.
+A misfit may be answered by organisational adaptation, package adaptation, or a combination. Soh and Sia's (2005) analysis of so-called vanilla implementations reports that few implementations are completely unmodified and develops its alignment framework from misfits identified across three Asian hospitals. This supports an early-identification and response-choice argument, not a universal modification rate. Strong and Volkoff explain why the choice is multidimensional. A role imposition, for example, raises different questions from a missing report or unusable field.
 
 Singh and Pekkola (2021) show that the customisation literature remains scattered and often generic. Their review supports a basic differentiation among configuration, extension, and modification, but it also demonstrates that the evidence base does not yet justify simple rules about when or how much to customise. Cloud delivery further changes the feasible set because the vendor controls more of the core and update cycle.
 

@@ -12,6 +12,10 @@ Organisation design studies the arrangements used to answer that question. For t
 
 The argument moves from division to dependence, from dependence to integration, and from isolated mechanisms to configurations. It then asks where information, decision rights, and digital artefacts enter that configuration. By the end, the reader should be able to explain both why enterprise software can be studied as an organisation-design medium and why the software must never be mistaken for the organisation that adopts it.
 
+### Evidence basis and limits
+
+This review has been checked against complete articles or repository manuscripts where they were lawfully accessible, and against publisher abstracts where complete text was unavailable. Foundational book claims have been retained only where they are also supported by an accessible primary article by the author or independently corroborated in scholarly sources. The exact assigned editions of Thompson (1967), Galbraith (1973; 1977), and Mintzberg (1979) were not available for complete inspection during this pass. They must therefore be consulted before adding page-specific quotations or claims that go beyond the bounded concepts used here.
+
 ## Learning guide
 
 ### 1. The problem before the theory
@@ -153,7 +157,7 @@ Rivkin and Siggelkow (2003) show why isolated feature claims are unsafe. Hierarc
 
 **Illustrative application:** A workflow should be interpreted together with its roles, thresholds, visibility rules, escalation paths, and configuration options. Saying that “workflow centralises decision-making” would be premature if these connected elements have not been examined.
 
-Gulati and Puranam (2009) add another qualification. Formal and informal organisation may be inconsistent, and temporary inconsistency can sometimes facilitate renewal. Formal coherence is therefore not the same as organisational effectiveness. Software makes formal arrangements visible, but informal relationships may supplement, resist, or transform them.
+Gulati and Puranam (2009) add another qualification. Under specified conditions, formal and informal organisation may compensate for one another, and inconsistency created by reorganisation can support renewal. Their boundary conditions include the prior existence of a powerful informal organisation and substantial gains from ambidexterity. Formal coherence is therefore not the same as organisational effectiveness. Software makes formal arrangements visible, but informal relationships may supplement, resist, or transform them.
 
 This produces three distinct forms of fit:
 
@@ -183,7 +187,7 @@ A workflow may specify sequence and responsibility. This may provide a basis for
 
 Gittell (2002) shows that coordination also depends on relationships and communication. Shared goals, shared knowledge, mutual respect, and timely problem-solving communication are not contained in a workflow or data object. Faraj and Xiao (2006) add that uncertain, fast-response work can require expertise, contestation, joint sensemaking, and even protocol breaking.
 
-Zaitsev, Gal, and Tan (2020) show that artefacts can participate in coordination. Their significance arises through relations among actors, representations, and practices. This supports examining software artefacts as potential coordination arrangements, while rejecting the assumption that an artefact coordinates by itself.
+Zaitsev, Gal, and Tan (2020) show how four types of artefact were used to address different coordination challenges in one customer-vendor agile project. The information richness and mutability of those artefacts were shaped in use, and their informational potential was enacted in situated practice. This supports examining software artefacts as potential coordination arrangements, while rejecting the assumption that an artefact coordinates by itself or operates identically across contexts.
 
 Documentary analysis can therefore identify an encoded mechanism and its intended condition, but not relational quality or coordinated performance. The same caution applies to information: making data available is not the same as enabling informed action.
 
@@ -266,7 +270,7 @@ The significance is more precise than saying that several designs can work. Desi
 
 An enterprise architecture should consequently be analysed as a configuration rather than an inventory of primitives. A rule, approval hierarchy, and incentive system are not independent solutions. Even when software exposes only the rule and approval hierarchy, an unobserved incentive system may condition their organisational consequences. Paper 1 can reconstruct the encoded configuration. It cannot establish overall fit because many relevant organisational contingencies lie outside the reference architecture.
 
-Gulati and Puranam (2009) extend configurational reasoning by analysing inconsistency between formal and informal organisation. Their central contribution is that temporary inconsistencies need not be treated only as design failure: they can facilitate organisational renewal. This cautions against equating formal architectural coherence with organisational effectiveness. Software makes formal arrangements especially inspectable, but informal networks and routines may supplement, counteract, or transition around them. For Paper 1, the implication is a boundary condition: the encoded design may be internally coherent without describing the full coordination system of an adopting organisation.
+Gulati and Puranam (2009) extend configurational reasoning by analysing inconsistency between formal and informal organisation. Their central contribution is conditional: after reorganisation, one form of organisation may compensate for what the other does not emphasise, thereby supporting ambidexterity and renewal. Their model requires a sufficiently powerful pre-existing informal organisation and substantial gains from ambidexterity. This cautions against equating formal architectural coherence with organisational effectiveness. Software makes formal arrangements especially inspectable, but informal networks and routines may supplement, counteract, or transition around them. For Paper 1, the implication is a boundary condition: the encoded design may be internally coherent without describing the full coordination system of an adopting organisation.
 
 ### 2.3 Equifinality and the limits of optimal-design language
 
@@ -322,7 +326,7 @@ This finding qualifies a simple contingency mapping in which uncertainty is hand
 
 ### 4.3 Coordination artefacts and digital work
 
-The next step is to ask how material and digital artefacts participate in coordination. Zaitsev, Gal, and Tan (2020) examine coordination artefacts in agile software development. Their study supports the proposition that artefacts can participate in coordination, but it does not justify the general claim that software contains organisational structure. An artefact acquires coordinating force through its relations with representations, practices, and actors.
+The next step is to ask how material and digital artefacts participate in coordination. Zaitsev, Gal, and Tan (2020) examine a customer-vendor agile software-development project and identify foundational, projective, exposition, and indicative artefacts. The types differed in information richness and mutability, and the researchers traced how their informational potential was enacted across project phases. The study therefore supports a bounded proposition that artefacts can be shaped and used to address coordination challenges. It does not justify the general claim that software contains organisational structure or that an artefact coordinates independently of situated use.
 
 Persson et al. (2022) examine mutual adjustment in the integration of agile software development and user-experience design. Their study extends the empirical settings in which Mintzbergian mutual adjustment can be observed. It does not show that classical coordination mechanisms have been replaced.
 
