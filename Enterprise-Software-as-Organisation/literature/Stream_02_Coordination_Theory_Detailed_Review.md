@@ -10,6 +10,8 @@ The stream asks one practical question:
 
 Enterprise software matters because it can represent dependencies and proposed ways of managing them. It cannot, by its presence alone, prove that people coordinate successfully.
 
+The argument begins with dependencies rather than features. It then asks how different mechanisms address different dependencies, why mechanisms rely on informational and relational conditions, and how formal arrangements coexist with situated adjustment. The destination is deliberately modest: a defensible account of the coordination proposal encoded in software, not an inference that coordination has succeeded.
+
 ## Learning guide
 
 ### 1. Begin with the dependency
@@ -81,6 +83,20 @@ When reading a process diagram, configuration guide, role definition, or system 
 - **Evidence boundary:** States what available material cannot establish.
 - **Verification required:** A citation, edition, or access issue still needs resolution.
 
+### 9. Pause and diagnose a coordination claim
+
+Suppose a system routes a blocked invoice to a named role and displays the reason for the block in a shared record.
+
+Ask five separate questions:
+
+1. What dependency has produced the need for coordination?
+2. What mechanism is represented by the routing and record?
+3. Which condition is intended: accountability, predictability, common understanding, or some combination?
+4. What semantic or interest-based disagreement could remain?
+5. What evidence would demonstrate that the mechanism actually supports coordinated work?
+
+The exercise is successful only if the mechanism, the enabling condition, and the outcome remain separate.
+
 ## Readable scholarly synthesis
 
 ### 1. Coordination theory changes what we look for
@@ -89,7 +105,7 @@ Coordination is often described loosely as collaboration. Malone and Crowston pr
 
 Crowston develops this approach by treating coordination processes as bundles of mechanisms that can sometimes be compared across settings. For this project, that makes software artefacts analytically useful. Sequences, assignments, shared objects, queues, validation rules, and exception paths can be read as candidate mechanisms. The word candidate is essential because documentation presents a design, not proof of its use or success.
 
-**Section takeaway:** Start with the dependency, then interpret the feature.
+The analytical order is now clear: start with the dependency, then interpret the feature. The next question is whether different kinds of dependency call for different responses.
 
 ### 2. Different dependencies require different responses
 
@@ -99,7 +115,7 @@ A sequential dependency may be managed through a hand-off and status control. A 
 
 **Illustrative example:** A required goods receipt before invoice verification can be read as an encoded sequence. An invoice block and resolution route can be read as an exception mechanism. Neither feature proves that users experience the process as coordinated.
 
-**Section takeaway:** Coordination design should be matched to the dependency it addresses.
+Coordination design should be matched to the dependency it addresses. Even a well-matched mechanism, however, works only through conditions that the mechanism may support but cannot guarantee.
 
 ### 3. Mechanisms work through coordination conditions
 
@@ -107,7 +123,7 @@ Okhuysen and Bechky connect a diverse literature by distinguishing mechanisms fr
 
 This distinction improves the coding framework. A document may show that a role receives a task, but analysis should ask what condition the assignment is intended to create. It may clarify responsibility, make progress visible, or establish who must respond to an exception. It may fail if responsibilities are disputed or the assigned actor lacks the necessary information or authority.
 
-**Section takeaway:** Code both the device and the condition it is meant to support.
+The coding implication is to record both the device and the condition it is meant to support. That distinction becomes especially important when a shared representation is technically consistent but interpreted differently across functions.
 
 ### 4. Representation helps, but meaning may still diverge
 
@@ -123,7 +139,7 @@ Schmidt and Simone emphasise coordination mechanisms embedded in cooperative wor
 
 These studies make it difficult to portray coordination as a finished property of system design. Formal arrangements can stabilise expectations and make work inspectable. Situated adjustment handles cases that were not fully anticipated, translates across expertise, and repairs failures. A strong account therefore studies how encoded arrangements invite, constrain, or redirect such adjustment.
 
-**Section takeaway:** Standardisation and adjustment are not simple opposites. Organisations often need both.
+Standardisation and adjustment are therefore not simple opposites. Organisations often need both, and enterprise-systems research shows why their relationship can become particularly difficult when one integrated architecture spans differentiated functions.
 
 ### 6. What ERP research adds
 

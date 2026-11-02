@@ -10,6 +10,8 @@ The central question is simple:
 
 Organisation design studies the arrangements used to answer that question. For this project, the additional question is whether some of those arrangements are represented in enterprise software.
 
+The argument moves from division to dependence, from dependence to integration, and from isolated mechanisms to configurations. It then asks where information, decision rights, and digital artefacts enter that configuration. By the end, the reader should be able to explain both why enterprise software can be studied as an organisation-design medium and why the software must never be mistaken for the organisation that adopts it.
+
 ## Learning guide
 
 ### 1. The problem before the theory
@@ -111,6 +113,20 @@ Rival explanation and evidence limit
 
 **Claim not supported by documentation alone:** SAP determines an adopting organisation’s structure, coordination, performance, or everyday practice.
 
+### 10. Pause and test the distinction
+
+Imagine that a process description assigns an invoice exception to a specialist role, supplies that role with a shared record, and requires approval above a threshold.
+
+Before reading further, try to identify:
+
+1. how work has been differentiated;
+2. which dependencies have been created;
+3. which mechanisms are intended to reintegrate the work;
+4. what information-processing capacity is represented;
+5. what would still have to be observed before claiming implementation fit or enacted fit.
+
+If the final answer includes actual behaviour or performance, the documentary evidence has been pushed too far.
+
 ## Readable scholarly synthesis
 
 ### Organisation design begins with division and integration
@@ -127,7 +143,7 @@ Puranam, Alexy, and Reitzig (2014) help prevent exaggerated claims about novelty
 
 For this reason, the project should not call enterprise software a new organisational form simply because familiar mechanisms are digitally represented. The sharper question is whether software introduces a distinct organisational operation or provides a new carrier for an established solution.
 
-**Section takeaway:** Organisation design gives us a vocabulary for examining software organisationally, but it does not allow us to equate software with the organisation.
+Organisation design therefore gives us a vocabulary for examining software organisationally without equating software with the organisation. That boundary leads to the next problem: a feature acquires meaning only through the configuration around it.
 
 ### Fit concerns configurations, not isolated features
 
@@ -147,7 +163,7 @@ This produces three distinct forms of fit:
 
 The present documentary study can examine architectural coherence directly. The other forms require evidence from implementation and use.
 
-**Section takeaway:** The organisational significance of a software feature depends on the configuration around it and the context in which it is implemented.
+The organisational significance of a software feature thus depends on the configuration around it and the context in which it is implemented. Configuration, however, still leaves the practical question of where one part should end and another begin.
 
 ### Decomposition creates integration requirements
 
@@ -157,7 +173,7 @@ Browning (2001) explains how a design structure matrix can represent dependencie
 
 Technical modularity and organisational modularity must remain separate. Software components concern technical interfaces. Organisational modules concern whether groups of tasks and actors can work with limited cross-boundary coordination. Avritzer et al. (2010) demonstrate that technical dependencies can create organisational coordination requirements, but the two forms of architecture are not identical.
 
-**Section takeaway:** A named software module is not automatically an organisational module. The analysis must examine the activities, actors, and dependencies associated with it.
+A named software module is not automatically an organisational module. The analysis must examine the activities, actors, and dependencies associated with it. Once those dependencies are visible, attention turns from decomposition to the mechanisms used to reconnect the parts.
 
 ### Coordination mechanisms are not coordination outcomes
 
@@ -169,7 +185,7 @@ Gittell (2002) shows that coordination also depends on relationships and communi
 
 Zaitsev, Gal, and Tan (2020) show that artefacts can participate in coordination. Their significance arises through relations among actors, representations, and practices. This supports examining software artefacts as potential coordination arrangements, while rejecting the assumption that an artefact coordinates by itself.
 
-**Section takeaway:** Documentary analysis can identify an encoded mechanism and its intended condition. It cannot establish relational quality or coordinated performance.
+Documentary analysis can therefore identify an encoded mechanism and its intended condition, but not relational quality or coordinated performance. The same caution applies to information: making data available is not the same as enabling informed action.
 
 ### Information must be connected to a capacity to act
 

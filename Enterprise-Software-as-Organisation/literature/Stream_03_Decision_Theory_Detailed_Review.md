@@ -10,6 +10,8 @@ The stream asks one practical question:
 
 Enterprise software matters because it can distribute information, categories, rules, permissions, defaults, and exception routes. These are inputs to decision-making, not proof that a sound decision occurred.
 
+The argument follows judgement as it moves through an organisation. It begins with the limits of individual rationality, then examines the premises and programmes that structure recurrent choices. Authority and discretion complicate that picture, while automation reveals that judgement is often relocated rather than removed. The final distinction is between making a decision, authorising it, calculating an input, recommending an option, and executing an action.
+
 ## Learning guide
 
 ### 1. Begin with bounded rationality
@@ -84,6 +86,20 @@ For every rule, threshold, approval, default, recommendation, or automated actio
 - **Evidence boundary:** States what available material cannot establish.
 - **Verification required:** A citation, edition, or access issue still needs resolution.
 
+### 10. Pause and locate the judgement
+
+Consider an approval that is triggered when an amount exceeds a configured threshold.
+
+Trace the decision backwards:
+
+1. Who selected the threshold?
+2. Which factual and value premises does it embody?
+3. Does the approver decide, authorise, or merely confirm a recommendation?
+4. Who can override the rule or revise its premises?
+5. What judgement has been automated, and what judgement has moved elsewhere?
+
+This exercise usually reveals that the visible approver is only one participant in a distributed decision architecture.
+
 ## Readable scholarly synthesis
 
 ### 1. Bounded rationality makes organisation necessary
@@ -92,7 +108,7 @@ Simon begins from a simple but consequential point: individuals cannot process e
 
 This reframes enterprise software. Its organisational significance lies not only in processing transactions, but also in structuring what users can perceive and do. A required field identifies a fact as relevant. A threshold distinguishes ordinary from exceptional cases. A role assignment allocates formal competence. A default favours one response before a user acts.
 
-**Section takeaway:** To understand a decision, inspect the premises that shaped it.
+To understand a decision, inspect the premises that shaped it. This shifts attention from the visible moment of choice to the less visible work of deciding what the actor would be allowed to notice and consider.
 
 ### 2. Decision premises distribute organisational influence
 
@@ -102,7 +118,7 @@ For documentary analysis, premises can be grouped into purpose, factual, value, 
 
 **Illustrative example:** A purchasing tolerance may encode a factual comparison, a value judgement about acceptable variance, and an authority premise about who may override the result.
 
-**Section takeaway:** The location of the click is not necessarily the location of judgement.
+The location of the click is therefore not necessarily the location of judgement. Programmes make this distribution more durable by connecting recognised situations to expected responses.
 
 ### 3. Programmes connect recurrent situations to action
 
@@ -118,7 +134,7 @@ Barnard grounds authority in acceptance. Simon explains how authority permits on
 
 This distinction is vital for software analysis. Access rights and workflow assignments are evidence of formal allocation. Actual authority may rest with a specialist who frames the options, a data owner who controls the premises, or an experienced user whose recommendation is rarely challenged.
 
-**Section takeaway:** Permission is inspectable in architecture; accepted and effective authority require practice evidence.
+Permission is inspectable in architecture; accepted and effective authority require practice evidence. The distinction becomes even more consequential when software executes part of the decision process automatically.
 
 ### 5. Automation redistributes rather than simply removes judgement
 

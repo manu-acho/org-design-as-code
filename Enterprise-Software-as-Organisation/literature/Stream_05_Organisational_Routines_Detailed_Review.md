@@ -8,6 +8,8 @@ The LeapSpace report cited the uploaded research prompt as evidence, omitted man
 
 Page-specific claims remain subject to checking against the exact copy used for publication. Where only an abstract or substantial publisher preview was available, this review makes only claims supported by that material.
 
+The inquiry begins with a deceptively simple question: when does a repeated process become a routine? The answer moves from routines as repositories of capability to routines as recurrent accomplishments, then opens the relationship among participant understandings, situated performances, and artefacts. Enterprise software enters the story as a consequential artefact, sometimes highly constraining, but never as a substitute for the recurrent organisational action that routine theory asks us to study.
+
 ## Part I: Learning guide
 
 ### 1. The practical problem
@@ -104,6 +106,20 @@ Artefacts may influence both aspects. Participants may use a process model to gu
 6. Read Howard-Grenville (2005), Turner and Rindova (2012), and Sele and Grand (2016) for persistence, multiplicity, connections, and routine ecologies.
 7. Read Feldman et al. (2016) and Feldman et al. (2021) for the mature routine-dynamics programme and its methodological implications.
 
+### Study pause: classify the evidence
+
+Imagine that the available material contains a process diagram, a configured workflow, an interview with one participant, and six months of system-event records.
+
+Ask what each source can establish:
+
+1. Which represented or configured artefacts are visible?
+2. What does the interview reveal about one participant's ostensive understanding?
+3. Which recurrent recorded sequences appear in the event data?
+4. Which performances, interpretations, conversations, and off-system actions remain invisible?
+5. What additional evidence would be needed to claim an enacted organisational routine?
+
+The point is not to rank the sources. It is to stop one kind of evidence from silently answering a different kind of question.
+
 ## Part II: Readable scholarly synthesis
 
 ### 5. From stable repository to recurrent accomplishment
@@ -116,7 +132,7 @@ Pentland and Rueter (1994) supplied an early bridge toward a process view. Their
 
 Feldman (2000) moved agency and reflection into the centre of the explanation. Her empirical analysis shows participants responding to outcomes of prior iterations, creating an internal dynamic through which routines can change continuously. Stability and change no longer have to be assigned to separate phenomena. Both may arise through repeated accomplishment.
 
-**Section takeaway:** A routine is not a stored script whose existence can be established by locating a document. It is a recurrent organisational phenomenon whose pattern, participants, interpretations, and performances require empirical examination.
+A routine is not a stored script whose existence can be established by locating a document. It is a recurrent organisational phenomenon whose pattern, participants, interpretations, and performances require empirical examination. The next step is to explain how the abstract pattern and its particular performances remain connected without becoming identical.
 
 ### 6. Ostensive and performative aspects explain stability and change
 
@@ -130,6 +146,8 @@ Howard-Grenville (2005) adds context, agency, intention, and relative power. Fle
 
 **Project interpretation:** A vendor reference process is not the ostensive aspect of a customer's routine. Before implementation, it is a vendor artefact representing a possible or preferred arrangement. After implementation, it may become one resource among others through which participants form and contest ostensive understandings.
 
+This places artefacts inside the explanation without allowing them to replace the routine.
+
 ### 7. Artefacts matter without becoming routines
 
 Pentland and Feldman (2005) treat routines as generative systems with internal structure and propose analysing the whole routine, individual parts, or relations among parts. Artefacts are analytically important because they can represent aspects of a routine and participate in its performance, but they should not be substituted for the ostensive or performative aspect.
@@ -140,7 +158,7 @@ D'Adderio (2003) demonstrates why software nevertheless has organisational force
 
 Cacciatori (2012) extends the focus from isolated artefacts to systems of artefacts. In a case of a new bidding routine, different artefacts were bundled in ways that reinforced patterns of action and helped work out conflict and truce. This matters for enterprise systems because a routine is rarely related to one screen or workflow alone. Reference diagrams, configuration, master data, authorisations, interfaces, local procedures, spreadsheets, and records may form an interacting artefact system.
 
-**Section takeaway:** The correct alternative to technological determinism is not to treat software as powerless. Software can inscribe categories, require inputs, automate transitions, restrict actions, and produce records. The empirical question is how those capacities enter routine performance, not whether the artefact is the routine.
+The correct alternative to technological determinism is not to treat software as powerless. Software can inscribe categories, require inputs, automate transitions, restrict actions, and produce records. The empirical question is how those capacities enter routine performance, not whether the artefact is the routine. This question also changes how stability should be understood.
 
 ### 8. Stability is patterned accomplishment, not identical repetition
 
@@ -150,7 +168,7 @@ Pentland and Haerem (2015) synthesise this position by defining routines as repe
 
 Turner and Rindova (2012) show that consistency and flexibility may be pursued together rather than treated as opposites. Howard-Grenville (2005) similarly demonstrates how agency and context produce both flexible performance and persistence.
 
-These arguments change the interpretation of exceptions. A documented exception is a designed variation path. It cannot establish how often the path is used, whether actors regard it as part of the routine, or whether undocumented variation occurs elsewhere. A deviation from a process model is not automatically an error. It may be an authorised exception, situated adjustment, workaround, innovation, or evidence that the documented path was never the operative pattern.
+These arguments change the interpretation of exceptions. A documented exception is a designed variation path. It cannot establish how often the path is used, whether actors regard it as part of the routine, or whether undocumented variation occurs elsewhere. A deviation from a process model is not automatically an error. It may be an authorised exception, situated adjustment, workaround, innovation, or evidence that the documented path was never the operative pattern. Nor does variation occur inside isolated routines alone; recurrent patterns meet and modify one another.
 
 ### 9. Routines interact in ecologies
 
@@ -161,6 +179,8 @@ Sele and Grand (2016) study how human and nonhuman actors connect routines in a 
 Feldman et al. (2016) describe relationality as a major development in routine dynamics. Analysis may need to move beyond one routine toward relations and networks of routines. For P2P, O2C, and R2R, this means that the apparent process boundary in vendor documentation is an analytical boundary, not proof of an enacted routine boundary.
 
 **Project interpretation:** Cross-process master data, shared records, hand-offs, and event triggers can be coded as represented links among possible action patterns. Whether they form an enacted ecology of routines requires organisational evidence.
+
+Enterprise software is especially interesting at this boundary because it represents connections while also participating materially in some of them.
 
 ### 10. Enterprise software sits between representation and performance
 
@@ -189,6 +209,8 @@ The phrase **possible or prescribed** matters. Some elements depict alternatives
 The formulation must not be weakened into the claim that software merely suggests action. Implemented software may block transactions, assign access, calculate values, create records, or trigger automated action. These are material constraints and capabilities. What remains unestablished is how the wider recurrent organisational work is performed.
 
 ## Part III: Complete technical expansion
+
+The technical expansion follows three linked questions. What changed when routines were opened from stable capabilities into recurrent accomplishments? What evidence can establish ostensive understandings, performative patterns, and artefact participation? How should those distinctions alter coding, method, and the claims made from vendor reference architecture? Reading the sections in that order keeps the methodological consequences connected to the theoretical debate that produces them.
 
 ### 12. Conceptual genealogy and continuing tension
 

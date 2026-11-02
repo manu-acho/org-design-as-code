@@ -6,6 +6,8 @@ This review was developed from the project bibliography, verified publisher and 
 
 Access status matters. Several core claims below are supported by publisher abstracts and bibliographic records rather than complete article text. Those limits are recorded in the accompanying source assessment. Page-specific claims require checking against the exact copy used before publication.
 
+The stream follows an enterprise system through four analytically distinct moments: the generic package, the implementation choice, the configured arrangement, and enacted use. Integration and standardisation create the initial promise. Misfit, adaptation, and lifecycle research then show why the promise cannot be read as an outcome. Public-cloud ERP sharpens the problem because the available choices and update conditions may differ, but those differences must be established for the product and release rather than assumed.
+
 ## Part I: Learning guide
 
 ### 1. The practical problem
@@ -97,6 +99,19 @@ These states are connected, but none proves the next. A reference process does n
 | Enactment | Situated use and adaptation | Defines a later empirical level | Cannot be recovered from reference documentation |
 | Outcome | Effects attributed to implementation and use | Defines a claim requiring independent evidence | Deployment alone is not an outcome |
 
+### Study pause: follow the process across levels
+
+Take one standard process path and imagine that a customer is evaluating it.
+
+Keep four questions separate:
+
+1. What does the generic package represent or permit?
+2. Which choices are made during implementation?
+3. What becomes part of the customer-specific configured arrangement?
+4. What do participants later do with, around, or outside that arrangement?
+
+If one source is being used to answer all four questions, the evidence levels have probably been collapsed.
+
 ## Part II: Readable scholarly synthesis
 
 ### 5. Enterprise systems join technical integration to organisational design
@@ -107,13 +122,15 @@ Later research disaggregates the general promise of integration. Volkoff, Strong
 
 **Project interpretation:** SAP reference architecture can be analysed as a designed field of possible integration. The evidence may show shared objects, required sequence, common data, or cross-functional visibility. It cannot show that integration was configured successfully or produced a desired result.
 
+Once the architecture is expected to serve many organisations, however, the promise of integration becomes a problem of generalisation.
+
 ### 6. Packaged software contains generic assumptions, not neutral capacity
 
 Packaged enterprise systems must serve more than one organisation. Their designs therefore generalise processes, data, roles, and controls. Soh, Kien, and Tay-Yap (2000) show that these generalisations can conflict with company, sector, or country requirements. Hong and Kim (2002), using survey data from 34 organisations, find that implementation success is associated with organisational fit and implementation contingencies. The study supports the importance of mutual adaptation but should not be converted into a universal causal law.
 
 Strong and Volkoff (2010) provide the most useful architecture-facing elaboration. Their three-year qualitative study treats the enterprise system as an artefact whose effects become visible through misfits. Functionality, data, usability, roles, control, and organisational culture can each contain deficiencies or unwanted impositions. This directs documentary analysis toward more than functions. An architecture may distribute roles, mandate data, expose or suppress controls, and privilege particular classifications.
 
-The distinction also disciplines novelty claims. Enterprise-systems scholarship already recognises embedded organisational structures. The research gap is therefore not the discovery that software contains assumptions. A stronger gap concerns a reproducible method for reconstructing those assumptions from controlled vendor reference artefacts before observing a customer implementation.
+The distinction also disciplines novelty claims. Enterprise-systems scholarship already recognises embedded organisational structures. The research gap is therefore not the discovery that software contains assumptions. A stronger gap concerns a reproducible method for reconstructing those assumptions from controlled vendor reference artefacts before observing a customer implementation. Reconstructing them is only the beginning, because implementation turns generic assumptions into a sequence of organisational choices.
 
 ### 7. Implementation is a sequence of organisational choices
 
@@ -121,7 +138,7 @@ Markus and Tanis (2000) frame the enterprise-system experience as a lifecycle ra
 
 Robey, Ross, and Boudreau (2002) place organisational learning at the centre of implementation. Implementations confront knowledge barriers between old and new work, between functions, and between organisational and package knowledge. Their dialectical account matters because configuration is not merely a technical translation of settled requirements. It is a contested learning process through which requirements, package possibilities, and organisational commitments become mutually adjusted.
 
-Boudreau and Robey (2005) move the analysis beyond implementation into use. Their interpretive case study of a government agency reports initial avoidance and later reinvention through improvised learning. The result is a decisive boundary for this project: even an integrated system described as constraining cannot determine enactment.
+Boudreau and Robey (2005) move the analysis beyond implementation into use. Their interpretive case study of a government agency reports initial avoidance and later reinvention through improvised learning. The result is a decisive boundary for this project: even an integrated system described as constraining cannot determine enactment. Between generic design and situated use lies the practical problem of responding to misfit.
 
 ### 8. Misfit opens several adaptation routes
 
@@ -131,13 +148,15 @@ Singh and Pekkola (2021) show that the customisation literature remains scattere
 
 **Proposition:** Reference architecture defines a structured space of implementation discretion rather than a single prescribed organisation. The empirical task is to identify the available choices and their conditions without assuming which choice a customer makes.
 
+The organisational value of any choice remains a separate question. It cannot be settled by the elegance of the configuration or the completion of deployment.
+
 ### 9. Outcomes require separate evidence
 
 Enterprise-system benefit claims cover multiple levels. Shang and Seddon (2002) distinguish operational, managerial, strategic, IT-infrastructure, and organisational benefit dimensions. Their evidence includes vendor-reported cases and manager interviews, so the framework is valuable for classification but should not be treated as proof that enterprise systems generally cause each benefit.
 
 Gattiker and Goodhue (2005) sharpen the contingency argument after go-live. Their survey of 111 manufacturing plants links plant-level outcomes to interdependence and differentiation, with customisation and elapsed time also included. The study is valuable because it refuses a single enterprise-wide outcome and locates effects at a specified organisational level. Its results remain contingent on its manufacturing sample, measures, and model.
 
-Outcomes also unfold over time. Stabilisation costs may precede operational gains, while later organisational effects depend on use, complementary change, and benefit management. A documentary study of reference architecture can therefore propose outcome-relevant mechanisms, but it cannot report realised benefits.
+Outcomes also unfold over time. Stabilisation costs may precede operational gains, while later organisational effects depend on use, complementary change, and benefit management. A documentary study of reference architecture can therefore propose outcome-relevant mechanisms, but it cannot report realised benefits. Cloud delivery changes the temporal setting again by making vendor-led updates and continuing change more prominent.
 
 ### 10. Cloud ERP and Fit-to-Standard require a narrower claim
 
@@ -148,6 +167,8 @@ Current SAP documentation describes SAP Activate as a six-phase framework. Durin
 The defensible inference is narrower. Fit-to-Standard makes reference content an explicit starting point for requirements discussion. This is directly relevant to the project because it gives reference architecture an observable implementation role. Whether the approach reduces customisation, changes power, accelerates delivery, or improves outcomes remains an empirical question.
 
 ## Part III: Complete technical expansion
+
+The technical argument now revisits the same journey at greater resolution. It separates levels of analysis, reconstructs the implementation choice set, compares responses to misfit, and connects lifecycle stages to the evidence each stage can support. The final sections show how this stream changes the analytical framework without allowing implementation research to answer questions that belong to architecture or enactment.
 
 ### 11. Levels of analysis
 
