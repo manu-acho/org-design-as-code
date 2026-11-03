@@ -1,10 +1,10 @@
 # Stream Five: Organisational Routines
 
-## Evidence note
+## Scope and evidence boundary
 
-This review was rebuilt from independently checked publisher, journal, university-repository, and scholarly-book records. Discovery material was used only to locate candidate sources and is not treated as scholarly evidence. Candidate references with mismatched metadata, unresolved access, weak relevance, or unsupported claims were excluded or narrowed during verification.
+This review draws on independently verified scholarly publications. Claims based only on abstracts or chapter summaries are limited to what those records establish, and exact published versions must be consulted before page citation. Literature findings, project interpretations, and propositions for later research are distinguished throughout.
 
-The central attributions have now been checked at the strongest accessible evidence level. Complete articles or manuscripts were used where available. Where only an abstract, chapter summary, or substantial publisher preview was available, the review makes only claims stated in that material and identifies the limit in the source assessment. Page-specific claims and detailed uses of unavailable books or chapters remain subject to checking against the exact edition used for publication.
+Process documents, configured workflows, interviews, and event logs can each reveal part of the phenomenon. None establishes the complete ostensive and performative dimensions of an organisational routine by itself.
 
 The inquiry begins with a deceptively simple question: when does a repeated process become a routine? The answer moves from routines as repositories of capability to routines as recurrent accomplishments, then opens the relationship among participant understandings, situated performances, and artefacts. Enterprise software enters the story as a consequential artefact, sometimes highly constraining, but never as a substitute for the recurrent organisational action that routine theory asks us to study.
 

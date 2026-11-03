@@ -12,9 +12,11 @@ Organisation design studies the arrangements used to answer that question. For t
 
 The argument moves from division to dependence, from dependence to integration, and from isolated mechanisms to configurations. It then asks where information, decision rights, and digital artefacts enter that configuration. By the end, the reader should be able to explain both why enterprise software can be studied as an organisation-design medium and why the software must never be mistaken for the organisation that adopts it.
 
-### Evidence basis and limits
+### Scope and evidence boundary
 
-This review has been checked against complete articles or repository manuscripts where they were lawfully accessible, and against publisher abstracts where complete text was unavailable. Foundational book claims have been retained only where they are also supported by an accessible primary article by the author or independently corroborated in scholarly sources. The exact assigned editions of Thompson (1967), Galbraith (1973; 1977), and Mintzberg (1979) were not available for complete inspection during this pass. They must therefore be consulted before adding page-specific quotations or claims that go beyond the bounded concepts used here.
+This review draws on independently verified scholarly publications. Claims based only on abstracts are limited to what those abstracts establish, and exact published versions must be consulted before page citation. Literature findings, project interpretations, and propositions for later research are distinguished throughout.
+
+Organisation-design concepts can support analysis of arrangements represented in software. They do not establish the structure, behaviour, or performance of an adopting organisation.
 
 ## Learning guide
 

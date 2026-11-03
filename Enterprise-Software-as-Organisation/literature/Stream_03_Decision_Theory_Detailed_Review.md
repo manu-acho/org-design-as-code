@@ -12,9 +12,11 @@ Enterprise software matters because it can distribute information, categories, r
 
 The argument follows judgement as it moves through an organisation. It begins with the limits of individual rationality, then examines the premises and programmes that structure recurrent choices. Authority and discretion complicate that picture, while automation reveals that judgement is often relocated rather than removed. The final distinction is between making a decision, authorising it, calculating an input, recommending an option, and executing an action.
 
-### Evidence basis and limits
+### Scope and evidence boundary
 
-This review has been checked against complete articles or repository manuscripts where lawfully accessible and otherwise against publisher or institutional abstracts. The exact assigned editions of Simon's *Administrative Behavior*, March and Simon's *Organizations*, Cyert and March's *A Behavioral Theory of the Firm*, and Barnard's *The Functions of the Executive* were not available for complete inspection in this pass. Their use is therefore limited to concepts also supported by accessible primary articles or stable scholarly records. Page-specific quotations and edition-sensitive claims require the acquired books.
+This review draws on independently verified scholarly publications. Claims based only on abstracts are limited to what those abstracts establish, and exact published versions must be consulted before page citation. Literature findings, project interpretations, and propositions for later research are distinguished throughout.
+
+Encoded rules, information, defaults, programmes, and permissions can structure choice without establishing accepted authority, exercised judgement, accountability, or decision quality.
 
 ## Learning guide
 

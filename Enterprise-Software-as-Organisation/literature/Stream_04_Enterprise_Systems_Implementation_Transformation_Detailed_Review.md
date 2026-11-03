@@ -1,10 +1,10 @@
 # Stream Four: Enterprise Systems, Implementation, and Transformation
 
-## Evidence note
+## Scope and evidence boundary
 
-This review was developed from the project bibliography, verified publisher and repository records, and official SAP documentation. Discovery material was used only to locate candidate sources and is not treated as scholarly evidence. No claim below relies on a third-party synthesis.
+This review draws on independently verified scholarly publications and, where relevant, official SAP documentation. Claims based only on abstracts are limited to what those abstracts establish, and exact published versions must be consulted before page citation. Literature findings, project interpretations, and propositions for later research are distinguished throughout.
 
-Access status matters. The central claims in this review have now been checked against complete articles or chapters where accessible and against publisher abstracts where complete text was unavailable. Abstract-only sources support only claims stated in those abstracts. Metadata alone is not used as substantive evidence. The accompanying source assessment records the access level and limitation for each retained source. Page-specific claims still require checking against the exact published copy used before publication.
+Official SAP documentation establishes SAP's stated methodology and represented product capabilities. It does not establish how customers configure or enact them, or whether implementation produces particular organisational outcomes.
 
 The stream follows an enterprise system through four analytically distinct moments: the generic package, the implementation choice, the configured arrangement, and enacted use. Integration and standardisation create the initial promise. Misfit, adaptation, and lifecycle research then show why the promise cannot be read as an outcome. Public-cloud ERP sharpens the problem because the available choices and update conditions may differ, but those differences must be established for the product and release rather than assumed.
 

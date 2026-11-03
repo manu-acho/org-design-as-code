@@ -12,9 +12,11 @@ Enterprise software matters because it can represent dependencies and proposed w
 
 The argument begins with dependencies rather than features. It then asks how different mechanisms address different dependencies, why mechanisms rely on informational and relational conditions, and how formal arrangements coexist with situated adjustment. The destination is deliberately modest: a defensible account of the coordination proposal encoded in software, not an inference that coordination has succeeded.
 
-### Evidence basis and limits
+### Scope and evidence boundary
 
-This review has been checked against complete articles or repository manuscripts where lawfully accessible and otherwise against publisher, author, or institutional abstracts. Abstract-only sources support only the propositions stated in those abstracts. Thompson (1967) and Mintzberg (1979) were not available in their exact assigned book editions during this pass, so their bounded concepts are corroborated through accessible scholarly sources and Mintzberg's own 1980 article. Page-specific claims must be checked against acquired editions before publication.
+This review draws on independently verified scholarly publications. Claims based only on abstracts are limited to what those abstracts establish, and exact published versions must be consulted before page citation. Literature findings, project interpretations, and propositions for later research are distinguished throughout.
+
+A represented dependency or coordination mechanism does not establish common understanding, accepted responsibility, effective coordination, or organisational performance.
 
 ## Learning guide
 

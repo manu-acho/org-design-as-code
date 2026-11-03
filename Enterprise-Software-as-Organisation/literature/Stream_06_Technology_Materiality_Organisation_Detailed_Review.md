@@ -1,10 +1,10 @@
 # Stream Six: Technology, Materiality, and Organisation
 
-## Evidence note
+## Scope and evidence boundary
 
-This review was rebuilt from independently checked publisher, journal, scholarly-repository, and university records. Discovery material was used only to locate candidate sources and is not treated as scholarly evidence. Candidate references with metadata, relevance, access, or claim-support problems were excluded or narrowed during verification.
+This review draws on independently verified scholarly publications. Claims based only on abstracts are limited to what those abstracts establish, and exact published versions must be consulted before page citation. Literature findings, project interpretations, and propositions for later research are distinguished throughout.
 
-The central attributions in this review have now been checked independently at the strongest accessible evidence level. Complete articles or manuscripts were used where available. Abstract-only sources support only propositions explicitly stated in their abstracts, and metadata alone supports no substantive claim. The internal source assessment records these limits. Exact-edition and page-level checks remain necessary before publication wherever the version of record was not available.
+Technical arrangements can support conditional statements about possible action. They do not establish what actors perceive, which affordances they actualise, how situated practice develops, or what organisational outcomes follow.
 
 The central question is not whether technology determines organisation or whether people freely determine technology. It is how technical arrangements become consequential in relation with actors, goals, knowledge, practices, and institutional conditions. That question matters directly to this project because vendor documentation can show material and symbolic arrangements represented in enterprise software, but it cannot by itself show how those arrangements are perceived, used, worked around, or made consequential in a particular organisation.
 
