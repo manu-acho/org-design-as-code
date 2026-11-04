@@ -1,89 +1,99 @@
 # Enterprise Software as Codified Organisation Design
 
-This repository is the research environment for a programme examining enterprise software as a form of codified organisation design. Rather than beginning with what happens after a system is implemented, the project asks what model of organisation is already represented in an enterprise-software reference architecture: how work is divided, dependencies are coordinated, decisions are allocated, information is made visible, and behaviour is constrained or enabled.
+Enterprise software does more than process information. It represents tasks, roles, dependencies, decision rights, controls, exceptions, and shared records. In doing so, it can embody a model of how organisational work should be divided, coordinated, and governed.
 
-SAP S/4HANA Cloud Public Edition is the instrumental case for the initial empirical study. That study focuses on Procure-to-Pay (P2P), Order-to-Cash (O2C), and Record-to-Report (R2R), using release-controlled official reference artefacts. A separately governed Kering workstream is at feasibility stage and extends the programme toward inter-organisational governance across a multi-tier artisan supply network.
+This research programme studies that model directly. It examines enterprise-software reference architecture as a form of codified organisation design, while preserving a clear distinction between what software represents, what an organisation implements, and what people ultimately do in practice.
 
-## Research objective
+## Research question
 
-The primary research question is:
+> **How are organisational coordination and governance mechanisms encoded within enterprise-software reference architectures?**
 
-> **How are organisational coordination and governance mechanisms encoded within enterprise software reference architectures?**
+The research asks how enterprise architecture:
 
-The project has five objectives:
+- divides work among roles, activities, and organisational units;
+- represents dependencies across end-to-end processes;
+- distributes information, decision opportunities, and control;
+- defines standard paths, exceptions, escalation, and discretion;
+- combines familiar organisation-design mechanisms in digital form.
 
-1. Reconstruct the forms of interdependence and coordination encoded in enterprise processes.
-2. Identify how roles, decision rights, information access, and control are distributed through the architecture.
-3. Examine how standardisation, discretion, exception handling, and escalation are represented.
-4. Assess where encoded arrangements correspond to, combine, or depart from classical organisation theory.
-5. Develop a rigorous foundation for later research on Fit-to-Standard, implementation choices, cross-platform variation, and AI agents as organisational actors.
+## Why this matters
 
-Thompson's theory of interdependence, Galbraith's information-processing view, and Mintzberg's coordination mechanisms provide the main theoretical lenses. A candidate contribution is the concept of the **software organisational primitive**: a recurring construct - such as a role, workflow, status, rule, approval, block, access right, master-data object, or system event - that performs an identifiable organisational operation.
+Enterprise-system research often begins with implementation, adoption, or outcomes. Those questions are essential, but they leave an earlier question open: what organisational assumptions are already present in the architecture before a customer configures or uses it?
 
-## Scope and analytical boundary
+Answering that question can strengthen research and practice in enterprise architecture, organisation design, business-process management, digital transformation, and SAP implementation. It also provides a foundation for later studies of Fit-to-Standard, configuration choices, cross-platform variation, and AI agents as organisational actors.
 
-The first study analyses **encoded organisational logic**: the possibilities, constraints, relations, and assumptions represented in vendor reference artefacts. It deliberately distinguishes this from:
+## Initial case
 
-- **Implemented organisational configuration:** what a particular organisation selects, configures, extends, and integrates.
-- **Enacted organisational practice:** how people actually perform, interpret, adapt, or work around those arrangements.
+SAP S/4HANA Cloud Public Edition is the instrumental case for the first empirical study. The analysis focuses on three end-to-end processes:
 
-Documentary evidence can establish what the reference architecture represents or permits. It cannot establish customer behaviour, implementation outcomes, performance effects, or how work is enacted. The project therefore does not assume that software determines organisation.
+- Procure-to-Pay;
+- Order-to-Cash;
+- Record-to-Report.
 
-## Intended deliverables
+These processes make it possible to compare how enterprise architecture represents cross-functional dependencies, shared business objects, role allocation, decision points, controls, and exception handling.
 
-The project will produce a connected portfolio from one verified literature and evidence base:
+## Three analytical levels
 
-1. **Scholarly foundation:** nine detailed literature streams, source assessments, a shared bibliography, and a consolidated review.
-2. **Empirical infrastructure:** a release-controlled SAP corpus, evidence register, coding framework, analytical displays, and research memos.
-3. **Research papers:** Paper 1 on software as codified organisation design, followed by studies of Fit-to-Standard, configuration, platform comparison, and AI agents.
-4. **Research monograph:** **Enterprise Software as Organisation Design: Coordination, Processes and Transformation in SAP S/4HANA**.
-5. **Academic course:** a postgraduate master course with controlled undergraduate and executive pathways.
-6. **Process knowledge base:** a privately maintained technical and professional-learning resource that supports source discovery, process orientation, and later teaching development.
-7. **Serious game companion:** the deferred **Enterprise Design Lab** tabletop simulation concept.
-8. **Inter-organisational application:** a proposed Kering upstream supply-network governance study, kept separate from the SAP corpus and supported by a bounded contextual literature review.
+The programme distinguishes three related but different objects of inquiry:
 
-The deliverables have different readiness gates. Theory-led outputs depend on the nine literature streams. SAP empirical papers, book chapters, and teaching cases depend on a frozen SAP scope, registered corpus, and validated coding. Any Kering output depends on that workstream's separate feasibility, evidence, access, and ethics gates. The serious game remains deferred until the literature and initial course modules are complete.
+1. **Encoded organisational logic:** the arrangements represented or permitted by the reference architecture.
+2. **Implemented organisational configuration:** the choices, extensions, integrations, and organisational changes made in a particular implementation.
+3. **Enacted organisational practice:** how people interpret, perform, adapt, or work around those arrangements.
 
-See the detailed [project README](Enterprise-Software-as-Organisation/README.md), [public project status](Enterprise-Software-as-Organisation/PUBLIC_PROJECT_STATUS.md), [book workspace](Enterprise-Software-as-Organisation/book/README.md), and [course workspace](Enterprise-Software-as-Organisation/course/README.md).
+The first study concentrates on encoded organisational logic. It does not assume that a reference design determines customer configuration, everyday practice, or organisational outcomes.
 
-The [empirical workstreams](Enterprise-Software-as-Organisation/workstreams/README.md) directory governs additional cases without duplicating the shared nine-stream literature or mixing evidence between cases.
+## Theoretical foundation
 
-## Public repository boundary
+The literature programme connects nine complementary streams:
 
-This repository is the public research interface. It includes research questions, theoretical synthesis, protocols, evidence templates, public workstream designs, and output architecture. It excludes private study notes, application dossiers, partner-facing proposals, correspondence, raw source-review exports, participant material, confidential evidence, credentials, and temporary or generated working files. Excluded material may inform later public outputs only after verification, ethical review where required, and deliberate publication.
+1. organisation design;
+2. coordination theory;
+3. decision theory;
+4. enterprise systems, implementation, and transformation;
+5. organisational routines;
+6. technology, materiality, and organisation;
+7. digital infrastructure, standards, and classification;
+8. governance, control, accountability, and decision rights;
+9. business-process management and process architecture.
 
-## Research workflow
+Detailed reviews have been completed for Streams 1 to 6. Streams 7 to 9 are the next stage of the theoretical programme. Together, the streams support a consolidated literature review, the empirical framework, a research monograph, and postgraduate teaching material.
 
-1. Freeze the target SAP release and exact solution-process scope.
-2. Register and preserve each source using the corpus protocol.
-3. Segment artefacts into traceable evidence records.
-4. Code descriptive software constructs before applying theoretical interpretations.
-5. Build within-process maps and cross-process analytical displays.
-6. Test candidate claims against rival explanations and negative cases.
-7. Draft findings only from evidenced analytical memos.
+## Proposed contribution
 
-Start with [06_Research_Protocol.md](06_Research_Protocol.md), use [07_Data_Collection_Protocol.md](07_Data_Collection_Protocol.md) for corpus construction, apply [08_Coding_Manual.md](08_Coding_Manual.md), and produce comparisons using [09_Analytical_Framework.md](09_Analytical_Framework.md).
+A central candidate concept is the **software organisational primitive**: a recurring software construct that performs an identifiable organisational operation. Examples include roles, workflows, statuses, rules, approvals, blocks, access rights, master-data objects, and system events.
 
-## Repository structure
+The contribution does not rest on treating individual features as organisation design. It examines how such constructs work together as configurations that divide, coordinate, inform, authorise, constrain, and connect organisational activity.
 
-| Location | Purpose |
+## Research and educational outputs
+
+The programme brings together several connected outputs:
+
+- scholarly literature reviews and a consolidated theoretical synthesis;
+- a documentary method for analysing enterprise-software reference architecture;
+- comparative analysis of Procure-to-Pay, Order-to-Cash, and Record-to-Report;
+- research papers on encoded organisation design, Fit-to-Standard, configuration, platform comparison, and AI agents;
+- the proposed monograph **Enterprise Software as Organisation Design: Coordination, Processes and Transformation in SAP S/4HANA**;
+- a postgraduate course with pathways for advanced undergraduate and executive education;
+- a future enterprise-design simulation for teaching coordination, discretion, control, and exception handling;
+- separately developed applications of the shared theoretical framework to inter-organisational and supply-network governance.
+
+## Explore the research
+
+| Area | Starting point |
 |---|---|
-| `00_Research_Vision.md`–`05_SAP_Knowledge_Map.md` | Research framing, questions, theory, literature, and case knowledge |
-| `06_Research_Protocol.md`–`10_Research_Memos.md` | Collection, coding, analysis, and inferential discipline |
-| `11_Figure_and_Table_Plan.md`–`15_Execution_Plan.md` | Outputs, paper programme, translation, risks, and delivery plan |
-| `data/` | Corpus, evidence-log, and coding-matrix templates |
-| `literature/` | Reading list, source audits, detailed reviews, and note templates |
-| `memos/` | Analytical, theoretical, and methodological memo templates |
-| `paper/` | Working manuscript blueprint and section drafts |
-| `book/` | Research-monograph concept and proposal architecture |
-| `course/` | Postgraduate curriculum, pathway designs, modules, cases, exercises, and assessments |
-| `workstreams/` | Separately governed empirical applications with their own case literature, evidence, ethics, and status controls |
-| `references/` | Working bibliography and verification notes |
-| `figures/` | Guidance and eventual analytical figure outputs |
-| `PUBLIC_PROJECT_STATUS.md` | Public account of programme progress, maturity, and next milestones |
+| Full research overview | [Programme overview](Enterprise-Software-as-Organisation/README.md) |
+| Research vision and questions | [Research vision](Enterprise-Software-as-Organisation/00_Research_Vision.md) and [research questions](Enterprise-Software-as-Organisation/01_Research_Questions.md) |
+| Theoretical architecture | [Literature map](Enterprise-Software-as-Organisation/03_Literature_Map.md) |
+| Detailed literature reviews | [Literature collection](Enterprise-Software-as-Organisation/literature/) |
+| Research method | [Research protocol](Enterprise-Software-as-Organisation/06_Research_Protocol.md) and [analytical framework](Enterprise-Software-as-Organisation/09_Analytical_Framework.md) |
+| Paper programme | [Paper pipeline](Enterprise-Software-as-Organisation/12_Paper_Pipeline.md) |
+| Research monograph | [Book overview](Enterprise-Software-as-Organisation/book/README.md) |
+| Postgraduate course | [Course overview](Enterprise-Software-as-Organisation/course/README.md) |
+| Applied research | [Research workstreams](Enterprise-Software-as-Organisation/workstreams/README.md) |
+| Current progress | [Public project status](Enterprise-Software-as-Organisation/PUBLIC_PROJECT_STATUS.md) |
 
-## Current status
+## Current stage
 
-The project is at **research-design and corpus-readiness**. The conceptual framework, research and collection protocols, coding manual, analytical framework, manuscript architecture, templates, and execution plan are in place.
+The programme is moving from theoretical development and research design toward empirical corpus construction. Six of the nine literature streams are complete. The research questions, coding framework, collection protocol, and analytical method are established.
 
-No SAP corpus has yet been collected or coded, and no empirical findings are claimed. The next milestone is to complete Streams 7 to 9, freeze the target SAP release and process IDs, and build the pilot corpus. For the public completion boundary and next actions, see [PUBLIC_PROJECT_STATUS.md](PUBLIC_PROJECT_STATUS.md).
+The next stage completes the remaining literature streams and begins the controlled collection and pilot analysis of official SAP reference artefacts. No empirical findings about SAP customers, implemented configurations, organisational behaviour, or performance are claimed at this stage.
