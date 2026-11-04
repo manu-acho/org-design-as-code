@@ -2,7 +2,7 @@
 
 ## Scope and evidence boundary
 
-This review draws on independently verified scholarly publications. Claims based only on abstracts or chapter summaries are limited to what those records establish, and exact published versions must be consulted before page citation. Literature findings, project interpretations, and propositions for later research are distinguished throughout.
+This review draws on independently verified scholarly publications. Claims based only on abstracts or chapter summaries are limited to what those records establish, and exact published versions must be consulted before page citation. Literature findings, research interpretations, and propositions for later research are distinguished throughout.
 
 Process documents, configured workflows, interviews, and event logs can each reveal part of the phenomenon. None establishes the complete ostensive and performative dimensions of an organisational routine by itself.
 
@@ -16,7 +16,7 @@ Enterprise software contains process diagrams, workflow rules, role descriptions
 
 A documented process is not the same thing as a routine being performed. A process model can specify how work is intended or enabled to proceed. It cannot show whether people understand the process in the same way, whether they follow it, how they adapt it, what they do outside the system, or whether a recognisable pattern is sustained over time.
 
-Organisational-routines research gives the project a precise way to explain this boundary. Its central lesson is:
+Organisational-routines research provides a precise way to explain this boundary. Its central lesson is:
 
 > A reference process is an artefact that represents a possible or prescribed pattern of action. It is neither a complete ostensive routine nor evidence of performative enactment.
 
@@ -30,7 +30,7 @@ This does not make documentary analysis weak. It makes its contribution exact. D
 
 **Plain-language explanation:** A routine is not simply a written procedure or one repeated individual task. It is a pattern that becomes recognisable across repeated performances involving several actors whose actions depend on one another.
 
-**Research use:** The definition prevents the project from calling every documented workflow a routine. SAP documentation can represent a candidate pattern of interdependent action. Only evidence of recurrent organisational performance can establish an enacted routine.
+**Research use:** The definition prevents every documented workflow from being classified as a routine. SAP documentation can represent a candidate pattern of interdependent action. Only evidence of recurrent organisational performance can establish an enacted routine.
 
 **Evidence boundary:** Recurrence, recognition, interdependence in action, and participation by multiple actors cannot be demonstrated from a vendor reference diagram alone.
 
@@ -142,7 +142,7 @@ Multiplicity matters. Turner and Rindova (2012) show that participants may maint
 
 Howard-Grenville (2005) adds context, agency, intention, and relative power. Flexible performances may persist as a recognisable routine because organisational context constrains ongoing adaptation, and because some participants have more influence over change than others. This complicates any claim that formal role assignment or technical permission establishes practical authority over a routine.
 
-**Project interpretation:** A vendor reference process is not the ostensive aspect of a customer's routine. Before implementation, it is a vendor artefact representing a possible or preferred arrangement. After implementation, it may become one resource among others through which participants form and contest ostensive understandings.
+**Research interpretation:** A vendor reference process is not the ostensive aspect of a customer's routine. Before implementation, it is a vendor artefact representing a possible or preferred arrangement. After implementation, it may become one resource among others through which participants form and contest ostensive understandings.
 
 This places artefacts inside the explanation without allowing them to replace the routine.
 
@@ -176,13 +176,13 @@ Sele and Grand (2016) study how human and nonhuman actors connect routines in a 
 
 Feldman et al. (2016) describe relationality as a major development in routine dynamics. Analysis may need to move beyond one routine toward relations and networks of routines. For P2P, O2C, and R2R, this means that the apparent process boundary in vendor documentation is an analytical boundary, not proof of an enacted routine boundary.
 
-**Project interpretation:** Cross-process master data, shared records, hand-offs, and event triggers can be coded as represented links among possible action patterns. Whether they form an enacted ecology of routines requires organisational evidence.
+**Research interpretation:** Cross-process master data, shared records, hand-offs, and event triggers can be coded as represented links among possible action patterns. Whether they form an enacted ecology of routines requires organisational evidence.
 
 Enterprise software is especially interesting at this boundary because it represents connections while also participating materially in some of them.
 
 ### 10. Enterprise software sits between representation and performance
 
-D'Adderio's integrated-systems research and Pentland and Feldman's software-design argument provide the strongest direct bridge to this project. Beverungen (2014) adds a business-process perspective by treating business processes as emergent routines that may be represented, enabled, and constrained by IT artefacts. His meta-framework directly challenges purely top-down accounts of process design.
+D'Adderio's integrated-systems research and Pentland and Feldman's software-design argument provide the strongest direct bridge to research on enterprise software as organisation design. Beverungen (2014) adds a business-process perspective by treating business processes as emergent routines that may be represented, enabled, and constrained by IT artefacts. His meta-framework directly challenges purely top-down accounts of process design.
 
 Yamauchi and Swanson (2010) study local assimilation of a CRM system in regional bank branches through observation and interviews. Users developed familiarity pockets within which routine system use became possible while much of the wider system remained outside their working knowledge. The study is valuable evidence that routine use of an enterprise system can coexist with limited understanding of the system as a whole. It is not an SAP, ERP, public-cloud, or reference-architecture study.
 
@@ -240,7 +240,7 @@ Interviews can provide accounts of specific performances and participant interpr
 
 ### 15. Artefact effects should be specified, not presumed
 
-The project should avoid the undifferentiated statement that an artefact "shapes" a routine. Documentary analysis can specify the capacity represented in the artefact:
+Enterprise-software research should avoid the undifferentiated statement that an artefact "shapes" a routine. Documentary analysis can specify the capacity represented in the artefact:
 
 | Artefact capacity | Documentary observation | Later empirical question |
 |---|---|---|
@@ -334,7 +334,7 @@ Reference-process documentation alone does not permit the claim that:
 - process conformance produces coordination quality or organisational capability;
 - an artefact change caused routine or organisational change.
 
-### 22. Strongest defensible contribution to the project
+### 22. Strongest defensible contribution to enterprise-software research
 
 Routine scholarship is not evidence that SAP customers depart from standard processes. It is a theory-led reason not to infer either conformity or departure from reference architecture.
 

@@ -14,7 +14,7 @@ The argument follows judgement as it moves through an organisation. It begins wi
 
 ### Scope and evidence boundary
 
-This review draws on independently verified scholarly publications. Claims based only on abstracts are limited to what those abstracts establish, and exact published versions must be consulted before page citation. Literature findings, project interpretations, and propositions for later research are distinguished throughout.
+This review draws on independently verified scholarly publications. Claims based only on abstracts are limited to what those abstracts establish, and exact published versions must be consulted before page citation. Literature findings, research interpretations, and propositions for later research are distinguished throughout.
 
 Encoded rules, information, defaults, programmes, and permissions can structure choice without establishing accepted authority, exercised judgement, accountability, or decision quality.
 
@@ -83,10 +83,10 @@ For every rule, threshold, approval, default, recommendation, or automated actio
 7. How are exceptions recognised and escalated?
 8. What evidence would establish accepted authority and actual decision practice?
 
-### 9. Claim labels used throughout the project
+### 9. Claim labels used throughout the review
 
 - **Established claim:** Supported directly by identified scholarship.
-- **Project interpretation:** A reasoned application of theory to the research problem.
+- **Research interpretation:** A reasoned application of theory to the research problem.
 - **Illustrative example:** Explains a concept but is not an empirical finding.
 - **Proposition:** A claim to examine through data.
 - **Evidence boundary:** States what available material cannot establish.
@@ -148,7 +148,7 @@ Bovens and Zouridis describe a movement from street-level to system-level bureau
 
 Joseph and Gaba reinforce this point by distinguishing aggregation and constraint perspectives on how structure affects information processing and decision-making. Gosain argues that enterprise systems can both be shaped by institutional forces and carry institutional commitments that constrain action. Loasby helps explain how institutions and organisational routines supply structures and decision premises under uncertainty.
 
-The project's concept of **discretion relocation** captures this movement. It asks where judgement has gone, who can exercise it, and whether affected actors can see or contest the premises.
+The concept of **discretion relocation** captures this movement. It asks where judgement has gone, who can exercise it, and whether affected actors can see or contest the premises.
 
 ### 6. Decisions, actions, and accounts should not be conflated
 
@@ -156,15 +156,15 @@ Simon distinguishes decision premises from resulting behaviour, while later work
 
 Consequently, an approval record may document authorisation without revealing how the conclusion was reached. A dashboard may display information without shaping action. A recommendation may be routinely accepted, resisted, or ignored. Documentary evidence should be precise about which act is represented.
 
-### 7. The contribution to this project
+### 7. The contribution to enterprise-software research
 
 Decision theory allows enterprise software to be studied as a distribution of decision premises and programmed action. The architecture can define recognised facts, relevant categories, available alternatives, criteria, thresholds, permissions, defaults, approvals, automatic operations, and exception routes.
 
-The resulting claim remains architectural. The project can reconstruct **encoded decision design** and formulate propositions about discretion, authority, attention, and exception handling. It cannot infer judgement quality, acceptance, accountability, or practical influence without implementation evidence.
+The resulting claim remains architectural. Documentary analysis can reconstruct **encoded decision design** and formulate propositions about discretion, authority, attention, and exception handling. It cannot establish judgement quality, acceptance, accountability, or practical influence without implementation evidence.
 
 ## Complete technical expansion
 
-The following sections preserve the full scholarly review, including its distinctions, source qualifications, propositions, and documentary coding framework. Each section begins with the decision problem at issue, relates the sources to one another, and ends with the implication or boundary for this project.
+The following sections preserve the full scholarly review, including its distinctions, source qualifications, propositions, and documentary coding framework. Each section begins with the decision problem at issue, relates the sources to one another, and ends with the implication or boundary for research on enterprise software as organisation design.
 
 ## Purpose and evidential boundary
 
@@ -180,7 +180,7 @@ Decision theory begins with the limits under which real choices are made. Simon 
 
 Such simplification enables coordinated action, but it is not neutral. It embeds assumptions about what counts as relevant information, an acceptable alternative, and a satisfactory result.
 
-Simon's 1955 behavioural model provides the canonical article-level statement of rational choice under limits. Puranam et al. (2015) show that later organisational research has developed several ways to model bounded rationality. The project does not need to select one universal model of cognition. It needs to identify the limits and simplifying structures documented in the software architecture, while avoiding unsupported claims about users' psychological states.
+Simon's 1955 behavioural model provides the canonical article-level statement of rational choice under limits. Puranam et al. (2015) show that later organisational research has developed several ways to model bounded rationality. Documentary analysis need not select one universal model of cognition. It must instead identify the limits and simplifying structures documented in the software architecture while avoiding unsupported claims about users' psychological states.
 
 ## 2. Decision premises
 
@@ -207,7 +207,7 @@ The distinction is analytically useful but not always clean in practice. Classif
 
 Loasby (2002) extends the premise concept beyond an individual act of choice. Under **Knightian uncertainty**, where relevant possibilities or probabilities cannot be specified fully in advance, cognitive limits and dispersed knowledge make the formation and coordination of premises an institutional problem. Institutions frame decision spaces and facilitate knowledge sharing. Formal organisations can also invest in decision systems suited to their particular activities.
 
-This strengthens the project's interpretation of enterprise architecture as a possible infrastructure for stabilising premises. It does not mean that every stored datum is a decision premise. A datum, category, or rule must have a documented relationship to a choice, constraint, or programmed response.
+This strengthens the interpretation of enterprise architecture as a possible infrastructure for stabilising premises. It does not mean that every stored datum is a decision premise. A datum, category, or rule must have a documented relationship to a choice, constraint, or programmed response.
 
 ## 3. Programmes, recurrent choice, and routines
 
@@ -217,7 +217,7 @@ Programmed activity is especially relevant to enterprise software. Standard flow
 
 Several distinctions are required:
 
-| Construct | Meaning for this study | Documentary indicator | Claim boundary |
+| Construct | Meaning for enterprise-software analysis | Documentary indicator | Claim boundary |
 |---|---|---|---|
 | Programme | Prestructured basis for responding to a recognised situation | decision table, rule sequence, prescribed path | does not prove enactment or appropriateness |
 | Rule | Condition linked to an action, result, or constraint | validation, threshold, routing condition | may constrain rather than decide |
@@ -240,11 +240,11 @@ For documentary coding, four concepts must remain separate:
 | Approval authority | a role is allocated an accept, reject, or release opportunity | substantive review, hierarchical superiority, or accepted authority |
 | Accountability | an actor is answerable and consequences attach to conduct | cannot be established from logging or traceability alone |
 
-An approval workflow may allocate a decision opportunity and prevent progression without a recorded outcome. It does not necessarily identify line authority, the quality of review, the influence of informal expertise, or the acceptance of the approver’s premise. The project should use “encoded approval right” or “allocated decision opportunity” unless stronger evidence is available.
+An approval workflow may allocate a decision opportunity and prevent progression without a recorded outcome. It does not necessarily identify line authority, the quality of review, the influence of informal expertise, or the acceptance of the approver’s premise. Documentary coding should use “encoded approval right” or “allocated decision opportunity” unless stronger evidence is available.
 
 Aghion and Tirole (1997) approach the issue from a different theoretical tradition. They distinguish **formal authority**, the right to decide, from **real authority**, effective control over a decision. Their principal-agent model is not equivalent to Simon's acceptance-based account, so the concepts should not be collapsed.
 
-The two accounts nevertheless reinforce a common warning for this project. A formally allocated software right does not demonstrate either acceptance or effective influence over the decision.
+The two accounts nevertheless reinforce a common warning for enterprise-software research. A formally allocated software right does not demonstrate either acceptance or effective influence over the decision.
 
 Winkler and Brown (2013) bring the distinction closer to information systems. At the application-governance level, they distinguish **decision control rights**, treated as decision authority, from **decision management rights**, treated as task responsibility. Their study does not concern transaction-level ERP processing, so it cannot be transferred directly. It nevertheless prevents an important coding error: responsibility for preparing, maintaining, or executing a decision process does not necessarily imply authority over its premises or outcome.
 
@@ -340,7 +340,7 @@ Decision theory overlaps with but is not reducible to the other streams:
 
 Joseph and Gaba (2020) provide a direct bridge between organisation design and decision theory. Their **aggregation perspective** examines how structure combines information and choices. Their **constraint perspective** examines how structure restricts behaviour and the available field of choice. They also identify informational conflict and uneven attention to different stages of decision-making as gaps in the literature.
 
-For this project, the distinction suggests two complementary questions. How does enterprise architecture aggregate information and approvals? How does it limit alternatives, visibility, and local discretion?
+For research on enterprise software as organisation design, the distinction suggests two complementary questions. How does enterprise architecture aggregate information and approvals? How does it limit alternatives, visibility, and local discretion?
 
 Gosain (2004) then supplies an enterprise-systems and institutional boundary. Enterprise information systems can be shaped by institutional forces while also carrying institutional commitments. These commitments may constrain action and make historically produced organisational choices appear natural or self-evident.
 
@@ -348,9 +348,9 @@ This does not establish that SAP users accept the encoded premises. It supports 
 
 ## 11. Synthesis and contribution
 
-Decision theory sharpens the project’s claim about enterprise software. Reference architecture can be analysed as a distribution of decision premises and programmed action: it defines categories, required facts, recognised alternatives, criteria, thresholds, permissions, defaults, approvals, automatic operations, and exception routes. This can reveal where the architecture locates possible choice and where it closes choice down.
+Decision theory sharpens the claim that enterprise software can be analysed as organisation design. Reference architecture can be examined as a distribution of decision premises and programmed action: it defines categories, required facts, recognised alternatives, criteria, thresholds, permissions, defaults, approvals, automatic operations, and exception routes. This can reveal where the architecture locates possible choice and where it closes choice down.
 
-The claim must remain architectural. Documentation does not establish that participants accept formal authority, exercise available discretion, make considered judgements, bear accountability, or achieve effective outcomes. The project’s contribution is therefore to reconstruct **encoded decision design** and to specify the additional evidence required to study implemented and enacted organisational decision-making.
+The claim must remain architectural. Documentation does not establish that participants accept formal authority, exercise available discretion, make considered judgements, bear accountability, or achieve effective outcomes. The contribution is therefore to reconstruct **encoded decision design** and specify the additional evidence required to study implemented and enacted organisational decision-making.
 
 ## References used in this stream
 
@@ -358,7 +358,7 @@ Aghion and Tirole (1997); Barnard (1938); Bovens and Zouridis (2002); Brunsson (
 
 ## Glossary for teaching and review
 
-| Term | Working meaning in this project |
+| Term | Working meaning for enterprise-software analysis |
 |---|---|
 | Bounded rationality | Choice under limits of information, attention, time, and computational capacity |
 | Satisficing | Searching until an acceptable option is found rather than proving a global optimum |
@@ -371,4 +371,4 @@ Aghion and Tirole (1997); Barnard (1938); Bovens and Zouridis (2002); Brunsson (
 | Discretion relocation | Movement of judgement to designers, configurators, data owners, or exception handlers |
 | Attention structure | An arrangement that influences which issues and information receive notice |
 | Exception | A case that cannot or should not follow the normal programme |
-| Encoded decision design | The project's term for decision premises and programmed actions represented in architecture |
+| Encoded decision design | A term for decision premises and programmed actions represented in architecture |

@@ -2,7 +2,7 @@
 
 ## Scope and evidence boundary
 
-This review draws on independently verified scholarly publications and, where relevant, official SAP documentation. Claims based only on abstracts are limited to what those abstracts establish, and exact published versions must be consulted before page citation. Literature findings, project interpretations, and propositions for later research are distinguished throughout.
+This review draws on independently verified scholarly publications and, where relevant, official SAP documentation. Claims based only on abstracts are limited to what those abstracts establish, and exact published versions must be consulted before page citation. Literature findings, research interpretations, and propositions for later research are distinguished throughout.
 
 Official SAP documentation establishes SAP's stated methodology and represented product capabilities. It does not establish how customers configure or enact them, or whether implementation produces particular organisational outcomes.
 
@@ -87,7 +87,7 @@ These states are connected, but none proves the next. A reference process does n
 
 ### 4. Concept summary
 
-| Concept | What it means | Use in this project | Boundary |
+| Concept | What it means | Analytical use | Boundary |
 |---|---|---|---|
 | Reference architecture | Vendor-provided process, data, role, rule, and configuration design | Primary object of documentary analysis | Not a customer implementation |
 | Integration | Linking of process, data, and organisational units | Identify encoded dependencies and shared objects | Does not establish coordination quality |
@@ -118,9 +118,9 @@ If one source is being used to answer all four questions, the evidence levels ha
 
 Davenport (1998) supplied the field's enduring starting point: enterprise systems promise to replace fragmented information arrangements with integrated packages, but adopting the package also imports a particular logic of processes and information. Management must therefore decide whether that logic fits the organisation rather than delegate the decision to technologists. This is not yet a theory of architecture as organisation design, but it makes the architecture consequential.
 
-Later research disaggregates the general promise of integration. Volkoff, Strong, and Elmes (2005) distinguish process and data integration and examine relations among organisational units with different interdependencies. Their contribution prevents the project from coding every shared object as the same kind of integration. The analytical question becomes: what is connected, through which object or sequence, across which boundary, and with what encoded consequences?
+Later research disaggregates the general promise of integration. Volkoff, Strong, and Elmes (2005) distinguish process and data integration and examine relations among organisational units with different interdependencies. Their contribution prevents every shared object from being coded as the same kind of integration. The analytical question becomes: what is connected, through which object or sequence, across which boundary, and with what encoded consequences?
 
-**Project interpretation:** SAP reference architecture can be analysed as a designed field of possible integration. The evidence may show shared objects, required sequence, common data, or cross-functional visibility. It cannot show that integration was configured successfully or produced a desired result.
+**Research interpretation:** SAP reference architecture can be analysed as a designed field of possible integration. The evidence may show shared objects, required sequence, common data, or cross-functional visibility. It cannot show that integration was configured successfully or produced a desired result.
 
 Once the architecture is expected to serve many organisations, however, the promise of integration becomes a problem of generalisation.
 
@@ -138,7 +138,7 @@ Markus and Tanis (2000) frame the enterprise-system experience as a lifecycle ra
 
 Robey, Ross, and Boudreau (2002) place organisational learning at the centre of implementation. Implementations confront knowledge barriers between old and new work, between functions, and between organisational and package knowledge. Their dialectical account matters because configuration is not merely a technical translation of settled requirements. It is a contested learning process through which requirements, package possibilities, and organisational commitments become mutually adjusted.
 
-Boudreau and Robey (2005) move the analysis beyond implementation into use. Their interpretive case study of a government agency reports initial avoidance and later reinvention through improvised learning. The result is a decisive boundary for this project: even an integrated system described as constraining cannot determine enactment. Between generic design and situated use lies the practical problem of responding to misfit.
+Boudreau and Robey (2005) move the analysis beyond implementation into use. Their interpretive case study of a government agency reports initial avoidance and later reinvention through improvised learning. The result establishes a decisive boundary for research on enterprise software as organisation design: even an integrated system described as constraining cannot determine enactment. Between generic design and situated use lies the practical problem of responding to misfit.
 
 ### 8. Misfit opens several adaptation routes
 
@@ -164,7 +164,7 @@ Independent scholarly evidence on contemporary SAP public-cloud implementation r
 
 Current SAP documentation describes SAP Activate as a six-phase framework. During Explore, teams review preconfigured processes in a starter system, document requirements not covered by standard processes, and identify configuration decisions. During Realize, teams configure, build, test, and validate. This establishes SAP's current official method and vocabulary. It does not establish how projects enact the method or whether it succeeds.
 
-The defensible inference is narrower. Fit-to-Standard makes reference content an explicit starting point for requirements discussion. This is directly relevant to the project because it gives reference architecture an observable implementation role. Whether the approach reduces customisation, changes power, accelerates delivery, or improves outcomes remains an empirical question.
+The defensible inference is narrower. Fit-to-Standard makes reference content an explicit starting point for requirements discussion. This is directly relevant to research on enterprise software as organisation design because it gives reference architecture an observable implementation role. Whether the approach reduces customisation, changes power, accelerates delivery, or improves outcomes remains an empirical question.
 
 ## Part III: Complete technical expansion
 
@@ -218,7 +218,7 @@ This produces an evidence chain:
 
 > Reference artefact -> documented choice space -> customer implementation evidence -> enactment evidence -> outcome evidence
 
-The project currently addresses the first two links. Later studies may extend the chain, but Paper 1 must not write those later links as findings.
+The present documentary design addresses the first two links. Later studies may extend the chain, but an architecture study must not write those later links as findings.
 
 ### 15. Implications for the analytical framework
 
@@ -242,11 +242,11 @@ The defensible gap is methodological and level-specific:
 
 > Enterprise-systems research richly explains implementation, fit, adaptation, and use, but offers less guidance for systematically reconstructing encoded organisational logic from release-controlled vendor reference artefacts before examining a customer configuration or enacted practice.
 
-The project can contribute a reproducible documentary method and a bounded vocabulary for that reconstruction. Its novelty will depend on demonstrating that the method reveals relations that existing process, fit, and implementation frameworks do not capture adequately.
+Research on enterprise software as organisation design can contribute a reproducible documentary method and a bounded vocabulary for that reconstruction. The contribution will depend on demonstrating that the method reveals relations that existing process, fit, and implementation frameworks do not capture adequately.
 
 ### 18. Claims discipline
 
-The project may claim that:
+Documentary research may claim that:
 
 - enterprise systems integrate process and data through packaged designs;
 - packaged designs embody assumptions that may fit or misfit organisational requirements;
@@ -254,7 +254,7 @@ The project may claim that:
 - reference architecture can be studied as an organisational artefact;
 - official SAP methodology makes reference processes an explicit object of Fit-to-Standard discussion.
 
-The project must not claim from reference documents alone that:
+Reference documents alone do not support claims that:
 
 - SAP standardises an adopting organisation;
 - Fit-to-Standard eliminates discretion or customisation;

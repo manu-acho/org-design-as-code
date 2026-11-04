@@ -14,7 +14,7 @@ The argument begins with dependencies rather than features. It then asks how dif
 
 ### Scope and evidence boundary
 
-This review draws on independently verified scholarly publications. Claims based only on abstracts are limited to what those abstracts establish, and exact published versions must be consulted before page citation. Literature findings, project interpretations, and propositions for later research are distinguished throughout.
+This review draws on independently verified scholarly publications. Claims based only on abstracts are limited to what those abstracts establish, and exact published versions must be consulted before page citation. Literature findings, research interpretations, and propositions for later research are distinguished throughout.
 
 A represented dependency or coordination mechanism does not establish common understanding, accepted responsibility, effective coordination, or organisational performance.
 
@@ -66,7 +66,7 @@ The lesson is not that formal mechanisms are unimportant. It is that their effec
 
 Practice research shows that coordination is not installed once and then completed. People repair breakdowns, align interpretations, renegotiate responsibilities, and adapt routines. Plans, schedules, boundary objects, and digital records participate in this work, but people still have to use and sometimes modify them.
 
-This gives the project a careful formulation: enterprise software is a **codified coordination proposal**. It represents how dependencies are expected to be managed. Evidence of enacted coordination requires observation, interviews, logs, or comparable implementation evidence.
+This supports a careful formulation for enterprise-software research: enterprise software is a **codified coordination proposal**. It represents how dependencies are expected to be managed. Evidence of enacted coordination requires observation, interviews, logs, or comparable implementation evidence.
 
 ### 7. A practical reading route
 
@@ -80,10 +80,10 @@ When reading a process diagram, configuration guide, role definition, or system 
 6. What assumptions are made about interpretation, trust, expertise, and willingness to cooperate?
 7. What evidence would be needed to show that the arrangement works in practice?
 
-### 8. Claim labels used throughout the project
+### 8. Claim labels used throughout the review
 
 - **Established claim:** Supported directly by identified scholarship.
-- **Project interpretation:** A reasoned application of theory to the research problem.
+- **Research interpretation:** A reasoned application of theory to the research problem.
 - **Illustrative example:** Helps explain a concept but is not an empirical finding.
 - **Proposition:** A claim to examine through data.
 - **Evidence boundary:** States what available material cannot establish.
@@ -105,11 +105,11 @@ The exercise is successful only if the mechanism, the enabling condition, and th
 
 ## Readable scholarly synthesis
 
-### 1. Coordination theory changes what we look for
+### 1. Coordination theory changes the analytical focus
 
 Coordination is often described loosely as collaboration. Malone and Crowston provide a sharper starting point: coordination is the management of dependencies among activities. The practical benefit is that analysis can move from a vague question, such as whether a system improves collaboration, to a traceable one: what dependency is present, and what arrangement is intended to manage it?
 
-Crowston develops this approach by treating coordination processes as bundles of mechanisms that can sometimes be compared across settings. For this project, that makes software artefacts analytically useful. Sequences, assignments, shared objects, queues, validation rules, and exception paths can be read as candidate mechanisms. The word candidate is essential because documentation presents a design, not proof of its use or success.
+Crowston develops this approach by treating coordination processes as bundles of mechanisms that can sometimes be compared across settings. This makes software artefacts analytically useful for research on enterprise software as organisation design. Sequences, assignments, shared objects, queues, validation rules, and exception paths can be read as candidate mechanisms. The word candidate is essential because documentation presents a design, not proof of its use or success.
 
 The analytical order is now clear: start with the dependency, then interpret the feature. The next question is whether different kinds of dependency call for different responses.
 
@@ -153,15 +153,15 @@ ERP research illustrates how integration can produce both coordination capacity 
 
 The ERP-specific studies in the technical expansion are treated as contingent evidence, not universal laws. Their value is to demonstrate plausible mechanisms and tensions that can guide documentary coding and later empirical inquiry.
 
-### 7. The contribution to this project
+### 7. The contribution to enterprise-software research
 
 This stream supplies a disciplined bridge from software architecture to organisation theory. It permits analysis of enterprise software as an inspectable arrangement of dependencies, sequences, assignments, representations, gates, visibility, and exceptions.
 
-The resulting claim is useful but bounded. The project can reconstruct a **codified coordination proposal**. It cannot infer mutual understanding, accepted responsibility, effective expertise use, or successful performance from architecture alone. Those are questions for implementation and practice evidence.
+The resulting claim is useful but bounded. Documentary analysis can reconstruct a **codified coordination proposal**. It cannot establish mutual understanding, accepted responsibility, effective expertise use, or successful performance from architecture alone. Those are questions for implementation and practice evidence.
 
 ## Complete technical expansion
 
-The following sections preserve the full scholarly review, its source qualifications, coding implications, and propositions. Each section begins with the coordination problem at issue, then connects the sources to the project and states the limit of the available evidence.
+The following sections preserve the full scholarly review, its source qualifications, coding implications, and propositions. Each section begins with the coordination problem at issue, then connects the sources to enterprise-software analysis and states the limit of the available evidence.
 
 ## Purpose and evidential boundary
 
@@ -202,7 +202,7 @@ Identifying a mechanism is still not the same as demonstrating successful coordi
 
 This distinction prevents a common error in software research. A role field is evidence of encoded assignment, not accountability by itself. A workflow sequence may support predictability, but it does not prove that participants can anticipate one another. A shared record makes a representation available, but it does not prove common understanding.
 
-For this project the three conditions should therefore be treated as propositions to test, not direct software observations:
+For documentary research on enterprise-software architecture, the three conditions should therefore be treated as propositions to test, not direct software observations:
 
 | Integrative condition | Minimum evidence in software artefacts | Stronger evidence required beyond architecture |
 |---|---|---|
@@ -218,7 +218,7 @@ Formal mechanisms leave an important question unresolved: what social relations 
 
 The lesson for enterprise-software analysis is not that software contains relational coordination. It is that encoded work routing and shared information may interact with relationships that cannot be inferred from design documentation.
 
-Faraj and Xiao (2006) then show why expertise and dialogue matter under uncertainty. In fast-response organisations, formal protocols coexist with expertise coordination and knowledge-rich communication. For this project, exception handling and escalation are therefore theoretically important. They may mark the point at which pre-specified coordination is judged insufficient.
+Faraj and Xiao (2006) then show why expertise and dialogue matter under uncertainty. In fast-response organisations, formal protocols coexist with expertise coordination and knowledge-rich communication. Exception handling and escalation are therefore theoretically important for enterprise-software analysis. They may mark the point at which pre-specified coordination is judged insufficient.
 
 An exception path still represents only a designed possibility. Whether it actually mobilises situated expertise remains an empirical question.
 
@@ -258,7 +258,7 @@ Kellogg, Orlikowski, and Yates (2006) show how a **trading zone** can support cr
 
 Together, these practice studies suggest that software-native mechanisms become consequential through situated performance. Gaps, breakdowns, negotiation, and repair can be constitutive parts of coordination rather than mere anomalies.
 
-The project must therefore keep three levels separate:
+The analysis must therefore keep three levels separate:
 
 1. **Encoded coordination:** dependencies and mechanisms documented in vendor artefacts.
 2. **Implemented coordination:** configured organisational arrangements in an adopting organisation.
@@ -282,7 +282,7 @@ These are candidate mechanisms, not outcomes. “Approval required” is an enco
 
 ### ERP-specific evidence and its limits
 
-The ERP literature provides a bridge from general coordination theory to the empirical setting. It does not remove the project's inferential boundary.
+The ERP literature provides a bridge from general coordination theory to the empirical setting. It does not remove the inferential boundary between represented arrangements and enacted coordination.
 
 Alsène (2007) studied sixteen work situations in four units of one Canadian mail and parcel organisation using SAP R/3. The accessible abstract reports that ERP contributions to coordination were diverse, variable in intensity, and not systematic. This supports a contingent question about when software participates in coordination. It does not support the general claim that ERP coordinates an enterprise. Only abstract-level access was available for this review.
 
@@ -304,7 +304,7 @@ None establishes that a documented SAP S/4HANA feature produces coordination in 
 
 Coordination theory brings the analysis close to governance, but the two should not be collapsed. Coordination research frequently addresses roles, accountability, allocation, and arrangements adjacent to control, while governance adds questions of legitimate decision capacity, rule setting, resource allocation, and answerability.
 
-The more precise question for this project is how software structures distribute **decision opportunities, visibility, vetoes, obligations, and escalation rights**.
+The more precise question for research on enterprise software as organisation design is how software structures distribute **decision opportunities, visibility, vetoes, obligations, and escalation rights**.
 
 Coordination and governance overlap but are not synonymous. Coordination asks how interdependent activity is integrated. Governance asks who has the legitimate capacity to decide, set rules, allocate resources, and hold others to account. A workflow approval may do both, but the coding rationale must say which aspect is observed. Formal authorisation also cannot establish actual authority, discretion, or political acceptance.
 
@@ -340,7 +340,7 @@ Each proposition must be tested against negative cases and rival explanations su
 
 ## 10. Synthesis and contribution
 
-Coordination theory contributes the project’s central analytical move: reconstruct dependencies and the mechanisms intended to manage them. Organisation design supplies broad patterns of interdependence and coordination; the mechanism literature distinguishes devices from accountability, predictability, and common understanding; relational and knowledge-boundary research identifies what architecture alone cannot secure; practice research explains why coordination is continuously accomplished rather than installed.
+Coordination theory contributes the central analytical move for enterprise-software research: reconstruct dependencies and the mechanisms intended to manage them. Organisation design supplies broad patterns of interdependence and coordination; the mechanism literature distinguishes devices from accountability, predictability, and common understanding; relational and knowledge-boundary research identifies what architecture alone cannot secure; practice research explains why coordination is continuously accomplished rather than installed.
 
 The resulting contribution is intentionally bounded. Enterprise software can be studied as a **codified coordination proposal**: an inspectable arrangement of sequences, assignments, representations, gates, exceptions, and visibility. It is not the organisation itself, and its presence does not demonstrate coordinated performance. This boundary is what makes the documentary analysis both useful and credible.
 
@@ -350,7 +350,7 @@ Bechky (2003); Carlile (2002, 2004); Crowston (1997); Faraj and Sproull (2000); 
 
 ## Glossary for teaching and review
 
-| Term | Working meaning in this project |
+| Term | Working meaning for enterprise-software analysis |
 |---|---|
 | Dependency | A relation in which an activity, actor, or output relies on another |
 | Coordination mechanism | An arrangement intended to manage a dependency |
@@ -362,4 +362,4 @@ Bechky (2003); Carlile (2002, 2004); Crowston (1997); Faraj and Sproull (2000); 
 | Relational coordination | Coordination supported by shared goals, shared knowledge, mutual respect, and communication |
 | Expertise coordination | Recognising where expertise resides and bringing it into the work when needed |
 | Situated adjustment | Context-sensitive adaptation during the performance of work |
-| Codified coordination proposal | The project's term for the coordination arrangement represented in architecture or documentation |
+| Codified coordination proposal | A term for the coordination arrangement represented in architecture or documentation |

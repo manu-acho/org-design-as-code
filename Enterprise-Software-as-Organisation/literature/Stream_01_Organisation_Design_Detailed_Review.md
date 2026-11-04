@@ -8,13 +8,13 @@ The central question is simple:
 
 > When many people and units contribute to the same organisational purpose, how should their work be divided and then brought back together?
 
-Organisation design studies the arrangements used to answer that question. For this project, the additional question is whether some of those arrangements are represented in enterprise software.
+Organisation design studies the arrangements used to answer that question. Research on enterprise software as organisation design adds a further question: whether some of those arrangements are represented in software architecture.
 
 The argument moves from division to dependence, from dependence to integration, and from isolated mechanisms to configurations. It then asks where information, decision rights, and digital artefacts enter that configuration. By the end, the reader should be able to explain both why enterprise software can be studied as an organisation-design medium and why the software must never be mistaken for the organisation that adopts it.
 
 ### Scope and evidence boundary
 
-This review draws on independently verified scholarly publications. Claims based only on abstracts are limited to what those abstracts establish, and exact published versions must be consulted before page citation. Literature findings, project interpretations, and propositions for later research are distinguished throughout.
+This review draws on independently verified scholarly publications. Claims based only on abstracts are limited to what those abstracts establish, and exact published versions must be consulted before page citation. Literature findings, research interpretations, and propositions for later research are distinguished throughout.
 
 Organisation-design concepts can support analysis of arrangements represented in software. They do not establish the structure, behaviour, or performance of an adopting organisation.
 
@@ -35,7 +35,7 @@ Enterprise software is relevant because it can represent both sides. It can dist
 
 ### 2. How the foundational theorists connect
 
-| Theorist | Main question | Plain-language contribution | Use in this research |
+| Theorist | Main question | Plain-language contribution | Analytical use |
 |---|---|---|---|
 | Thompson | How are activities dependent on one another? | Dependencies can be pooled, sequential, or reciprocal | Identify what kind of coordination problem a process contains |
 | Galbraith | How much information must the organisation process? | Greater uncertainty and interdependence create greater information requirements | Examine whether architecture supplies information capacity or reduces information need |
@@ -91,7 +91,7 @@ A workflow, role, schedule, plan, or shared object may support coordination. Okh
 
 The mechanism does not prove the condition. A shared status field may provide a basis for visibility without producing common understanding. Relational and practice research further shows that expertise, trust, contestation, joint sensemaking, and informal adjustment remain important, especially during novelty and exception.
 
-### 8. The analytical route used in this project
+### 8. The analytical route for enterprise-software research
 
 ```text
 Activities and actors
@@ -113,9 +113,9 @@ Rival explanation and evidence limit
 
 **Established theoretical claim:** Organisations must divide and integrate work, and appropriate arrangements depend on interdependence, uncertainty, and relations among design elements.
 
-**Interpretation for this project:** Enterprise-software reference architecture may encode design-relevant arrangements through roles, activities, objects, workflows, information relations, rules, and rights.
+**Research interpretation:** Enterprise-software reference architecture may encode design-relevant arrangements through roles, activities, objects, workflows, information relations, rules, and rights.
 
-**Empirical proposition:** The project will test whether these arrangements can be reconstructed systematically as encoded organisation design.
+**Empirical proposition:** The proposed documentary study will test whether these arrangements can be reconstructed systematically as encoded organisation design.
 
 **Claim not supported by documentation alone:** SAP determines an adopting organisation’s structure, coordination, performance, or everyday practice.
 
@@ -141,13 +141,13 @@ Organisation design asks how a collective purpose is divided into manageable wor
 
 This framing is broader than an organisation chart. Goals, strategy, tasks, people, leadership, information, decisions, incentives, and control arrangements all matter. Their effects also depend on one another. A role may have little organisational meaning unless it is connected to tasks, information, authority, and other roles.
 
-**Interpretation for this project:** SAP reference architecture may represent design-relevant arrangements by defining roles, tasks, units, objects, workflows, rules, and rights.
+**Research interpretation:** SAP reference architecture may represent design-relevant arrangements by defining roles, tasks, units, objects, workflows, rules, and rights.
 
 **Evidence boundary:** The presence of those elements does not prove that the software determines an adopting organisation. It establishes an encoded arrangement, not implementation fit or enacted practice.
 
 Puranam, Alexy, and Reitzig (2014) help prevent exaggerated claims about novelty. They argue that apparently new forms of organising should be assessed through the fundamental problems they solve. These include dividing tasks, allocating tasks, distributing rewards, and providing information. A new label may describe a new combination of familiar solutions rather than a wholly new organisational form.
 
-For this reason, the project should not call enterprise software a new organisational form simply because familiar mechanisms are digitally represented. The sharper question is whether software introduces a distinct organisational operation or provides a new carrier for an established solution.
+For this reason, enterprise software should not be described as a new organisational form simply because familiar mechanisms are digitally represented. The sharper question is whether software introduces a distinct organisational operation or provides a new carrier for an established solution.
 
 Organisation design therefore gives us a vocabulary for examining software organisationally without equating software with the organisation. That boundary leads to the next problem: a feature acquires meaning only through the configuration around it.
 
@@ -175,7 +175,7 @@ The organisational significance of a software feature thus depends on the config
 
 Complex work must be divided, but the boundaries matter. Ethiraj and Levinthal (2004) show that both excessive integration and excessive decomposition can create problems. Too much integration can restrict search and cause premature commitment to inferior designs. Too much decomposition can create instability and repeated adjustment among parts.
 
-Browning (2001) explains how a design structure matrix can represent dependencies among components or tasks. For this project, a dependency matrix could make role, task, and object relationships visible across a process. The matrix would be an analytical method. It would not show that SAP itself implements a modular organisation.
+Browning (2001) explains how a design structure matrix can represent dependencies among components or tasks. In research on enterprise software as organisation design, a dependency matrix could make role, task, and object relationships visible across a process. The matrix would be an analytical method. It would not show that SAP itself implements a modular organisation.
 
 Technical modularity and organisational modularity must remain separate. Software components concern technical interfaces. Organisational modules concern whether groups of tasks and actors can work with limited cross-boundary coordination. Avritzer et al. (2010) demonstrate that technical dependencies can create organisational coordination requirements, but the two forms of architecture are not identical.
 
@@ -199,7 +199,7 @@ Galbraith links uncertainty to information-processing requirements. Organisation
 
 Later empirical work shows why information availability alone is insufficient. Srinivasan and Swink (2018) connect visibility and analytics with organisational flexibility. Their argument implies that insight matters when the organisation can act on it. Gattiker and Goodhue (2005) likewise show that ERP consequences vary with interdependence and differentiation.
 
-For this project, shared data, analytical views, alerts, and document flows may represent information-processing capacity. Their organisational meaning also depends on decision rights, response mechanisms, and flexibility.
+Within enterprise-software analysis, shared data, analytical views, alerts, and document flows may represent information-processing capacity. Their organisational meaning also depends on decision rights, response mechanisms, and flexibility.
 
 **Evidence boundary:** Reference architecture cannot establish realised analytical capability, shared interpretation, or performance.
 
@@ -209,7 +209,7 @@ Zammuto et al. (2007) argue that new organisational possibilities arise from the
 
 Digital-infrastructure and innovation research broadens the picture further by examining installed bases, generativity, and changing organisational boundaries. These works matter to the wider research programme, but they should not replace the more focused organisation-design framework used for Paper 1.
 
-### The precise contribution of this project
+### The precise contribution to enterprise-software research
 
 Existing literature establishes four parts of the argument:
 
@@ -218,7 +218,7 @@ Existing literature establishes four parts of the argument:
 3. Enterprise systems embody integrated process and information structures.
 4. Technical dependencies can have organisational coordination implications.
 
-The literature does not already establish the complete proposition that ERP reference architecture is codified organisation design. That is the bridge this research must construct and test.
+The literature does not already establish the complete proposition that ERP reference architecture is codified organisation design. That bridge remains to be constructed and tested empirically.
 
 The defensible claim is therefore:
 
@@ -226,7 +226,7 @@ The defensible claim is therefore:
 
 ## Complete technical expansion
 
-The sections below preserve the full source-by-source argument, detailed qualifications, and post-2000 literature map for research and citation work. Each section begins from an analytical problem, then explains what the cited literature contributes, how the contributions connect, and what the project may infer from them.
+The sections below preserve the full source-by-source argument, detailed qualifications, and post-2000 literature map for research and citation work. Each section begins from an analytical problem, then explains what the cited literature contributes, how the contributions connect, and what can defensibly be inferred from them.
 
 ## Purpose and evidential scope
 
@@ -246,7 +246,7 @@ The distinction between division and integration is directly relevant to enterpr
 
 Puranam, Alexy, and Reitzig (2014) provide a second foundation by asking what is genuinely new about new forms of organising. They argue that novelty should be assessed through fundamental organising problems rather than fashionable labels. Their account directs attention to task division, task allocation, reward distribution, information provision, and the bundles of solutions used to address them.
 
-A supposedly new form may therefore combine familiar elements in a new bundle without requiring wholly new organisation theory. This matters for the present programme. A “software-defined organisation” should not be declared a new organisational form merely because familiar mechanisms are represented digitally. The theoretical task is first to identify which organising problems a configuration addresses. The project can then ask whether software performs a distinct organisational operation or provides a new carrier for an established one.
+A supposedly new form may therefore combine familiar elements in a new bundle without requiring wholly new organisation theory. This matters for research on enterprise software as organisation design. A “software-defined organisation” should not be declared a new organisational form merely because familiar mechanisms are represented digitally. The theoretical task is first to identify which organising problems a configuration addresses, then to ask whether software performs a distinct organisational operation or provides a new carrier for an established one.
 
 Together, these perspectives suggest an analytical definition: organisation design is the arrangement of differentiated tasks and actors plus the mechanisms of information, decision, control, incentive and interaction through which their interdependencies are managed. This definition is broad enough to include digitally mediated arrangements but narrow enough to exclude technology that has no organisational operation.
 
@@ -278,7 +278,7 @@ Gulati and Puranam (2009) extend configurational reasoning by analysing inconsis
 
 Contingency and configurational research also permits **equifinality**. In plain language, different configurations may perform a similar function or reach a similar outcome. Equifinality does not mean that every configuration is equally suitable. It also cannot be inferred merely because software offers several configuration choices. Demonstrating functional equivalence requires comparative outcome evidence, which lies outside the documentary design of Paper 1.
 
-Accordingly, this programme should use “fit” in three distinct senses. **Architectural coherence** concerns consistency among encoded elements. **Implementation fit** concerns correspondence between a selected configuration and a particular organisational context. **Enacted fit** concerns whether actual practices meet coordination and information requirements. Documentary evidence can address only the first directly.
+Accordingly, the analytical framework distinguishes three senses of “fit”. **Architectural coherence** concerns consistency among encoded elements. **Implementation fit** concerns correspondence between a selected configuration and a particular organisational context. **Enacted fit** concerns whether actual practices meet coordination and information requirements. Documentary evidence can address only the first directly.
 
 ## 3. Decomposition, modularity and organisational complexity
 
@@ -288,9 +288,9 @@ Modularity is attractive because it promises to make complexity manageable, but 
 
 Their contribution is not that modularity is generally superior to hierarchy. It is that the effectiveness of decomposition depends on how well module boundaries correspond to actual interaction patterns and on the search dynamics those boundaries produce.
 
-Browning (2001) reviews the design structure matrix as a method for representing component or task dependencies and supporting decomposition and integration. Its relevance is methodological as much as theoretical. A matrix makes dependencies visible and can help identify clusters, sequencing, feedback and coordination needs. For the SAP study, a design-structure or dependency matrix could represent role–task–object relations across a reference process. That analytical use should not be mistaken for evidence that SAP itself implements modular organisation design.
+Browning (2001) reviews the design structure matrix as a method for representing component or task dependencies and supporting decomposition and integration. Its relevance is methodological as much as theoretical. A matrix makes dependencies visible and can help identify clusters, sequencing, feedback and coordination needs. In documentary analysis of SAP reference architecture, a design-structure or dependency matrix could represent role–task–object relations across a reference process. That analytical use should not be mistaken for evidence that SAP itself implements modular organisation design.
 
-Rivkin and Siggelkow (2003) similarly show that the decomposition of decisions interacts with hierarchy, incentives, decision interdependence and processing limits. Taken together, this research supports three restrained propositions: task decomposition is an organisation-design choice; the quality of decomposition depends on underlying interdependencies; and decomposition creates integration requirements. It does not support the broad historical claim that organisation design after 2000 became modular.
+Rivkin and Siggelkow (2003) similarly show that the decomposition of decisions interacts with hierarchy, incentives, decision interdependence and processing limits. Taken together, these studies support three restrained propositions: task decomposition is an organisation-design choice; the quality of decomposition depends on underlying interdependencies; and decomposition creates integration requirements. They do not support the broad historical claim that organisation design after 2000 became modular.
 
 ### 3.2 Nearly decomposable systems and enterprise architecture
 
@@ -350,7 +350,7 @@ Gattiker and Goodhue (2005) examine plant-level consequences after ERP implement
 
 An **affordance** is a possibility for action that arises in the relation between an actor and a material arrangement. It is not a fixed effect contained in a technology. Zammuto et al. (2007) use this relational reasoning to argue that new organisational possibilities arise from the intersection of IT features with organisational arrangements and practices, not from IT alone.
 
-They identify affordances that include visualising entire work processes, supporting real-time and flexible product or service innovation, enabling virtual and mass collaboration, and creating simulations or synthetic representations. Their insistence on unpacking both technology and organisation is especially important for this project.
+They identify affordances that include visualising entire work processes, supporting real-time and flexible product or service innovation, enabling virtual and mass collaboration, and creating simulations or synthetic representations. Their insistence on unpacking both technology and organisation is especially important for research on enterprise software as organisation design.
 
 The paper supports analysing what a technology makes organisationally possible. It does not support deterministic language such as “software recreates structure digitally”. An affordance is relational: what can be done depends upon technical features and organisational arrangements. Reference architecture provides evidence about designed features and intended roles, but the actual affordance relation belongs partly to implementation and use.
 
@@ -372,7 +372,7 @@ This formulation treats “software organisational primitive” as a candidate t
 
 ## 7. A refined post-2000 map
 
-| Development | What the literature supports | What it does not support | Relevance to SAP study |
+| Development | What the literature supports | What it does not support | Relevance to SAP reference-architecture analysis |
 |---|---|---|---|
 | Multi-contingency fit | Design components and context are jointly interdependent; misfits can be multiple and dynamic | One universally optimal design or outcome inference from architecture | Analyse configurations and distinguish architectural from implementation fit |
 | Complementarity and inconsistency | Hierarchy, decomposition, incentives and informal organisation can complement, compensate or conflict | Independent feature effects | Code relations among primitives and preserve omitted organisational contingencies |
@@ -384,7 +384,7 @@ This formulation treats “software organisational primitive” as a candidate t
 
 ## 8. Implications for the conceptual framework and coding
 
-The review yields five revisions to the programme's use of organisation design.
+The review yields five refinements to the use of organisation design in enterprise-software research.
 
 First, treat the **configuration** rather than the isolated primitive as the main explanatory unit. The primitive remains useful for descriptive decomposition, but organisation design is visible in relations among structure, task, information, rights and coordination.
 
@@ -402,7 +402,7 @@ The eventual manuscript review should not claim that post-2000 theory “became 
 
 > Post-2000 organisation-design scholarship retained the classical concern with fitting differentiation and integration to task and environmental conditions, while elaborating interdependencies among design elements, the contingencies of decomposition, the plurality of coordination practices, and the organisational possibilities created with digital technology. This work provides concepts for analysing software architecture organisationally, but it does not by itself establish enterprise software as codified organisation design.
 
-That final sentence defines the opening for the present study. Thompson, Galbraith and Mintzberg remain the primary lenses; post-2000 work refines their application, supplies boundary conditions, and prevents overly structural or deterministic interpretation.
+That final sentence defines the opening for documentary research on enterprise-software reference architecture. Thompson, Galbraith and Mintzberg remain the primary lenses; post-2000 work refines their application, supplies boundary conditions, and prevents overly structural or deterministic interpretation.
 
 ## References used in this review
 

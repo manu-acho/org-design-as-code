@@ -2,11 +2,11 @@
 
 ## Scope and evidence boundary
 
-This review draws on independently verified scholarly publications. Claims based only on abstracts are limited to what those abstracts establish, and exact published versions must be consulted before page citation. Literature findings, project interpretations, and propositions for later research are distinguished throughout.
+This review draws on independently verified scholarly publications. Claims based only on abstracts are limited to what those abstracts establish, and exact published versions must be consulted before page citation. Literature findings, research interpretations, and propositions for later research are distinguished throughout.
 
 Technical arrangements can support conditional statements about possible action. They do not establish what actors perceive, which affordances they actualise, how situated practice develops, or what organisational outcomes follow.
 
-The central question is not whether technology determines organisation or whether people freely determine technology. It is how technical arrangements become consequential in relation with actors, goals, knowledge, practices, and institutional conditions. That question matters directly to this project because vendor documentation can show material and symbolic arrangements represented in enterprise software, but it cannot by itself show how those arrangements are perceived, used, worked around, or made consequential in a particular organisation.
+The central question is not whether technology determines organisation or whether people freely determine technology. It is how technical arrangements become consequential in relation with actors, goals, knowledge, practices, and institutional conditions. That question matters directly to research on enterprise software as organisation design because vendor documentation can show material and symbolic arrangements represented in software, but it cannot by itself show how those arrangements are perceived, used, worked around, or made consequential in a particular organisation.
 
 ## Part I: Learning guide
 
@@ -30,7 +30,7 @@ This formulation rejects two shortcuts. The first treats technology as an indepe
 
 **Plain-language explanation:** People design, implement, interpret, and use technologies. Once present, those technologies also enter the circumstances within which later work occurs.
 
-**Research use:** The concept prevents the project from treating SAP architecture as either an autonomous organisational cause or a neutral container.
+**Research use:** The concept prevents SAP architecture from being treated as either an autonomous organisational cause or a neutral container.
 
 **Evidence boundary:** Documentary architecture can establish represented technical arrangements. It cannot establish how a customer organisation produced, interpreted, or reproduced those arrangements in practice.
 
@@ -70,7 +70,7 @@ This formulation rejects two shortcuts. The first treats technology as an indepe
 
 **Plain-language explanation:** An affordance is not simply a feature and not simply a user intention. It is something a particular actor could do with a particular arrangement under particular conditions.
 
-**Research use:** Affordances help the project discuss possible organisational action without claiming that the action occurs.
+**Research use:** Affordances support analysis of possible organisational action without implying that the action occurs.
 
 **Evidence boundary:** Documentary evidence may support a carefully bounded inference about an apparent or candidate affordance. It does not establish that relevant actors perceive or actualise it.
 
@@ -172,7 +172,7 @@ The idea is often simplified into a list of technological affordances. That lose
 
 Constraints are equally relational. A required field may constrain a hurried employee seeking to complete a transaction, while affording a later controller the possibility of consistent checking. The same arrangement can therefore participate in different and even conflicting organisational consequences.
 
-For this project, a documentary analysis may identify a candidate affordance by connecting a represented arrangement to a specified class of actor and action. The wording must remain conditional. The analysis cannot establish perception, use, or effect without organisational evidence.
+In documentary analysis of enterprise-software architecture, a candidate affordance may be identified by connecting a represented arrangement to a specified class of actor and action. The wording must remain conditional. The analysis cannot establish perception, use, or effect without organisational evidence.
 
 ### 9. Sociomateriality changes the unit of analysis
 
@@ -192,7 +192,7 @@ Mutch (2013) criticises accounts that, in his view, insufficiently specify techn
 
 The disagreement matters methodologically. A strong entanglement position may resist separating social and material elements even for analysis. A critical-realist affordance account treats actors and artefacts as distinct but related and seeks mechanisms through which their relation produces effects. An imbrication account preserves different forms of agency while explaining how they become interlocked over time.
 
-The project need not force these positions into one model. It should use each for the question it can answer, state its ontological commitment, and avoid combining incompatible terms without explanation.
+Enterprise-software research need not force these positions into one model. Each should be used for the question it can answer, with its ontological commitment stated and incompatible terms kept distinct.
 
 ### 11. Actualisation explains why potential is not outcome
 
@@ -323,9 +323,9 @@ The following are research propositions generated by the synthesis. They are not
 - Architectural coherence is not implementation fit or enacted fit.
 - One healthcare, engineering, or service case does not establish a universal enterprise-software mechanism.
 
-### 20. Strongest defensible contribution to the project
+### 20. Strongest defensible contribution to enterprise-software research
 
-Stream Six allows the project to take technology seriously without becoming technologically deterministic. It establishes a disciplined path from material arrangement to relational possibility, perception, actualisation, and outcome. It also shows exactly where the current documentary method must stop.
+Stream Six allows research on enterprise software as organisation design to take technology seriously without becoming technologically deterministic. It establishes a disciplined path from material arrangement to relational possibility, perception, actualisation, and outcome. It also shows exactly where documentary analysis must stop.
 
 For Paper One, the strongest contribution is a bounded reconstruction of represented technical and organisational arrangements, including carefully labelled candidate affordances and constraints. For later implementation and enactment studies, the stream provides the concepts and evidence requirements needed to examine how configured technologies enter practice and with what consequences.
 
