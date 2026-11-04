@@ -87,17 +87,3 @@ Start with [06_Research_Protocol.md](06_Research_Protocol.md), use [07_Data_Coll
 The project is at **research-design and corpus-readiness**. The conceptual framework, research and collection protocols, coding manual, analytical framework, manuscript architecture, templates, and execution plan are in place.
 
 No SAP corpus has yet been collected or coded, and no empirical findings are claimed. The next milestone is to complete Streams 7 to 9, freeze the target SAP release and process IDs, and build the pilot corpus. For the public completion boundary and next actions, see [PUBLIC_PROJECT_STATUS.md](PUBLIC_PROJECT_STATUS.md).
-
-## Research quality principles
-
-- Keep observation, interpretation, and theoretical inference separate.
-- Do not use em dashes in project prose.
-- Write for scholarly precision and teaching clarity: introduce the problem, define the concept, explain how authors connect, show its research use, and state its boundary.
-- Preserve substantive detail during readability revisions; relocate complexity when necessary, but do not silently delete it.
-- Preserve source version, provenance, and exact evidence location.
-- Distinguish template roles and capabilities from configured or exercised authority.
-- Require traceable evidence, a rival interpretation, and a stated scope for every retained claim.
-- Search for exceptions and negative cases rather than analysing only normative process flows.
-- Never convert a vendor representation into a claim about organisational outcomes without appropriate implementation or field evidence.
-
-See the [Scholarly Writing and Teaching Standard](literature/WRITING_STANDARD.md) for the project-wide approach to reviews, the consolidated literature review, and the book.

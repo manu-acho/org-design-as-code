@@ -145,13 +145,3 @@ Start with [06_Research_Protocol.md](06_Research_Protocol.md), use [07_Data_Coll
 The project is at **research-design and corpus-readiness**. The conceptual framework, research and collection protocols, coding manual, analytical framework, manuscript architecture, templates, and execution plan are in place.
 
 No SAP or Kering corpus has yet been collected or coded, and no empirical findings are claimed. The next main-project milestone is to complete Streams 7 to 9, freeze the target SAP release and process IDs, and build the pilot corpus. The Kering workstream remains at bounded feasibility stage. For the public completion boundary and next actions, see [PUBLIC_PROJECT_STATUS.md](PUBLIC_PROJECT_STATUS.md) and [Kering workstream status](workstreams/kering-supply-network-governance/KERING_STATUS.md).
-
-## Research quality principles
-
-- Do not use em dashes in project prose. Use commas, colons, parentheses, or sentence breaks instead.
-- Keep observation, interpretation, and theoretical inference separate.
-- Preserve source version, provenance, and exact evidence location.
-- Distinguish template roles and capabilities from configured or exercised authority.
-- Require traceable evidence, a rival interpretation, and a stated scope for every retained claim.
-- Search for exceptions and negative cases rather than analysing only normative process flows.
-- Never convert a vendor representation into a claim about organisational outcomes without appropriate implementation or field evidence.
