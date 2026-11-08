@@ -2,6 +2,14 @@
 
 These are worked forms using hypothetical placeholders, not empirical SAP findings.
 
+## Active Week 6 memos
+
+- [Theory-to-Evidence Operationalisation Matrix](memos/Theory_to_Evidence_Operationalisation_Matrix.md)
+- [Pilot Coding Decision Log](memos/Pilot_Coding_Decision_Log.md)
+- [Pilot Method Memo](memos/Pilot_Method_Memo.md)
+
+The active memos govern the empirical pilot. The examples below remain teaching and method illustrations only.
+
 ## Theory memo: status as coordination primitive
 
 **Observation.** `[EVIDENCE ID]` documents a named state and specifies that a later activity becomes available only after that state is reached.

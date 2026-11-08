@@ -30,15 +30,15 @@ Purpose: make the study boundary visually unavoidable.
 
 ## Candidate tables
 
-| Table | Content | Production trigger |
-|---|---|---|
-| 1 | Theoretical constructs, definitions, observable indicators, exclusions | Codebook frozen |
-| 2 | Corpus composition by process and artefact class | Corpus closed; no invented counts |
-| 3 | SAP artefact types and organisational relevance | Knowledge map validated |
-| 4 | Two-stage coding framework with examples | Pilot complete |
-| 5 | Cross-process mechanism configurations | Within-process analysis complete |
-| 6 | Supported software organisational primitives | Inclusion test and negative cases complete |
-| 7 | Candidate claims, evidence, rivals, confidence | Findings freeze |
+| Table | Content | Production trigger | Current status |
+|---|---|---|---|
+| 1 | Theoretical constructs, definitions, observable indicators, exclusions | Codebook frozen | Week 6 draft produced |
+| 2 | Corpus composition by process and artefact class | Corpus closed; no invented counts | Pending corpus closure |
+| 3 | SAP artefact types and organisational relevance | Knowledge map validated | Pending full evidence segmentation |
+| 4 | Two-stage coding framework with examples | Pilot complete | Week 6 draft produced |
+| 5 | Cross-process mechanism configurations | Within-process analysis complete | Pending Weeks 7 to 9 |
+| 6 | Supported software organisational primitives | Inclusion test and negative cases complete | Pending Weeks 9 and 10 |
+| 7 | Candidate claims, evidence, rivals, confidence | Findings freeze | Pending Week 10 |
 
 Every empirical figure/table must carry source IDs. Captions must distinguish vendor representations from researcher reconstruction. Avoid diagrams that reproduce copyrighted SAP process models; construct analytical abstractions with citations.
 

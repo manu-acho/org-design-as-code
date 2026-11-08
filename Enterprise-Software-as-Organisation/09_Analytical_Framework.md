@@ -1,8 +1,12 @@
 # Analytical Framework
 
+**Operational codebook:** Version 1.0, frozen after the 2608 Swiss Week 6 pilot.
+
 ## From coded segments to findings
 
 Analysis moves through five displays. First, a primitive ledger groups observations by construct and operation. Second, a dependency map links differentiated activities and classifies the relation. Third, a mechanism map attaches coordination, information, governance, and discretion mechanisms to each dependency. Fourth, a process configuration display identifies combinations, gaps, and exception paths. Fifth, a cross-process matrix tests recurrence, variation, and rival explanations.
+
+Before a segment enters these displays, it must pass the granularity gate. The evidence record must identify an exact page, step, branch, rule, or object-state transition adequate for the proposed relation. Overview-level bundles may remain descriptive or support sampling, but they cannot carry a high-confidence mechanism claim merely because several relevant terms appear together.
 
 ```mermaid
 flowchart LR

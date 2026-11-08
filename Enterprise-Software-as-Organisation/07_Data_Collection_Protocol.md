@@ -2,7 +2,7 @@
 
 ## Collection sequence
 
-Freeze `[TARGET SAP RELEASE]` and define included solution-process IDs. For each process, collect in this order: overview/process flow; test or procedural script; roles; app references; configuration; workflow/control documentation; master-data and organisational-structure dependencies; exceptions; extensibility. This sequence begins with process context but prevents the process diagram from becoming the sole representation.
+The pilot collection is frozen to SAP S/4HANA Cloud Public Edition 2608, Switzerland, and the included solution-process IDs J45, BD9, and J58. For each process, collect in this order: overview/process flow; test or procedural script; roles; app references; configuration; workflow/control documentation; master-data and organisational-structure dependencies; exceptions; extensibility. This sequence begins with process context but prevents the process diagram from becoming the sole representation.
 
 Search official sources in priority order: SAP Signavio Process Navigator, SAP Help Portal, SAP Fiori Apps Reference Library, SAP Best Practices content, SAP Learning, then clearly labelled official SAP Community material. Log unsuccessful searches where absence informs a negative case.
 

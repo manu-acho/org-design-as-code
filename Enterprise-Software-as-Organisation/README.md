@@ -52,7 +52,7 @@ The shared literature programme contains nine streams:
 | 8 | Governance, control, accountability, and decision rights | Monitoring, intervention, answerability, legitimacy, and consequences |
 | 9 | Business-process management and process architecture | Process representation, events, actors, objects, variation, and orchestration |
 
-Detailed reviews for Streams 1 to 6 are complete. Streams 7 to 9 will complete the theoretical foundation before the consolidated review is written. See the [literature map](03_Literature_Map.md) and [reading route](literature/Reading_List.md).
+Detailed reviews for all nine streams are complete at the strongest accessible evidence level. The next literature task is the consolidated review and final exact-edition checking. See the [literature map](03_Literature_Map.md) and [reading route](literature/Reading_List.md).
 
 ## Candidate conceptual contribution
 
@@ -133,6 +133,6 @@ The proposed **Enterprise Design Lab: The Organisation Behind the System** is a 
 
 ## Current stage
 
-The programme has completed its initial research architecture and six of the nine literature streams. The conceptual framework, documentary method, coding structure, and comparative design are established.
+The programme has completed its initial research architecture and all nine literature-stream drafts. The conceptual framework, documentary method, coding structure, and comparative design are established.
 
-The next stage completes the remaining literature streams and begins controlled collection and pilot analysis of official SAP reference artefacts. Findings about customer configurations, organisational practice, and performance will require later implementation and field evidence.
+The next stage consolidates the literature and advances controlled pilot analysis of official SAP reference artefacts. Findings about customer configurations, organisational practice, and performance will require later implementation and field evidence.

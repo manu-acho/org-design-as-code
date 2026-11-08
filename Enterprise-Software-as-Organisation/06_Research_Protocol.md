@@ -26,7 +26,7 @@ Exclude private-edition/on-premise evidence unless used as a labelled contrast; 
 
 ## Corpus construction and version control
 
-Freeze a study release before full collection: `[TARGET SAP RELEASE]`. Record source release independently because some cross-cutting pages use rolling documentation. Store stable PDFs or screenshots where licence and access permit; otherwise store a locator, access metadata, and a content hash or detailed source-location description. Name files `ARTIFACTID_short-title_release_YYYY-MM-DD.ext`. Never overwrite a changed source: create a new corpus record and link it with `supersedes_artifact_id`.
+The empirical pilot is frozen to SAP S/4HANA Cloud Public Edition release 2608, country or region Switzerland. Its embedded solution processes are Procurement of Direct Materials (J45), Sell from Stock (BD9), and Accounting and Financial Close (J58). Record source release independently because some cross-cutting pages use rolling documentation. Store stable PDFs or screenshots where licence and access permit; otherwise store a locator, access metadata, and a content hash or detailed source-location description. Name files `ARTIFACTID_short-title_release_YYYY-MM-DD.ext`. Never overwrite a changed source: create a new corpus record and link it with `supersedes_artifact_id`.
 
 Every item enters the corpus register before coding. A weekly change log records additions, exclusions, duplicate resolution, broken links, and release drift. Raw evidence remains immutable; extracts and analytic notes are separate.
 

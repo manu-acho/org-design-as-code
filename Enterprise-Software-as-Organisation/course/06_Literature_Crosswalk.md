@@ -16,14 +16,14 @@ The course requires three source families that must remain separate:
 
 | Module | Shared literature base | Current sufficiency | Course development decision | Additional work required |
 |---|---|---|---|---|
-| 1. Enterprise Software and Organisation | Completed Streams 4 to 6; digital infrastructure | Enterprise systems, routines, and technology-in-practice foundations are complete; infrastructure remains pending | Develop the enterprise-systems and encoded-implemented-enacted content now | Add Stream 7 before finalising the infrastructure treatment |
-| 2. End-to-End Processes | SAP Learning material; enterprise systems | Insufficient as an academic treatment of process concepts and representations | Develop orientation content only | Add a business-process management and process-architecture stream before finalising the scholarly lesson and reading pack |
+| 1. Enterprise Software and Organisation | Completed Streams 4 to 7 | Enterprise systems, routines, materiality, and digital-infrastructure foundations are complete | Proceed to full content development | Verify assigned editions and preserve the artefact-to-infrastructure boundary |
+| 2. End-to-End Processes | Completed Stream 9; SAP Learning material; enterprise systems | Sufficient for scholarly lesson development | Proceed to full content development | Select student readings and distinguish reference, configured, logged, and performed processes |
 | 3. Organisation Design | Completed Stream 1 | Sufficient for full content development | Start now | Verify assigned editions and page-specific readings |
 | 4. Coordination and Interdependence | Completed Stream 2 | Sufficient for full content development | Start now | Select student readings and verify any page-specific claims |
 | 5. Information Processing | Stream 1; Galbraith foundation; analytical framework | Sufficient for a first module, but dispersed | Start now after extracting a dedicated teaching synthesis | Consider a focused information, attention, and visibility supplement if the module exceeds Galbraith's scope |
 | 6. Knowledge Boundaries | Stream 2; Bechky, Carlile, Faraj, and Gittell material | Sufficient for full content development | Start now | Build a cross-functional object exercise after controlled evidence becomes available |
 | 7. Decision Theory | Completed Stream 3 | Sufficient for full content development | Start now | Verify assigned editions and page-specific readings |
-| 8. Governance and Control | Ouchi and Eisenhardt in the map; adjacent decision material | Insufficient for a full postgraduate module | Outline only | Develop a dedicated governance, control, accountability, and decision-rights review |
+| 8. Governance and Control | Completed Stream 8 with links to Streams 2, 3, 6, 7, and 9 | Sufficient for full content development | Proceed to full content development | Select student readings and design an approval, override, traceability, and accountability exercise |
 | 9. SAP Activate and Transformation | SAP Activate lesson; completed Stream 4 | Sufficient for a bounded academic treatment, with an explicit cloud ERP evidence gap | Develop the module while preserving the vendor-evidence boundary | Maintain a literature watch for independent public-cloud ERP and Fit-to-Standard studies |
 | 10. Comparative Process Analysis | Analytical framework and coding manual | The method is available, but empirical teaching cases are not | Develop method instruction only | Wait for release-controlled P2P, O2C, and R2R evidence before building comparative cases |
 
@@ -37,15 +37,15 @@ The three coverage gaps identified through course design do not create three add
 
 The authoritative programme therefore contains nine substantive streams.
 
-## Shared literature work still needed
+## Shared literature work completed for course theory
 
-### Priority A: required before modules can be completed
+### Completed priority streams
 
 1. **Stream 9: Business-process management and process architecture**  
-   Needed for Module 2. The review should clarify process, event, activity, actor, object, state, boundary, hand-off, variation, exception, and end-to-end orientation. It should also distinguish a process model from performed work.
+   Completed for Module 2. The review clarifies process, event, activity, actor, object, state, boundary, hand-off, variation, exception, architecture, and the distinctions among process models, event logs, and performed work.
 
 2. **Expanded Stream 8: Governance, organisational control, accountability, and decision rights**  
-   Needed for Module 8 and for the research coding framework. The existing Ouchi and Eisenhardt foundation is too narrow for a full module. The review must distinguish behaviour and output control, monitoring, standards, intervention, consequences, decision rights, answerability, traceability, and legitimacy.
+   Completed for Module 8 and the research coding framework. The review distinguishes behaviour and output control, control portfolios, monitoring, standards, intervention, consequences, decision rights, formal and real authority, answerability, traceability, and legitimacy.
 
 ### Completed expansion
 
@@ -61,7 +61,7 @@ Completed for Modules 1 and 9, the book, and later papers. The detailed review n
    Galbraith and the completed streams support an initial module. A later supplement may be needed to cover attention allocation, information visibility, overload, selective representation, and the ability to act on information.
 
 6. **Digital infrastructure, standards, and classification**  
-   Relevant to the book and advanced course material. The core stream is already mapped, so the immediate need is a bounded synthesis rather than expansion for its own sake.
+   Completed through Stream 7. Module development should use its distinctions among bounded artefact, infrastructure, installed base, standards, classification, generativity, and control points.
 
 ### Course-only teaching literature
 
@@ -87,19 +87,19 @@ Course population should begin immediately, but only where the shared source bas
 - Module 4: Coordination and Interdependence
 - Module 6: Knowledge Boundaries
 - Module 7: Decision Theory
+- Module 1: Enterprise Software and Organisation
+- Module 2: End-to-End Processes
+- Module 8: Governance and Control
 
 ### Begin bounded first drafts now
 
-- Module 1: Enterprise Software and Organisation
 - Module 5: Information Processing
 - Module 9: SAP Activate orientation only
 - Module 10: comparative method only
 
 ### Hold at outline stage
 
-- Module 2 until the business-process literature stream is developed
-- Module 8 until the governance and control stream is developed
-- all empirical SAP cases until release and process scope are frozen and sources are registered
+- all empirical SAP teaching cases until the registered 2608 Swiss pilot evidence is segmented and the coding approach passes its documented quality checks
 
 ## Non-duplication workflow
 

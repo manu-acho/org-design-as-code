@@ -1,5 +1,16 @@
 # Twelve-Week Execution Plan
 
+## Current execution state
+
+As of 8 November 2026, Weeks 1 to 5 are complete for the bounded pilot rather than for an expanded final corpus. The Week 6 pilot is complete with conditions: Codebook version 1.0, a 15-record pilot matrix, an operationalisation matrix, a coding-decision log, and a method memo now exist. Weeks 7 and 8 must begin by replacing overview-level evidence bundles with exact page, step, branch, rule, or object-state segments where consequential interpretations are proposed.
+
+| Gate | Status | Populated records |
+|---|---|---|
+| Week 1 boundary | Complete for pilot | Research protocol, data-collection protocol, scope freeze, source manifest, bibliography |
+| Weeks 2 to 5 collection | Complete for initial pilot discovery | Private corpus register, evidence log, controlled process extraction, completeness assessment |
+| Week 6 coding | Complete with source-granularity condition | Coding Manual v1.0, private pilot sample and coding matrix, operationalisation matrix, decision log, method memo, method draft |
+| Week 7 onward | Not started | Within-process memos, mechanism maps, master matrix, primitive ledger, claim-evidence-rival table |
+
 | Week | Objective and activities | Concrete deliverable | Completion criterion | Manuscript effect |
 |---|---|---|---|---|
 | 1 | Freeze release/scope; verify theory bibliography; run pilot searches | Scope memo, source map, verified `.bib` v1 | Included process IDs and release recorded | Introduction/method boundary |

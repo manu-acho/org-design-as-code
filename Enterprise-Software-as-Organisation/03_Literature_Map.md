@@ -16,7 +16,7 @@ The streams are connected but not amalgamated. Each must state the problem it ex
 | 6 | Technology, materiality, and organisation | Orlikowski (1992, 2000, 2007); Orlikowski and Scott (2008); Leonardi (2011); Volkoff and Strong (2013) | Duality of technology, practice lens, materiality, sociomateriality, affordance, constraint, actualisation, situated use | Corrects deterministic readings and separates represented features, relational possibilities, actualisation, and realised consequences | Paper 1 brackets enactment and must not infer perception, actualisation, or situated use from documentary architecture |
 | 7 | Digital infrastructure, standards, and classification | Star and Ruhleder (1996); Bowker and Star (1999); Hanseth and Lyytinen (2010); Tilson, Lyytinen and Sørensen (2010) | Relational infrastructure, classification, standards, installed base, generativity, path dependence | Explains how shared classifications and technical arrangements organise distributed work and evolve over time | ERP reference architecture is more bounded than infrastructure, although configured systems may become infrastructural |
 | 8 | Governance, control, accountability, and decision rights | Ouchi (1979); Eisenhardt (1985), with authority and decision-rights links from Stream 3 | Behaviour and output control, standards, monitoring, intervention, decision rights, answerability, consequences, legitimacy | Separates coordination and permission from governance, accountability, and control; supports analysis of approvals, monitoring, override, audit, and escalation | Existing foundations are too narrow; traceability does not establish accountability, and technical access does not establish legitimate authority |
-| 9 | Business-process management and process architecture | Foundational source set to be identified and verified | Process, event, activity, actor, object, state, boundary, hand-off, variation, exception, ownership, orchestration | Provides the representational vocabulary for analysing end-to-end process artefacts before applying organisation theory | A process model is not performed work, and a standard path is not the complete organisational architecture |
+| 9 | Business-process management and process architecture | Curtis, Kellner and Over (1992); van der Aalst (2013); Dumas et al. (2018); Dijkman, Vanderfeesten and Reijers (2016) | Process, event, activity, actor, object, state, boundary, hand-off, variation, exception, ownership, orchestration | Provides the representational vocabulary for analysing end-to-end process artefacts before applying organisation theory | A process model is not performed work, and a standard path is not the complete organisational architecture |
 
 ## Stream completion status
 
@@ -28,9 +28,9 @@ The streams are connected but not amalgamated. Each must state the problem it ex
 | 4 | Enterprise systems, implementation, and transformation | Draft complete | Evidence hardened at strongest accessible level | Maintain the cloud ERP and Fit-to-Standard evidence watch and acquire remaining complete articles |
 | 5 | Organisational routines | Draft complete | Evidence hardened at strongest accessible level | Acquire Nelson and Winter, remaining complete articles, and relevant handbook chapters |
 | 6 | Technology, materiality, and organisation | Draft complete | Evidence hardened at strongest accessible level | Acquire versions of record and complete the ontology comparison before empirical design |
-| 7 | Digital infrastructure, standards, and classification | Not yet complete | Not yet complete | Develop detailed review and source assessment |
-| 8 | Governance, control, accountability, and decision rights | Not yet complete | Not yet complete | Expand beyond the current control foundation and develop the full review |
-| 9 | Business-process management and process architecture | Not yet complete | Not yet complete | Conduct a bounded source search, then develop the review and assessment |
+| 7 | Digital infrastructure, standards, and classification | Draft complete | Independently verified at strongest accessible level | Acquire remaining versions of record for page-level publication checks |
+| 8 | Governance, control, accountability, and decision rights | Draft complete | Independently verified at strongest accessible level | Extend operational enterprise-system control evidence as empirical needs become clear |
+| 9 | Business-process management and process architecture | Draft complete | Independently verified at strongest accessible level | Acquire exact textbook edition and remaining full articles for page-level checks |
 
 ## Course coverage and shared literature gaps
 
@@ -40,8 +40,8 @@ Course design revealed three priority coverage gaps. Two are now incorporated as
 
 | Required stream or extension | Research relevance | Course modules | Current position | Required action |
 |---|---|---|---|---|
-| Business-process management and process architecture | Clarifies what process artefacts represent and how boundaries, variation, and exceptions should be interpreted | 2 and 10 | Added as Stream 9 | Conduct a bounded review before finalising Module 2 |
-| Governance, control, accountability, and decision rights | Strengthens the coding and interpretation of approvals, monitoring, intervention, consequences, and answerability | 8, with links to 7 and 10 | Incorporated into the expanded scope of Stream 8 | Develop the detailed review and source assessment |
+| Business-process management and process architecture | Clarifies what process artefacts represent and how boundaries, variation, and exceptions should be interpreted | 2 and 10 | Completed as Stream 9 | Use the verified synthesis to develop Module 2 |
+| Governance, control, accountability, and decision rights | Strengthens the coding and interpretation of approvals, monitoring, intervention, consequences, and answerability | 8, with links to 7 and 10 | Completed as Stream 8 | Use the verified synthesis to develop Module 8 |
 | Enterprise systems, implementation, and transformation | Connects reference architecture with selection, configuration, standardisation, adaptation, Fit-to-Standard, and implementation choices | 1 and 9 | Incorporated into the expanded scope of Stream 4 | Consolidate and audit the mapped sources, then extend only where concepts remain uncovered |
 
 Three further areas already have foundational sources in the map but require synthesis rather than immediate expansion: routines and sociomateriality; information, attention, and visibility; and digital infrastructure, standards, and classification.
@@ -76,14 +76,20 @@ The organisational-routines stream is developed in [Stream Five: Organisational 
 
 The technology, materiality, and organisation stream is developed in [Stream Six: Technology, Materiality, and Organisation](literature/Stream_06_Technology_Materiality_Organisation_Detailed_Review.md). Its internal source assessment separates technical arrangements, affordances, constraints, actualisation, practices, and outcomes. It treats the represented-configured-implemented-perceived-enacted-outcome chain as project synthesis and prevents documentary architecture from being used as evidence of situated practice.
 
+The digital-infrastructure stream is developed in [Stream Seven: Digital Infrastructure, Standards, and Classification](literature/Stream_07_Digital_Infrastructure_Standards_Classification_Detailed_Review.md). Its internal source assessment distinguishes bounded artefacts from infrastructure-in-use and evaluates standards, classification, installed bases, generativity, path dependence, and control points without assuming that enterprise software is infrastructural by definition.
+
+The governance stream is developed in [Stream Eight: Governance, Control, Accountability, and Decision Rights](literature/Stream_08_Governance_Control_Accountability_Decision_Rights_Detailed_Review.md). Its internal source assessment separates access, decision rights, formal and real authority, behaviour and outcome control, traceability, answerability, legitimacy, and consequence.
+
+The process stream is developed in [Stream Nine: Business-Process Management and Process Architecture](literature/Stream_09_Business_Process_Management_Process_Architecture_Detailed_Review.md). Its internal source assessment distinguishes reference models, executable models, test procedures, event logs, process architectures, and performed work while preserving variation and exception as central analytical concerns.
+
 ## Priority reading route
 
-Streams 1 to 6 provide the completed foundation. The remaining reviews should be developed in this order:
+All nine stream reviews now have complete drafts and internal source assessments. The production order used for the final three streams was:
 
 1. Stream 7, because infrastructure, standards, and classification extend the analysis across systems, organisations, and time.
 2. Stream 8, because governance and control build on distinctions already stabilised in organisation design, coordination, and decision theory.
 3. Stream 9, because business-process management supplies the process-representation vocabulary needed for the course, book, method, and empirical analysis.
 
-This order is a production sequence rather than a hierarchy of theoretical importance. Sources may be collected in parallel, but each stream should receive its own detailed review and source assessment before cross-stream consolidation.
+This order is a production sequence rather than a hierarchy of theoretical importance. The next literature task is the nine-stream consolidation, supported by the remaining acquisition list and final page-level citation audit.
 
 Full bibliographic records and verification flags are maintained in `references/references.bib`. The operational source sequence is maintained in `literature/Reading_List.md`, which must be updated as Streams 7 to 9 are developed.
