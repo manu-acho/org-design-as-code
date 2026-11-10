@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="474" viewBox="0 0 960 474" role="img" aria-labelledby="title desc">
+  <title id="title">Visibility, operative input and intervention</title>
+  <desc id="desc">Three independent Swiss reference examples: J45 displays overdue items; BD9 uses confirmed delivery quantities in billing on an optional route; J58 manual clearing uses a matching condition before posting with clearing.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#425568"/></marker>
+    <marker id="return" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#8a5a20"/></marker>
+  </defs>
+  <rect width="960" height="474" fill="#fff"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="28" y="35" font-size="25" font-weight="700" fill="#172c3c">Visibility, operative input and intervention</text>
+    <text x="28" y="62" font-size="15" font-weight="400" fill="#425568">Independent examples. The rows do not form an end-to-end transaction.</text>
+    <text x="28" y="94" font-size="19" font-weight="700" fill="#172c3c">A · J45: makes information visible</text>
+    <rect x="28" y="105" width="270" height="88" rx="8" fill="#f5f7fa" stroke="#9baab8"/>
+<text x="41" y="131" font-size="17" font-weight="700" fill="#172c3c">Monitor purchase-order items</text>
+<text x="41" y="154" font-size="16" font-weight="400" fill="#172c3c">Optional purchaser view</text>
+<rect x="345" y="105" width="270" height="88" rx="8" fill="#f5f7fa" stroke="#9baab8"/>
+<text x="358" y="131" font-size="17" font-weight="700" fill="#172c3c">Filter and inspect</text>
+<text x="358" y="154" font-size="16" font-weight="400" fill="#172c3c">Overdue items are visible</text>
+<rect x="662" y="105" width="270" height="88" rx="8" fill="#eaf6f3" stroke="#166254"/>
+<text x="675" y="131" font-size="17" font-weight="700" fill="#172c3c">Evidence ends at visibility</text>
+<text x="675" y="154" font-size="16" font-weight="400" fill="#172c3c">No required response is shown</text>
+<path d="M307 149h28" fill="none" stroke="#425568" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M624 149h28" fill="none" stroke="#425568" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="28" y="229" font-size="19" font-weight="700" fill="#172c3c">B · BD9: supplies information to later work</text>
+    <rect x="28" y="240" width="270" height="88" rx="8" fill="#f5f7fa" stroke="#9baab8"/>
+<text x="41" y="266" font-size="17" font-weight="700" fill="#172c3c">Confirm delivery quantity</text>
+<text x="41" y="289" font-size="16" font-weight="400" fill="#172c3c">Optional proof-of-delivery route</text>
+<rect x="345" y="240" width="270" height="88" rx="8" fill="#f5f7fa" stroke="#9baab8"/>
+<text x="358" y="266" font-size="17" font-weight="700" fill="#172c3c">Supply a value to billing</text>
+<text x="358" y="289" font-size="16" font-weight="400" fill="#172c3c">Confirmed quantity is used</text>
+<rect x="662" y="240" width="270" height="88" rx="8" fill="#eaf6f3" stroke="#166254"/>
+<text x="675" y="266" font-size="17" font-weight="700" fill="#172c3c">A documented dependency</text>
+<text x="675" y="289" font-size="16" font-weight="400" fill="#172c3c">Not evidence of invoice dispatch</text>
+<path d="M307 284h28" fill="none" stroke="#425568" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M624 284h28" fill="none" stroke="#425568" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="28" y="364" font-size="19" font-weight="700" fill="#172c3c">C · J58: specifies a state-changing action</text>
+    <rect x="28" y="375" width="270" height="88" rx="8" fill="#f5f7fa" stroke="#9baab8"/>
+<text x="41" y="401" font-size="17" font-weight="700" fill="#172c3c">Select an open item</text>
+<text x="41" y="424" font-size="16" font-weight="400" fill="#172c3c">Accountant selects the item</text>
+<rect x="345" y="375" width="270" height="88" rx="8" fill="#f5f7fa" stroke="#9baab8"/>
+<text x="358" y="401" font-size="17" font-weight="700" fill="#172c3c">Check amounts and post</text>
+<text x="358" y="424" font-size="16" font-weight="400" fill="#172c3c">Amounts match; unassigned</text>
+<text x="358" y="444" font-size="16" font-weight="400" fill="#172c3c">amount is zero</text>
+<rect x="662" y="375" width="270" height="88" rx="8" fill="#eaf6f3" stroke="#166254"/>
+<text x="675" y="401" font-size="17" font-weight="700" fill="#172c3c">Item cleared</text>
+<text x="675" y="424" font-size="16" font-weight="400" fill="#172c3c">Expected accounting state,</text>
+<text x="675" y="444" font-size="16" font-weight="400" fill="#172c3c">not evidence of cash payment</text>
+<path d="M307 419h28" fill="none" stroke="#425568" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M624 419h28" fill="none" stroke="#425568" stroke-width="2" marker-end="url(#arrow)"/>
+  </g>
+</svg>

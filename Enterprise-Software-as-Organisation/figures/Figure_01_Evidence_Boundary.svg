@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="334" viewBox="0 0 960 334" role="img" aria-labelledby="title desc">
+  <title id="title">Paper 1 evidence boundary</title>
+  <desc id="desc">The study examines encoded organisational logic in vendor reference architecture. Customer implementation and enacted work are distinct levels outside the documentary evidence. Dashed arrows denote possible translation, not an observed or inevitable sequence.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0 0L8 4L0 8Z" fill="#526276"/>
+    </marker>
+  </defs>
+  <rect width="960" height="334" fill="#fff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#172c3c">
+    <text x="28" y="35" font-size="26" font-weight="700">Where the documentary evidence stops</text>
+    <text x="28" y="64" font-size="17" fill="#425568">Three analytical levels, not stages of a proven causal sequence</text>
+    <rect x="28" y="89" width="268" height="183" rx="11" fill="#eaf6f3" stroke="#166254" stroke-width="2"/>
+    <rect x="346" y="89" width="268" height="183" rx="11" fill="#f5f7fa" stroke="#9baab8"/>
+    <rect x="664" y="89" width="268" height="183" rx="11" fill="#f5f7fa" stroke="#9baab8"/>
+    <g font-size="13" font-weight="700" letter-spacing="1">
+      <text x="47" y="120" fill="#166254">01 · IN SCOPE</text>
+      <text x="365" y="120" fill="#425568">02 · NOT OBSERVED</text>
+      <text x="683" y="120" fill="#425568">03 · NOT OBSERVED</text>
+    </g>
+    <g font-size="20" font-weight="700">
+      <text x="47" y="156">Encoded logic</text>
+      <text x="365" y="156">Implemented system</text>
+      <text x="683" y="156">Enacted work</text>
+    </g>
+    <g font-size="17">
+      <text x="47" y="188">Vendor reference procedures,</text>
+      <text x="47" y="212">roles, rules and documented</text>
+      <text x="47" y="236">dependencies</text>
+      <text x="365" y="188">Customer-specific settings,</text>
+      <text x="365" y="212">extensions and assigned</text>
+      <text x="365" y="236">responsibilities</text>
+      <text x="683" y="188">What people do, interpret</text>
+      <text x="683" y="212">and adjust in everyday</text>
+      <text x="683" y="236">work</text>
+    </g>
+    <g stroke="#526276" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#arrow)" fill="none">
+      <path d="M305 181h31"/><path d="M623 181h31"/>
+    </g>
+    <text x="28" y="308" font-size="16" fill="#425568">Dashed arrows indicate possible translation through implementation or use, not observed effects.</text>
+  </g>
+</svg>

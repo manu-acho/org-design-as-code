@@ -1,6 +1,8 @@
 # Example Research Memos
 
-These are worked forms using hypothetical placeholders, not empirical SAP findings.
+## Research programme planning
+
+- [Three Papers from a Shared Research Programme](memos/Three_Paper_Research_Programme_Memo.md): the Information Systems manuscript, an Organisation Design feasibility test, and the evidence needed for the existing Fit-to-Standard study.
 
 ## Active Week 6 memos
 
@@ -8,7 +10,7 @@ These are worked forms using hypothetical placeholders, not empirical SAP findin
 - [Pilot Coding Decision Log](memos/Pilot_Coding_Decision_Log.md)
 - [Pilot Method Memo](memos/Pilot_Method_Memo.md)
 
-The active memos govern the empirical pilot. The examples below remain teaching and method illustrations only.
+The active memos govern the empirical pilot. The examples below use hypothetical placeholders and remain teaching and method illustrations, not empirical SAP findings.
 
 ## Theory memo: status as coordination primitive
 

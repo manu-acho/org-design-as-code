@@ -83,10 +83,10 @@ The programme brings together several connected outputs:
 |---|---|
 | Full research overview | [Programme overview](Enterprise-Software-as-Organisation/README.md) |
 | Research vision and questions | [Research vision](Enterprise-Software-as-Organisation/00_Research_Vision.md) and [research questions](Enterprise-Software-as-Organisation/01_Research_Questions.md) |
-| Theoretical architecture | [Literature map](Enterprise-Software-as-Organisation/03_Literature_Map.md) |
+| Theoretical architecture | [Literature map](Enterprise-Software-as-Organisation/03_Literature_Map.md) and [consolidated review](Enterprise-Software-as-Organisation/04_Literature_Review_Working_Draft.md) |
 | Detailed literature reviews | [Literature collection](Enterprise-Software-as-Organisation/literature/) |
 | Research method | [Research protocol](Enterprise-Software-as-Organisation/06_Research_Protocol.md) and [analytical framework](Enterprise-Software-as-Organisation/09_Analytical_Framework.md) |
-| Paper programme | [Paper pipeline](Enterprise-Software-as-Organisation/12_Paper_Pipeline.md) |
+| Paper programme | [Paper 1 working manuscript](Enterprise-Software-as-Organisation/paper/README.md) and [paper pipeline](Enterprise-Software-as-Organisation/12_Paper_Pipeline.md) |
 | Research monograph | [Book overview](Enterprise-Software-as-Organisation/book/README.md) |
 | Postgraduate course | [Course overview](Enterprise-Software-as-Organisation/course/README.md) |
 | Applied research | [Research workstreams](Enterprise-Software-as-Organisation/workstreams/README.md) |
@@ -94,6 +94,4 @@ The programme brings together several connected outputs:
 
 ## Current stage
 
-The programme is moving from theoretical development and research design toward empirical corpus construction. Six of the nine literature streams are complete. The research questions, coding framework, collection protocol, and analytical method are established.
-
-The next stage completes the remaining literature streams and begins the controlled collection and pilot analysis of official SAP reference artefacts. No empirical findings about SAP customers, implemented configurations, organisational behaviour, or performance are claimed at this stage.
+Nine detailed literature reviews and a consolidated synthesis are in place. The first paper has a working manuscript based on a bounded comparison of three Swiss SAP reference cases. Its findings concern represented arrangements, not customer configurations, organisational behaviour or performance.

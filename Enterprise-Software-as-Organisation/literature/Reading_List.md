@@ -1,5 +1,7 @@
 # Reading List and Sequence
 
+The [consolidated literature review](../04_Literature_Review_Working_Draft.md) provides the argument that connects these readings. This list provides the deeper source route and the questions each cluster helps answer.
+
 ## Core theory
 
 1. Thompson (1967), *Organizations in Action*: interdependence, coordination, uncertainty. Output: dependency construct memo.

@@ -2,14 +2,20 @@
 
 ## Current execution state
 
-As of 8 November 2026, Weeks 1 to 5 are complete for the bounded pilot rather than for an expanded final corpus. The Week 6 pilot is complete with conditions: Codebook version 1.0, a 15-record pilot matrix, an operationalisation matrix, a coding-decision log, and a method memo now exist. Weeks 7 and 8 must begin by replacing overview-level evidence bundles with exact page, step, branch, rule, or object-state segments where consequential interpretations are proposed.
+As of 10 November 2026, Weeks 1 to 5 are complete for the bounded pilot rather than for an expanded final corpus. The Week 6 pilot froze Codebook version 1.0 after coding 15 initial records. Weeks 7 and 8 completed the separate J45, BD9 and J58 reference-case analyses. Week 9 compared the cases. Week 10 assessed the candidate claims against competing explanations. Week 11 integrated the literature synthesis and admitted claims into a complete working draft of Paper 1. Submission review remains.
 
 | Gate | Status | Populated records |
 |---|---|---|
 | Week 1 boundary | Complete for pilot | Research protocol, data-collection protocol, scope freeze, source manifest, bibliography |
 | Weeks 2 to 5 collection | Complete for initial pilot discovery | Private corpus register, evidence log, controlled process extraction, completeness assessment |
 | Week 6 coding | Complete with source-granularity condition | Coding Manual v1.0, private pilot sample and coding matrix, operationalisation matrix, decision log, method memo, method draft |
-| Week 7 onward | Not started | Within-process memos, mechanism maps, master matrix, primitive ledger, claim-evidence-rival table |
+| Week 7 J45 within-process analysis | Complete for the bounded reference case | Page-level evidence and coding register, within-process memo, negative-case search, mechanism map |
+| Week 8 BD9 and J58 within-process analysis | Complete for the bounded reference cases | Separate evidence registers, memos, mechanism maps and negative-case reviews |
+| Week 9 cross-process comparison | Complete for the bounded reference cases | Master matrix, candidate primitive ledger and pattern memo with replication and contrast decisions |
+| Week 10 adversarial review | Complete for the bounded reference cases | Claim-evidence-rival table, rejection log, theory and drafting handoff |
+| Literature synthesis for Paper 1 | Draft complete before manuscript integration | Consolidated nine-stream review; exact-edition and pinpoint checks remain where required |
+| Week 11 manuscript integration | Complete at working-draft level | [Paper 1 manuscript](paper/README.md), working references, evidence-linked figure and tables |
+| Week 12 submission preparation | Next | Citation and source checks, submission-target assessment, manuscript and supplements audit |
 
 | Week | Objective and activities | Concrete deliverable | Completion criterion | Manuscript effect |
 |---|---|---|---|---|

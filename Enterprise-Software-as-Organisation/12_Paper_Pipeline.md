@@ -1,5 +1,7 @@
 # Paper Pipeline
 
+[Paper 1 is available as a working manuscript](paper/README.md). The other papers remain proposed studies with their own evidence requirements.
+
 | Paper | Question and theory | Data and method | Expected contribution | Dependency, journals, risks |
 |---|---|---|---|---|
 | 1. *Software as Codified Organisation Design* | How are coordination and governance encoded? Thompson, Galbraith, Mintzberg | Release-controlled SAP reference corpus; documentary/architectural coding across P2P, O2C, R2R | Establishes encoded organisation as object and tests primitives | Foundation. Possible: *Information and Organization*, *Journal of Information Technology*, *Information Systems Journal*. Risk: conceptual relabelling or thin corpus |

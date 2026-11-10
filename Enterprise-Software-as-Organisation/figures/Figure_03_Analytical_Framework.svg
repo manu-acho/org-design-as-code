@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="808" viewBox="0 0 960 808" role="img" aria-labelledby="title desc">
+  <title id="title">Analytical framework: from source to bounded claim</title>
+  <desc id="desc">Panel A: pin the source version and case, extract a step, code its operation, interpret the organisational relation, compare cases, and test rivals and negative cases before retaining, narrowing or dropping a claim. Panel B: J45 invoice step 4 uses a prior purchase order to populate invoice items; a non-PO route limits the claim. J58 reset steps 3 to 5 use a clearing-entry identifier to select a correction target. The rows are independent examples.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0 0L8 4L0 8Z" fill="#425568"/>
+    </marker>
+  </defs>
+  <rect width="960" height="808" fill="#fff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#172c3c">
+    <text x="28" y="35" font-size="26" font-weight="700">A · Analytical workflow</text>
+    <text x="28" y="63" font-size="17" fill="#425568">Document first, interpret second, then try to disconfirm the claim</text>
+    <g fill="#f5f7fa" stroke="#9baab8">
+      <rect x="28" y="85" width="264" height="70" rx="9"/>
+      <rect x="348" y="85" width="264" height="70" rx="9"/>
+      <rect x="668" y="85" width="264" height="70" rx="9"/>
+      <rect x="668" y="190" width="264" height="70" rx="9"/>
+      <rect x="348" y="190" width="264" height="70" rx="9"/>
+      <rect x="28" y="190" width="264" height="70" rx="9" fill="#eaf6f3" stroke="#166254"/>
+    </g>
+    <g font-size="17" font-weight="700">
+      <text x="43" y="112">1 · Pin source and scope</text>
+      <text x="363" y="112">2 · Extract a step</text>
+      <text x="683" y="112">3 · Code what it does</text>
+      <text x="683" y="217">4 · Interpret the relation</text>
+      <text x="363" y="217">5 · Compare cases</text>
+      <text x="43" y="217">6 · Test and decide</text>
+    </g>
+    <g font-size="16">
+      <text x="43" y="136">Edition, release, case boundary</text>
+      <text x="363" y="136">Procedure, branch or state</text>
+      <text x="683" y="136">Describe the object and operation</text>
+      <text x="683" y="241">What work does it connect?</text>
+      <text x="363" y="241">Compare operations and contrasts</text>
+      <text x="43" y="241">Retain, narrow or drop the claim</text>
+    </g>
+    <g fill="none" stroke="#425568" stroke-width="2" marker-end="url(#arrow)">
+      <path d="M303 120h32"/><path d="M623 120h32"/><path d="M800 163v19"/>
+      <path d="M657 225h-32"/><path d="M337 225h-32"/>
+      <path d="M160 269v27H15V75h465v6" stroke="#9a6c2e" stroke-dasharray="5 4"/>
+    </g>
+    <rect x="492" y="278" width="440" height="33" rx="6" fill="#fff6e7"/>
+    <text x="503" y="300" font-size="15.5" fill="#573c17">Rivals and counterexamples can send the analysis back to source.</text>
+    <path d="M28 326h904" fill="none" stroke="#9baab8"/>
+  </g>
+  <g transform="translate(0 342)">
+  <g font-family="Arial, Helvetica, sans-serif" fill="#172c3c">
+    <text x="28" y="35" font-size="26" font-weight="700">B · Worked evidence and counterexample</text>
+    <text x="28" y="64" font-size="17" fill="#425568">Two independent examples of evidence-to-claim reasoning</text>
+    <g font-size="14" font-weight="700" letter-spacing="0.8" fill="#425568">
+      <text x="43" y="105">DOCUMENTED STEP</text>
+      <text x="363" y="105">OPERATION</text>
+      <text x="683" y="105">ORGANISATIONAL CLAIM</text>
+    </g>
+    <g stroke-width="1">
+      <rect x="28" y="122" width="264" height="90" rx="9" fill="#f5f7fa" stroke="#9baab8"/>
+      <rect x="348" y="122" width="264" height="90" rx="9" fill="#f5f7fa" stroke="#9baab8"/>
+      <rect x="668" y="122" width="264" height="90" rx="9" fill="#eaf6f3" stroke="#166254"/>
+      <rect x="28" y="224" width="904" height="76" rx="9" fill="#fff6e7" stroke="#9a6c2e"/>
+      <rect x="28" y="322" width="264" height="90" rx="9" fill="#f5f7fa" stroke="#9baab8"/>
+      <rect x="348" y="322" width="264" height="90" rx="9" fill="#f5f7fa" stroke="#9baab8"/>
+      <rect x="668" y="322" width="264" height="90" rx="9" fill="#eaf6f3" stroke="#166254"/>
+    </g>
+    <g font-size="17">
+      <text x="43" y="152">J45 invoice, step 4</text>
+      <text x="43" y="178">Enter a prior PO reference</text>
+      <text x="363" y="152">Populate the invoice</text>
+      <text x="363" y="178">with purchase-order items</text>
+      <text x="683" y="152" font-weight="700">Supply downstream data</text>
+      <text x="683" y="178">on this invoicing route</text>
+      <text x="43" y="252" font-weight="700" fill="#72501d">Counterexample: J45 invoice without PO or goods receipt</text>
+      <text x="43" y="278">Accounting inputs replace the PO reference. The dependency is not universal.</text>
+      <text x="43" y="352">J58 reset, steps 3–5</text>
+      <text x="43" y="378">Enter an earlier clearing ID</text>
+      <text x="363" y="352">Select and reset</text>
+      <text x="363" y="378">the clearing entry</text>
+      <text x="683" y="352" font-weight="700">Identify a correction target</text>
+      <text x="683" y="378">for the documented reset</text>
+    </g>
+    <g stroke="#425568" stroke-width="2" marker-end="url(#arrow)" fill="none">
+      <path d="M303 167h32"/><path d="M623 167h32"/>
+      <path d="M303 367h32"/><path d="M623 367h32"/>
+    </g>
+    <text x="28" y="445" font-size="15" fill="#425568">Evidence: J45-W07-16, J45-W07-19 and J58-W08-11. See Table 7 for exact SAP locators.</text>
+  </g>
+  </g>
+</svg>

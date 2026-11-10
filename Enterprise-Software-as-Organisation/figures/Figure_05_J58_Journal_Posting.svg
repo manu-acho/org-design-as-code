@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="461" viewBox="0 0 960 461" role="img" aria-labelledby="title desc">
+  <title id="title">J58: submitting is not posting</title>
+  <desc id="desc">Direct route: a general ledger accountant posts an entry. Verification route: a requester submits an unposted entry, a processor approves or rejects it, and approval is expected to lead to posting. Rejection returns the entry with a reason; the requester can edit and resubmit.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#425568"/></marker>
+    <marker id="return" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#8a5a20"/></marker>
+  </defs>
+  <rect width="960" height="461" fill="#fff"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="28" y="35" font-size="25" font-weight="700" fill="#172c3c">J58: submitting is not posting</text>
+    <text x="28" y="62" font-size="15" font-weight="400" fill="#425568">Two documented routes, not observed customer transactions</text>
+    <text x="28" y="95" font-size="19" font-weight="700" fill="#172c3c">A · Direct posting</text>
+    <rect x="28" y="108" width="270" height="88" rx="8" fill="#f5f7fa" stroke="#9baab8"/>
+<text x="41" y="134" font-size="17" font-weight="700" fill="#172c3c">G/L accountant</text>
+<text x="41" y="157" font-size="16" font-weight="400" fill="#172c3c">Enter the journal data</text>
+<rect x="345" y="108" width="270" height="88" rx="8" fill="#f5f7fa" stroke="#9baab8"/>
+<text x="358" y="134" font-size="17" font-weight="700" fill="#172c3c">Post directly</text>
+<text x="358" y="157" font-size="16" font-weight="400" fill="#172c3c">Use the direct posting procedure</text>
+<rect x="662" y="108" width="270" height="88" rx="8" fill="#eaf6f3" stroke="#166254"/>
+<text x="675" y="134" font-size="17" font-weight="700" fill="#172c3c">Posted entry</text>
+<text x="675" y="157" font-size="16" font-weight="400" fill="#172c3c">Expected accounting state</text>
+<path d="M307 152h28" fill="none" stroke="#425568" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M624 152h28" fill="none" stroke="#425568" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="28" y="230" font-size="19" font-weight="700" fill="#172c3c">B · Verification before posting</text>
+    <rect x="28" y="242" width="270" height="88" rx="8" fill="#f5f7fa" stroke="#9baab8"/>
+<text x="41" y="268" font-size="17" font-weight="700" fill="#172c3c">Requester submits</text>
+<text x="41" y="291" font-size="16" font-weight="400" fill="#172c3c">Entry sent for verification</text>
+<text x="41" y="311" font-size="16" font-weight="400" fill="#172c3c">Not yet posted</text>
+<rect x="345" y="242" width="270" height="88" rx="8" fill="#f5f7fa" stroke="#9baab8"/>
+<text x="358" y="268" font-size="17" font-weight="700" fill="#172c3c">Processor reviews</text>
+<text x="358" y="291" font-size="16" font-weight="400" fill="#172c3c">Approve or reject</text>
+<rect x="662" y="242" width="270" height="88" rx="8" fill="#eaf6f3" stroke="#166254"/>
+<text x="675" y="268" font-size="17" font-weight="700" fill="#172c3c">Posted entry</text>
+<text x="675" y="291" font-size="16" font-weight="400" fill="#172c3c">Expected result of approval</text>
+<path d="M307 286h28" fill="none" stroke="#425568" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M624 286h28" fill="none" stroke="#425568" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="612" y="233" font-size="15" font-weight="400" fill="#425568">If approved</text>
+    <path d="M480 337v12" fill="none" stroke="#8a5a20" stroke-width="2" marker-end="url(#return)"/>
+    <rect x="345" y="359" width="270" height="68" rx="8" fill="#fff6e7" stroke="#9a6c2e"/>
+<text x="358" y="385" font-size="17" font-weight="700" fill="#172c3c">Rejected with reason</text>
+<text x="358" y="408" font-size="16" font-weight="400" fill="#172c3c">Returned to the requester</text>
+    <path d="M336 393h-28" fill="none" stroke="#8a5a20" stroke-width="2" marker-end="url(#return)"/>
+    <rect x="28" y="359" width="270" height="68" rx="8" fill="#fff6e7" stroke="#9a6c2e"/>
+<text x="41" y="385" font-size="17" font-weight="700" fill="#172c3c">Requester revises</text>
+<text x="41" y="408" font-size="16" font-weight="400" fill="#172c3c">Edit in light of the reason</text>
+    <path d="M150 352v-13" fill="none" stroke="#8a5a20" stroke-width="2" marker-end="url(#return)"/>
+    <text x="164" y="351" font-size="15" font-weight="400" fill="#425568">Resubmit</text>
+    <text x="662" y="408" font-size="15" font-weight="400" fill="#425568">Approval and rejection are alternatives.</text>
+  </g>
+</svg>

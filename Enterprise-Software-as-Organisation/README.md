@@ -52,7 +52,7 @@ The shared literature programme contains nine streams:
 | 8 | Governance, control, accountability, and decision rights | Monitoring, intervention, answerability, legitimacy, and consequences |
 | 9 | Business-process management and process architecture | Process representation, events, actors, objects, variation, and orchestration |
 
-Detailed reviews for all nine streams are complete at the strongest accessible evidence level. The next literature task is the consolidated review and final exact-edition checking. See the [literature map](03_Literature_Map.md) and [reading route](literature/Reading_List.md).
+Detailed reviews for all nine streams and a [consolidated synthesis](04_Literature_Review_Working_Draft.md) are in place. See the [literature map](03_Literature_Map.md) and [reading route](literature/Reading_List.md).
 
 ## Candidate conceptual contribution
 
@@ -91,7 +91,7 @@ The method preserves the boundary between architectural evidence and claims abou
 
 The immediate paper, **Software as Codified Organisation Design**, develops and evaluates the documentary method and the candidate concept of the software organisational primitive. The wider paper programme addresses Fit-to-Standard, cloud ERP configuration, cross-platform comparison, and AI agents as coordination and governance actors.
 
-See the [paper pipeline](12_Paper_Pipeline.md) and [paper blueprint](paper/00_Paper_Blueprint.md).
+See the [Paper 1 working manuscript](paper/README.md) and the [paper pipeline](12_Paper_Pipeline.md).
 
 ### Research monograph
 
@@ -133,6 +133,4 @@ The proposed **Enterprise Design Lab: The Organisation Behind the System** is a 
 
 ## Current stage
 
-The programme has completed its initial research architecture and all nine literature-stream drafts. The conceptual framework, documentary method, coding structure, and comparative design are established.
-
-The next stage consolidates the literature and advances controlled pilot analysis of official SAP reference artefacts. Findings about customer configurations, organisational practice, and performance will require later implementation and field evidence.
+The programme has completed its initial research design, literature synthesis and comparison of three bounded Swiss SAP reference cases. The first paper is available as a working draft. Findings about customer configurations, organisational practice and performance will require later implementation and field evidence.

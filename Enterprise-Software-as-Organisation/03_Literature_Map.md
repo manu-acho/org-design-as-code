@@ -6,6 +6,8 @@ The shared literature programme contains nine streams. Organisation design, coor
 
 The streams are connected but not amalgamated. Each must state the problem it explains, its relationship with neighbouring streams, and the boundary beyond which another literature is required.
 
+The [consolidated literature review](04_Literature_Review_Working_Draft.md) brings these streams into one argument. The detailed reviews remain the source for extended debates and qualifications; the consolidated review is the shared starting point for Paper 1, the book and the course.
+
 | No. | Stream | Foundational authors and works currently mapped | Core concepts | Development and project relevance | Central tension or gap |
 |---:|---|---|---|---|---|
 | 1 | Organisation design | Thompson (1967); Galbraith (1973, 1977); Mintzberg (1979) | Differentiation, integration, interdependence, uncertainty, information processing, coordination mechanisms, configuration | Explains how tasks, roles, information, decisions, and coordination arrangements form an organisational design | Developed for organisations rather than for reconstructing organisational assumptions from software architecture |
@@ -90,6 +92,6 @@ All nine stream reviews now have complete drafts and internal source assessments
 2. Stream 8, because governance and control build on distinctions already stabilised in organisation design, coordination, and decision theory.
 3. Stream 9, because business-process management supplies the process-representation vocabulary needed for the course, book, method, and empirical analysis.
 
-This order is a production sequence rather than a hierarchy of theoretical importance. The next literature task is the nine-stream consolidation, supported by the remaining acquisition list and final page-level citation audit.
+This order is a production sequence rather than a hierarchy of theoretical importance. The nine-stream synthesis is now drafted. The remaining literature task for Paper 1 is to resolve exact-edition and page-level checks needed for the citations that enter the manuscript.
 
-Full bibliographic records and verification flags are maintained in `references/references.bib`. The operational source sequence is maintained in `literature/Reading_List.md`, which must be updated as Streams 7 to 9 are developed.
+Full bibliographic records and verification flags are maintained in `references/references.bib`. The operational source sequence is maintained in `literature/Reading_List.md`.

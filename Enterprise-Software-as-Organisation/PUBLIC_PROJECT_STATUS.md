@@ -1,14 +1,14 @@
 # Public Project Status
 
-**Status date:** 8 November 2026
+**Status date:** 10 November 2026
 
-**Programme stage:** Empirical pilot, Week 6 complete
+**Programme stage:** Full-length Paper 1 draft in editorial and evidence review
 
 ## Overview
 
 Enterprise Software as Codified Organisation Design is developing a theory-led and evidence-controlled approach for studying how enterprise-software reference architectures represent organisational work. SAP S/4HANA Cloud Public Edition is the instrumental case for the first empirical study, with Procure-to-Pay, Order-to-Cash, and Record-to-Report providing the initial process comparison.
 
-The programme has a mature research design, nine completed literature-stream drafts, and a controlled empirical pilot for SAP S/4HANA Cloud Public Edition 2608 in Switzerland. The Week 6 coding pilot is complete. The project does not claim findings about implemented systems, user behaviour, organisational performance, or realised transformation.
+The programme has an established research design, nine completed literature-stream drafts, and a controlled empirical pilot for SAP S/4HANA Cloud Public Edition 2608 in Switzerland. The bounded Procure-to-Pay, Order-to-Cash and Record-to-Report reference cases have been analysed and compared. The candidate interpretations have been tested against alternatives and narrowed where needed. The project does not claim findings about implemented systems, user behaviour, organisational performance or realised transformation.
 
 ## Progress at a glance
 
@@ -17,9 +17,9 @@ The programme has a mature research design, nine completed literature-stream dra
 | Research questions and scope | Defined |
 | Conceptual and analytical framework | Defined |
 | Research, collection, coding, and analysis protocols | Designed and pilot-tested; Codebook version 1.0 frozen |
-| Literature programme | All nine stream reviews drafted and evidence hardened at the strongest accessible level; final consolidation and page-level acquisition checks remain |
-| SAP empirical corpus | 25 official artefacts registered, 26 initial evidence records logged, and 15 records pilot-coded across J45, BD9 and J58 |
-| Paper programme | Paper 1 architecture drafted; findings await empirical evidence |
+| Literature programme | Nine detailed reviews and a [consolidated synthesis](04_Literature_Review_Working_Draft.md) drafted; final edition and page-level citation checks remain |
+| SAP empirical analysis | Three bounded reference cases analysed and compared; competing explanations assessed |
+| Paper programme | [Paper 1 working manuscript](paper/README.md) meets the [planned word budget](paper/00_Paper_Blueprint.md#working-manuscript-against-the-word-budget): approximately 13,400 words across six body sections. The draft includes six figures and a [source locator table](figures/Table_07_Findings_Source_Locators.md). It has not been submitted. |
 | Research monograph | Concept and chapter architecture established |
 | Postgraduate course | Curriculum architecture established; teaching materials remain in development |
 | Additional applications | Separately governed workstreams remain at concept or feasibility stage |
@@ -41,11 +41,13 @@ The project has established:
 
 The next phase has three connected priorities:
 
-1. Consolidate the nine completed literature streams into one cumulative theoretical argument and complete outstanding page-level acquisition checks.
-2. Replace overview-level evidence bundles with exact page, step, branch, rule, and object-state segments where consequential claims are proposed.
-3. Complete the J45 within-process coding and mechanism map before proceeding to BD9 and J58.
+1. Read Paper 1 as a whole and revise for clarity, pacing, and a distinct contribution.
+2. Complete edition and page-level citation checks and review the evidence supplement, including figure provenance and the locators for retained claims.
+3. Select a submission venue and adapt the manuscript and supplement to its requirements.
 
 Exact editions and versions of record that are required for publication-level page citation will continue to be acquired and checked alongside this work.
+
+Follow-on work remains at planning stage. A study of how alternative reference routes organise work differently requires a distinct comparative result before becoming a standalone paper. The existing Fit-to-Standard study requires customer-specific implementation evidence; the reference corpus provides a baseline, not evidence of transformation in practice.
 
 ## Intended deliverables
 
@@ -67,4 +69,4 @@ Public outputs will preserve this boundary throughout collection, analysis, and 
 
 ## Next readiness gate
 
-The Week 6 coding gate has passed with an explicit source-granularity condition. The next readiness gate is an evidence-backed J45 within-process memo and mechanism map in which every consequential interpretation traces to an exact source location and rival explanation.
+The next milestone is a reviewed manuscript and evidence supplement prepared for a selected submission venue. The current working draft is not a submission version.

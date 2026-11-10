@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="345" viewBox="0 0 960 345" role="img" aria-labelledby="title desc">
+  <title id="title">BD9: selecting work and supplying a value</title>
+  <desc id="desc">Two separate documented examples. Delivery creation uses selection criteria from the sales document and shipping context. In the optional proof-of-delivery route, a confirmed quantity is used in billing.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#425568"/></marker>
+    <marker id="return" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#8a5a20"/></marker>
+  </defs>
+  <rect width="960" height="345" fill="#fff"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="28" y="35" font-size="25" font-weight="700" fill="#172c3c">BD9: selecting work and supplying a value</text>
+    <text x="28" y="62" font-size="15" font-weight="400" fill="#425568">Separate examples from the Swiss Sell from Stock reference procedure</text>
+    <text x="28" y="95" font-size="19" font-weight="700" fill="#172c3c">A · Select items for delivery creation</text>
+    <rect x="28" y="108" width="270" height="88" rx="8" fill="#f5f7fa" stroke="#9baab8"/>
+<text x="41" y="134" font-size="17" font-weight="700" fill="#172c3c">Selection inputs</text>
+<text x="41" y="157" font-size="16" font-weight="400" fill="#172c3c">Sales-order reference, shipping</text>
+<text x="41" y="177" font-size="16" font-weight="400" fill="#172c3c">point and planned date</text>
+<rect x="345" y="108" width="270" height="88" rx="8" fill="#f5f7fa" stroke="#9baab8"/>
+<text x="358" y="134" font-size="17" font-weight="700" fill="#172c3c">Select applicable items</text>
+<text x="358" y="157" font-size="16" font-weight="400" fill="#172c3c">The shipping specialist selects</text>
+<text x="358" y="177" font-size="16" font-weight="400" fill="#172c3c">items for delivery creation</text>
+<rect x="662" y="108" width="270" height="88" rx="8" fill="#eaf6f3" stroke="#166254"/>
+<text x="675" y="134" font-size="17" font-weight="700" fill="#172c3c">Create delivery</text>
+<text x="675" y="157" font-size="16" font-weight="400" fill="#172c3c">Expected result: delivery</text>
+<text x="675" y="177" font-size="16" font-weight="400" fill="#172c3c">number appears in the log</text>
+<path d="M307 152h28" fill="none" stroke="#425568" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M624 152h28" fill="none" stroke="#425568" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="28" y="230" font-size="19" font-weight="700" fill="#172c3c">B · Supply a confirmed quantity to billing</text>
+    <rect x="28" y="242" width="270" height="88" rx="8" fill="#f5f7fa" stroke="#9baab8"/>
+<text x="41" y="268" font-size="17" font-weight="700" fill="#172c3c">Proof of delivery (optional)</text>
+<text x="41" y="291" font-size="16" font-weight="400" fill="#172c3c">Record a quantity deviation</text>
+<text x="41" y="311" font-size="16" font-weight="400" fill="#172c3c">and reason where applicable</text>
+<rect x="345" y="242" width="270" height="88" rx="8" fill="#f5f7fa" stroke="#9baab8"/>
+<text x="358" y="268" font-size="17" font-weight="700" fill="#172c3c">Confirm and save</text>
+<text x="358" y="291" font-size="16" font-weight="400" fill="#172c3c">Establish the confirmed</text>
+<text x="358" y="311" font-size="16" font-weight="400" fill="#172c3c">delivery quantity</text>
+<rect x="662" y="242" width="270" height="88" rx="8" fill="#eaf6f3" stroke="#166254"/>
+<text x="675" y="268" font-size="17" font-weight="700" fill="#172c3c">Use quantity in billing</text>
+<text x="675" y="291" font-size="16" font-weight="400" fill="#172c3c">The confirmed quantity is</text>
+<text x="675" y="311" font-size="16" font-weight="400" fill="#172c3c">used on this route</text>
+<path d="M307 286h28" fill="none" stroke="#425568" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M624 286h28" fill="none" stroke="#425568" stroke-width="2" marker-end="url(#arrow)"/>
+  </g>
+</svg>
