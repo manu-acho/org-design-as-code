@@ -12,7 +12,7 @@ Once work is divided, activities depend on one another. The module asks what tho
 
 ## Learning outcomes
 
-Students should be able to:
+After working through this module, you can:
 
 1. identify major dependency families from documentary evidence;
 2. relate a dependency to a candidate coordination mechanism;

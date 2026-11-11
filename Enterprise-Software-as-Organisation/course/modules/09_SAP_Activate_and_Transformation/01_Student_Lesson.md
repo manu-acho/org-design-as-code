@@ -19,7 +19,7 @@ This module moves from interpreting an architecture to making and verifying an i
 | Deploy | Can the organisation switch over without losing ownership of open items? | Reconciled cutover data, trained roles, support handover and an explicit readiness decision. |
 | Run | Are people using the intended route? What changes when the software or policy changes? | Operational evidence, support and improvement actions, and regression checks after relevant changes. |
 
-The phases describe the direction of delivery; they do not mean every uncertainty is settled in Explore. A playback in Realize may reveal that an identifier is not available where the workshop assumed it would be. The team should revisit the requirement and its rationale, rather than quietly build a different solution. A **quality gate** is a point to evaluate whether the evidence is adequate to proceed. Completing a workshop does not by itself settle a high-risk design decision.
+The phases describe the direction of delivery; they do not mean every uncertainty is settled in Explore. A playback in Realize may reveal that an identifier is not available where the workshop assumed it would be. That discovery reopens the requirement: does the original rationale still hold, and what alternatives preserve it? A **quality gate** is a point to evaluate whether the evidence is adequate to proceed. Completing a workshop does not by itself settle a high-risk design decision.
 
 ```text
 Discover → Prepare → Explore → Realize → Deploy → Run
@@ -129,7 +129,7 @@ Requirement → decision or open question → owned backlog item
            → readiness decision → observation after go-live
 ```
 
-For FTS-02, the first item is to confirm how independent release can be supported for the agreed scope. Keep this distinct from FTS-03, which concerns legitimate invoices without a purchase order. Confirm the coverage rule and map out the controls before using that route. The data and cutover team needs a separately owned action for old blocked items. A training item should teach users how to handle a discrepancy and escalate an unresolved case, not just where to click.
+For FTS-02, the first item is to confirm how independent release can be supported for the agreed scope. Keep this distinct from FTS-03, which concerns legitimate invoices without a purchase order. Confirm the coverage rule and map out the controls before using that route. The data and cutover team needs a separately owned action for old blocked items. A training item can rehearse how to handle a discrepancy and escalate an unresolved case, including what to check before acting.
 
 ```text
 Finance policy: covered cases and eligible reviewers

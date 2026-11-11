@@ -2,7 +2,7 @@
 
 ## Programme learning outcomes
 
-By the end of the postgraduate master course, a successful student should be able to:
+The postgraduate course develops the ability to:
 
 1. Explain how enterprise-software reference architecture can represent organisational arrangements.
 2. Distinguish encoded organisational logic, implemented configuration, enacted practice, and organisational outcomes.
@@ -38,18 +38,18 @@ By the end of the postgraduate master course, a successful student should be abl
 
 ## Performance progression
 
-The curriculum should move through four levels of capability:
+The course builds capability in four stages:
 
 1. **Recognise:** Identify concepts and documentary traces accurately.
 2. **Differentiate:** Avoid common category errors and distinguish neighbouring constructs.
 3. **Analyse:** Connect evidence, mechanism, theory, and boundary in a defensible interpretation.
 4. **Evaluate and design:** Compare configurations, assess alternatives, and formulate evidence needs or design questions.
 
-Students should not be assessed on evaluation before they have demonstrated reliable recognition and differentiation.
+Early work checks that you can recognise and distinguish the concepts before later assessments ask you to evaluate alternatives.
 
 ## Minimum evidence standard for student work
 
-A strong analytical claim should state:
+When you make an analytical claim, include:
 
 - the observed artefact or operation;
 - its precise evidence location;

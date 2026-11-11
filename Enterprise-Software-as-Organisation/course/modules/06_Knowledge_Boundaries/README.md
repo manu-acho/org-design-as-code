@@ -12,7 +12,7 @@ Actors can share data while interpreting it differently or pursuing conflicting 
 
 ## Learning outcomes
 
-Students should be able to:
+After working through this module, you can:
 
 1. distinguish knowledge transfer, translation, and transformation;
 2. explain boundary objects and common ground;

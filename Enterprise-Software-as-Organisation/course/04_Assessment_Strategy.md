@@ -2,7 +2,7 @@
 
 ## Assessment philosophy
 
-Assessment should reward precise reasoning, theoretical integration, evidence traceability, and disciplined inference. It should not reward SAP vocabulary memorisation or unsupported claims about organisational outcomes.
+The assessments look at how well you connect theory to evidence, show where your observations come from, and explain what the evidence can support. Memorising SAP terms will not substitute for that analysis.
 
 ## Provisional postgraduate assessment pattern
 
@@ -13,13 +13,13 @@ Assessment should reward precise reasoning, theoretical integration, evidence tr
 | Process architecture analysis | 25% | 3 to 10, 12 | Conduct a traceable analysis of one bounded process or artefact set |
 | Integrative comparative project | 35% | 11, 12 | Compare processes or configurations and defend bounded conclusions |
 
-The exact weighting may be adapted to institutional regulations, but the course should retain both individual theoretical work and an integrative applied analysis.
+The weighting is provisional and may vary by institution. The assessment design combines individual theoretical work with an applied analysis that brings the course together.
 
 ## Assessment briefs
 
 ### Weekly analytical portfolio
 
-Students complete short exercises in process reconstruction, dependency identification, mechanism classification, information tracing, knowledge-boundary analysis, and decision-premise analysis. Revisions should be allowed so that the portfolio records learning rather than only first attempts.
+Students complete short exercises in process reconstruction, dependency identification, mechanism classification, information tracing, knowledge-boundary analysis, and decision-premise analysis. The draft portfolio brief asks you to revise selected entries so the portfolio shows how your reasoning develops.
 
 The [draft brief](assessments/Draft_Core_Assessment_Briefs.md#1-weekly-analytical-portfolio-20) identifies which practice entries to revise and submit. Some exercises also rehearse outcomes outside this component's primary outcome range. They are not additional graded components.
 
@@ -72,7 +72,7 @@ If generative AI is permitted, an assessment may require an audit note recording
 
 ## Formative assessment
 
-Before graded work, students should receive feedback on:
+The practice activities prepare you for graded work by providing opportunities for feedback on:
 
 - one observation versus interpretation exercise;
 - one dependency-mechanism map;

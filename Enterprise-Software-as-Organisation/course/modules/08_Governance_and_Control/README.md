@@ -12,7 +12,7 @@ Organisations must allocate legitimate decision rights, monitor conduct and outc
 
 ## Learning outcomes
 
-Students should be able to:
+After working through this module, you can:
 
 1. distinguish permission, responsibility, authority, accountability, and control;
 2. identify standards, monitoring, comparison, intervention, and consequence structures;

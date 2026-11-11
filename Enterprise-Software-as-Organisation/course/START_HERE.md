@@ -4,6 +4,10 @@
 
 The course asks how enterprise software represents and helps arrange work across people, functions and systems. The postgraduate course welcomes students from different disciplines and professional backgrounds, including learners preparing for SAP functional or business process consulting, enterprise architecture or ERP transformation. SAP S/4HANA is the principal documented case. The ideas can also be applied to other systems and workplaces. No SAP login, certification, enterprise architecture background or modelling tool is required.
 
+## What you will take away
+
+You will practise mapping work across teams, diagnosing handoff problems, and explaining who decides what. You will compare different ways of organising the same process, turn a business concern into a requirement and a test, and defend your recommendation with evidence. Along the way, you will produce a process map, a written analysis, a workshop decision log and test, and a comparative capstone. See [what you will be able to do](README.md#what-you-will-be-able-to-do) for the full skills overview and how it applies to consulting, architecture and management.
+
 ## How to use each week
 
 Open the module index, read the assigned lesson section and read the case cards before attempting the exercise. Use the reading pack to identify the essential and optional sources. When an official page or article is inaccessible, use the indicated lesson or evidence card and disclose that you worked from a mediated summary. Finish your own attempt before reading the instructor's worked reasoning. Submit a labelled table or a diagram with a text equivalent. Draft the analytical output in class; polish the written reflection afterwards unless the exercise says otherwise.

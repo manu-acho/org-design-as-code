@@ -13,7 +13,7 @@ The primary audience comprises students in:
 - digital transformation;
 - MBA and Executive Master programmes.
 
-Students should normally have prior exposure to organisations, business processes, information systems, or professional work in a related field. SAP experience is helpful but not required.
+Prior exposure to organisations, business processes, information systems or related professional work provides a useful starting point. SAP experience is helpful but not required.
 
 The course also suits students and early-career professionals preparing for SAP functional consulting, business process consulting, enterprise architecture or ERP transformation roles. The cases build process and design reasoning that is useful beyond SAP. They do not substitute for hands-on configuration, implementation experience or certification preparation.
 
@@ -27,7 +27,7 @@ The course may assume that postgraduate students can:
 - write an evidence-supported analytical paper;
 - work collaboratively on an ambiguous organisational problem.
 
-The course must teach, rather than assume:
+The course introduces the following from the ground up:
 
 - SAP-specific process vocabulary;
 - organisation-design theory;
@@ -40,7 +40,7 @@ The course must teach, rather than assume:
 
 The undergraduate pathway is appropriate for advanced Bachelor students in information systems, business administration, operations, accounting, or business-process management.
 
-It should retain the same conceptual backbone while changing the teaching design:
+The proposed pathway keeps the core ideas and offers:
 
 - more process scaffolding and vocabulary support;
 - fewer required original research articles;
@@ -49,13 +49,13 @@ It should retain the same conceptual backbone while changing the teaching design
 - shorter and more structured assignments;
 - greater emphasis on accurate identification before evaluation.
 
-The pathway should not remove evidential boundaries or replace theory with product memorisation.
+Students still learn to explain why a process is organised as it is and what the evidence can support.
 
 ## Executive pathway
 
 The executive pathway is intended for transformation leaders, process owners, enterprise architects, SAP programme managers, senior consultants, and governance professionals.
 
-It should emphasise:
+The proposed pathway focuses on:
 
 - diagnosis of organisational consequences;
 - questions for Fit-to-Standard and design workshops;
@@ -64,23 +64,8 @@ It should emphasise:
 - interpretation of process and architecture artefacts;
 - evidence needed before making transformation claims.
 
-It should reduce literature-review activity without concealing the theoretical basis of its diagnostic tools.
+Participants spend less time reviewing literature while still learning the ideas behind the diagnostic tools.
 
 ## Accessibility and inclusion
 
-Examples should not assume experience in one industry or function. Each module should explain SAP terminology before using it and provide alternative examples where a process is unfamiliar. Teaching materials should use readable prose, descriptive headings, accessible tables, and diagrams with text equivalents.
-
-## Pathway control
-
-Every derived pathway must record:
-
-| Field | Required record |
-|---|---|
-| Master module | Source module and version |
-| Audience change | Prior knowledge and professional context |
-| Outcome change | Retained, removed, or revised outcomes |
-| Content change | Concepts added, reduced, or omitted |
-| Reading change | Different required and optional sources |
-| Activity change | Scaffolding or application adjustments |
-| Assessment change | Task, standard, and grading differences |
-| Boundary check | Confirmation that evidence rules remain intact |
+The lessons use examples from different industries and functions, explain SAP terms in context, and offer familiar examples alongside enterprise processes. Diagrams have text equivalents.

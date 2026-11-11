@@ -12,15 +12,30 @@ The course is not an SAP configuration course and is not a substitute for SAP ce
 
 The analytical questions apply beyond SAP. The course starts with familiar work situations, then uses documented SAP cases to examine how specific arrangements are represented. Optional consulting and enterprise architecture applications build on the same lessons without assuming prior product or framework knowledge.
 
-## Governing boundary
+## What you will be able to do
 
-Course material must distinguish:
+The course teaches you to **analyse how work gets done across an organisation and turn that analysis into a better process design, a clearer requirement, or a testable decision.** SAP S/4HANA is the main case you practise on, but the skills apply to other systems and workplaces.
 
-1. **Encoded organisational logic:** arrangements represented or permitted by reference architecture.
-2. **Implemented organisational configuration:** arrangements selected, configured, extended, and integrated by an adopting organisation.
-3. **Enacted organisational practice:** how people interpret, perform, adapt, resist, or work around those arrangements.
+- **Map an end-to-end process.** Show who does what, which information passes between teams, where the process branches, and what happens when the usual route does not work.
+- **Diagnose a coordination problem.** Ask whether a handoff breaks down because information is missing, teams interpret it differently, or nobody knows who should act.
+- **Analyse decision rights and controls.** Identify what the system routes or enforces, what a person must judge, and who can act. An approval recorded in a workflow is not, by itself, proof that someone reviewed the underlying issue.
+- **Compare ways of organising the same work.** Explain what changes when an approval moves, a task is reassigned, or an exception route is introduced, and when each arrangement makes sense.
+- **Turn a business concern into a requirement and a test.** In a simulated Fit-to-Standard workshop, check whether the standard process meets a fictional client's need, record any unresolved gap, and write a test that would show whether the proposed arrangement works.
+- **Make and defend an evidence-based recommendation.** Separate what the software documentation says should happen from what a company has configured and what people actually do. Explain what further evidence could change your recommendation.
 
-An official reference artefact may support a teaching claim about encoded design. It cannot establish customer behaviour, implementation outcomes, or organisational performance.
+**What you will produce:** A process map, a written process analysis, a workshop decision log and test, and a capstone that compares cases and defends a conclusion. See the [assessment strategy](04_Assessment_Strategy.md) for how this work builds across the course.
+
+**Where you can use it:** If you are exploring **SAP consulting**, you will practise asking better discovery questions and explaining why a requirement matters. If you are exploring **enterprise architecture**, you will practise connecting roles, information, decisions and systems. If you are a **manager or business student**, you will practise examining how work is organised and making a credible case for changing it.
+
+## What the cases can tell you
+
+A software procedure might show that a disputed invoice can be blocked. That does not tell you whether a particular company uses that option, who releases blocks there, or whether the control works in practice. The course looks at these questions separately:
+
+1. **Encoded organisational logic:** What arrangements does the reference system represent or allow?
+2. **Implemented organisational configuration:** What did an organisation select, configure, extend or connect to other systems?
+3. **Enacted organisational practice:** How do people actually carry out, adapt or work around those arrangements?
+
+The reference cases let you investigate the first question. The others require evidence from a particular implementation or workplace. Claims about performance need evidence of actual outcomes.
 
 ## Workspace map
 
@@ -38,30 +53,6 @@ An official reference artefact may support a teaching claim about encoded design
 | `slides/` | Slide architecture and future decks |
 | `reading-packs/` | Reading routes and access records, not duplicated source files |
 | `pathways/` | Controlled undergraduate and executive derivations |
-
-## Shared infrastructure
-
-The course must reuse, rather than duplicate:
-
-- the bibliography in `../references/`;
-- internal source assessments and scholarly reviews;
-- the private process knowledge base, consulted as an internal orientation source and not published as part of the course repository;
-- the controlled SAP corpus and evidence registers in `../data/`;
-- research boundaries and coding rules in `../06_Research_Protocol.md`, `../07_Data_Collection_Protocol.md`, and `../08_Coding_Manual.md`;
-- the project's internal scholarly writing requirements.
-
-## Development rule
-
-A module may be outlined before its source material is complete. It may be described as teaching-ready only when:
-
-1. its concepts are supported by verified scholarly sources;
-2. required readings have an access and verification status;
-3. examples are labelled as empirical, documentary, hypothetical, or illustrative;
-4. SAP cases have provenance, release, scope, and evidence boundaries;
-5. activities align with stated learning outcomes;
-6. instructor notes identify likely misconceptions;
-7. assessment criteria test reasoning rather than product memorisation;
-8. all claims pass the teaching and evidence standard.
 
 ## Current state
 

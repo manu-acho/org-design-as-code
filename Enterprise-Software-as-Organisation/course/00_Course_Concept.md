@@ -71,13 +71,13 @@ The course is not intended to provide:
 
 ## Pedagogical sequence
 
-Each unit should move through five stages:
+The units follow five stages:
 
-1. **Organisational problem:** Begin with a recognisable problem of divided and interdependent work.
-2. **Concrete representation:** Use a process, role, object, rule, workflow, or exception to make the problem visible.
-3. **Theoretical explanation:** Introduce the concepts and authors needed to interpret the representation.
-4. **Analytical return:** Revisit the artefact using more precise language and alternative interpretations.
-5. **Evidence boundary:** State what the artefact establishes and what would require implementation or practice evidence.
+1. **Organisational problem:** A recognisable example shows why people doing different jobs depend on one another.
+2. **Concrete representation:** A process, role, record, rule, workflow or exception makes the problem visible.
+3. **Theoretical explanation:** Concepts and authors help explain the arrangement.
+4. **Analytical return:** Learners revisit the artefact using more precise language and consider alternative interpretations.
+5. **Evidence boundary:** The unit distinguishes what the artefact establishes from what requires implementation or practice evidence.
 
 ## Relationship with the research and book
 
@@ -91,6 +91,6 @@ The course, research, and book share verified intellectual and empirical infrast
 
 Teaching may expose unclear concepts or weak examples, but the course cannot be used as evidence for research findings. Research results may enter teaching only after they satisfy the project's evidential requirements.
 
-## Development principle
+## Other pathways
 
-The postgraduate course is the master design. Undergraduate and executive versions must cite the master module from which content was derived and record any change in learning outcome, reading depth, activity, assessment, or claim scope.
+The postgraduate course is the basis for the planned undergraduate and executive versions. These versions adapt readings, activities and assessments to their audiences while retaining the same distinctions about what the evidence can support.

@@ -12,7 +12,7 @@ An isolated process cannot establish whether a mechanism is recurrent, contingen
 
 ## Learning outcomes
 
-Students should be able to:
+After working through this module, you can:
 
 1. compare dependencies and mechanisms across controlled process scopes;
 2. distinguish recurrence from superficial similarity;

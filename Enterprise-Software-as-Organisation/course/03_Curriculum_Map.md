@@ -45,9 +45,9 @@ The preferred process sequence is:
 
 The bounded Swiss J45, BD9 and J58 corpus supports the drafted cases. The [student route](START_HERE.md#why-cases-recur) explains how the course reuses them for different questions. Recruit to Retire is an orientation topic, not an equivalent documentary case.
 
-## Required reading architecture
+## How to use the reading packs
 
-Each module should eventually identify:
+The reading packs guide you through:
 
 - one **orientation reading** written for accessibility;
 - one or two **essential scholarly readings**;
@@ -55,19 +55,8 @@ Each module should eventually identify:
 - controlled SAP artefacts for the applied activity;
 - optional advanced readings.
 
-The reading pack must record whether each source was checked in full text, abstract, metadata, or another access level.
+The packs indicate whether the source was checked in full text, in abstract, through bibliographic details, or at another access level.
 
-## Module completion standard
+## What you will find in a module
 
-A completed module contains:
-
-1. module rationale and prerequisite knowledge;
-2. aligned learning outcomes;
-3. student lesson;
-4. scholarly foundation and verified reading route;
-5. verified case or explicitly labelled illustration;
-6. analytical activity and worked guidance;
-7. seminar questions;
-8. misconception and boundary notes;
-9. formative check;
-10. links to relevant assessments.
+Start with the module overview for the topic, learning outcomes and any earlier concepts it builds on. The lesson and reading pack introduce the theory. A documentary case or clearly labelled illustration gives you something to analyse. Use the seminar questions, exercise and checks for understanding to practise before working on the related assessment. Worked guidance can help you compare your reasoning after your first attempt.

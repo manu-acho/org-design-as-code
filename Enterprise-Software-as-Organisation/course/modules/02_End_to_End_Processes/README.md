@@ -12,7 +12,7 @@ End-to-end work crosses functions, roles, information objects, and system bounda
 
 ## Learning outcomes
 
-Students should be able to:
+After working through this module, you can:
 
 1. identify activities, actors, objects, events, states, and outcomes;
 2. distinguish a process boundary from an organisational or software boundary;

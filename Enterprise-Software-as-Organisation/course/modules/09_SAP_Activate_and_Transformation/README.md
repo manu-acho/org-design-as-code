@@ -12,7 +12,7 @@ Reference architecture enters organisations through scoping, Fit-to-Standard, co
 
 ## Learning outcomes
 
-Students should be able to:
+After working through this module, you can:
 
 1. explain the principal phases and workstreams of SAP Activate;
 2. distinguish reference design from implemented configuration;

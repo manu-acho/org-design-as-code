@@ -12,7 +12,7 @@ Organisations must make choices despite limited attention, incomplete informatio
 
 ## Learning outcomes
 
-Students should be able to:
+After working through this module, you can:
 
 1. explain bounded rationality, satisficing, decision premises, and programmes;
 2. distinguish calculation, recommendation, decision, authorisation, execution, and automation;

@@ -12,7 +12,7 @@ Enterprise software is commonly treated as either technology or a process tool. 
 
 ## Learning outcomes
 
-Students should be able to:
+After working through this module, you can:
 
 1. explain the concept of enterprise software as codified organisation design;
 2. distinguish encoded logic, implemented configuration, enacted practice, and outcomes;

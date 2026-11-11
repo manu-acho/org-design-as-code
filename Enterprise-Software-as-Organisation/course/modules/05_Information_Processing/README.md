@@ -12,7 +12,7 @@ Interdependent and uncertain work creates information requirements. The module e
 
 ## Learning outcomes
 
-Students should be able to:
+After working through this module, you can:
 
 1. explain information-processing requirements and capacity;
 2. distinguish information availability, visibility, interpretation, and ability to act;

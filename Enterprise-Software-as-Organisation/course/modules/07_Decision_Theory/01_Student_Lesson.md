@@ -140,7 +140,7 @@ This is the link back to Modules 5 and 6. A manager may have the right to decide
 
 ## 7. Consulting studio: test the edge case, not just the normal order
 
-Return to the [fictional client brief](../../cases/M07_BD9_Routing_and_Decision.md). The current proposal routes by amount. The desired arrangement must also bring unusual delivery commitments to someone who can assess them. Students should not assume the SAP example implements that requirement. First write down what counts as unusual, who can recognise it, what evidence the reviewer needs and whether the specialist advises or decides.
+Return to the [fictional client brief](../../cases/M07_BD9_Routing_and_Decision.md). The current proposal routes by amount. The desired arrangement must also bring unusual delivery commitments to someone who can assess them. The SAP example does not establish that the client's requirement is implemented. First write down what counts as unusual, who can recognise it, what evidence the reviewer needs and whether the specialist advises or decides.
 
 Use a small TOGAF-informed baseline-target-gap comparison, building on [Module 5](../05_Information_Processing/01_Student_Lesson.md). The gap might be a missing escalation responsibility, a missing indicator or an unclear combination rule when both amount and delivery conditions apply. One option is to have the standard reviewer seek advice before making a choice; another is to propose routing defined exceptions to a specialist reviewer. Which is better depends on whether the client needs advice, an independent decision or a veto. Both are proposed designs, not claims about delivered SAP functionality.
 

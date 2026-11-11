@@ -20,7 +20,7 @@ Collective work must be divided into specialised contributions and integrated in
 
 ## Learning outcomes
 
-Students should be able to:
+After working through this module, you can:
 
 1. distinguish differentiation from integration;
 2. explain contingency, configuration, complementarity, fit, and equifinality;
@@ -37,8 +37,4 @@ Students should be able to:
 
 Students compare an isolated workflow feature with the larger configuration of roles, thresholds, information, permissions, and exception rights that gives it organisational meaning.
 
-The first exercise focuses on information, dependencies and checks. Detailed authority and permissions analysis follows in Modules 7 and 8. Students should have basic process vocabulary from Modules 1 and 2; the reading pack includes a short route for independent study while those modules are still being developed.
-
-## Review before teaching
-
-Check access to the assigned readings and SAP passages, the usability of the diagrams and text equivalents, and the timing of both sessions with a reader or pilot group. Confirm whether the evidence cards need an institution-specific distribution review. Record feedback here before changing the teaching-ready status.
+The first exercise focuses on information, dependencies and checks. Detailed authority and permissions analysis follows in Modules 7 and 8. The exercise builds on the process vocabulary from Modules 1 and 2. If you are starting here, the reading pack gives you a short independent route.

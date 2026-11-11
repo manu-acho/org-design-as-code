@@ -1,6 +1,6 @@
 # Reading Packs
 
-This directory records course reading routes. It should not duplicate copyrighted source files or create a bibliography separate from `../../references/`.
+Use these packs to find your assigned readings and see how to access them. The packs link to sources rather than reproducing them. The course draws on the shared research bibliography.
 
 Start with the [Module 1 orientation pack](M01_Enterprise_Software_and_Organisation.md), then the [Module 2 process pack](M02_End_to_End_Processes.md). The [Module 10 capstone pack](M10_Comparative_Process_Analysis.md) links the comparative method, scholarship and source locators.
 
