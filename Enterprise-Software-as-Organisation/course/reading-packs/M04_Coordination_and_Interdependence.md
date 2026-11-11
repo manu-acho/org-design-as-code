@@ -1,0 +1,13 @@
+# Module 4 reading pack: Coordination and Interdependence
+
+The [Stream 2 review](../../literature/Stream_02_Coordination_Theory_Detailed_Review.md) provides the fuller synthesis. Bibliographic records remain in the [shared bibliography](../../references/references.bib). Read the original sources through the linked access routes; do not copy them into the course pack.
+
+| When and role | Assigned material | Access and verification | Question to bring |
+|---|---|---|---|
+| Week 5 · Required orientation | [Student lesson, Part I](../modules/04_Coordination_and_Interdependence/01_Student_Lesson.md#part-i-identify-the-dependency-before-choosing-a-mechanism). | Local course draft. | What do two activities depend on, and how would we know? |
+| Week 5 · Essential scholarship | [Malone and Crowston (1994), *The Interdisciplinary Study of Coordination*](https://crowston.syr.edu/sites/default/files/acmcs94.pdf). Read the introduction and the examples on shared resources and producer-consumer relationships. | Author-hosted full text; verified in the shared review. | Why can the same dependency have several mechanisms? |
+| Week 6 · Required orientation and application | [Student lesson, Part II](../modules/04_Coordination_and_Interdependence/01_Student_Lesson.md#part-ii-separate-the-mechanism-from-what-it-might-achieve) and the [BD9 evidence cards](../cases/M04_BD9_Delivery_and_Billing.md). | Local course text and paraphrased, registered Swiss source observations. Read the original SAP steps where accessible. | What is selected, and what is used as a value? |
+| Week 6 · Essential scholarship | [Okhuysen and Bechky (2009), *Coordination in Organizations: An Integrative Perspective*](https://doi.org/10.5465/19416520903047533). Read the abstract and, if available through your library, the discussion of the three integrative conditions. | Full text checked in the shared review; public publisher abstract, full-text access may require a library. The lesson provides the necessary orientation if only the abstract is available. | Which evidence would show a condition rather than the existence of a device? |
+| Week 6 · Optional boundary reading | [Faraj and Xiao (2006), *Coordination in Fast-Response Organizations*](https://doi.org/10.1287/mnsc.1060.0526). Read the abstract. | Publisher abstract checked in the shared review. No full-text reading is assumed here. | Why might a prescribed procedure still need dialogue and expertise? |
+
+The lesson uses Thompson's dependency families at concept level, following Stream 2. Do not assign page-specific passages from Thompson or Mintzberg until the exact editions and access have been verified.

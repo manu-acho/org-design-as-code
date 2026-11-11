@@ -16,13 +16,15 @@ Provisional format:
 
 - 12 teaching weeks;
 - 10 content modules;
-- one weekly seminar or lecture-seminar;
-- one applied laboratory, workshop, or guided analytical activity;
+- one 90-minute seminar or lecture-seminar per week in the current draft, for 18 scheduled hours;
+- one applied laboratory, workshop, or guided analytical activity within each seminar or as guided study, not a second scheduled class by default;
 - 7.5 ECTS as the default design assumption, adjustable to institutional requirements;
 - approximately 187.5 total student-learning hours at 7.5 ECTS;
 - a balance of theory, documentary analysis, process knowledge, and integrative application.
 
 Credit value, contact hours, prerequisites, and institutional level descriptors remain provisional until a target programme is selected.
+
+The 7.5 ECTS figure is a planning assumption, not an approved credit value.
 
 ## Educational purpose
 

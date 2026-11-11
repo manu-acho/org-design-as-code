@@ -50,7 +50,7 @@ Three further areas already have foundational sources in the map but require syn
 
 Teaching-design literature on constructive alignment, cases, assessment, accessibility, and responsible AI use will be managed separately as pedagogical infrastructure. It should not be mixed into the substantive literature review unless it bears directly on the research question.
 
-The operational module-by-module status and non-duplication workflow are maintained in the [Course Literature Crosswalk](course/06_Literature_Crosswalk.md).
+See the [course curriculum map](course/03_Curriculum_Map.md) for the teaching sequence.
 
 ## Context-specific literature for empirical workstreams
 

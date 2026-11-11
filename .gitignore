@@ -15,6 +15,10 @@
 # Internal project-management reporting
 /Enterprise-Software-as-Organisation/PROJECT_STATUS.md
 
+# Local course development, source checks and instructor answer keys
+/Enterprise-Software-as-Organisation/course/.private-teaching/
+/Enterprise-Software-as-Organisation/course/instructor/M*_Seminar.md
+
 # Private partner-development and collaboration material
 /Enterprise-Software-as-Organisation/workstreams/kering-supply-network-governance/foundation-study/
 /Enterprise-Software-as-Organisation/workstreams/kering-supply-network-governance/02_Integrated_Programme_Architecture.md

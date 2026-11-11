@@ -2,7 +2,8 @@
 
 ## Status
 
-**Stage:** Scaffold  
+**Stage:** Complete first draft package for Week 2. Teaching and rights review pending.
+
 **Teaching-ready:** No
 
 ## Organisational problem
@@ -18,12 +19,15 @@ Students should be able to:
 3. reconstruct a documented process without assuming that it describes enacted work;
 4. explain the principal P2P, O2C, R2R, and Recruit to Retire domains at an orientation level.
 
-## Core source route
+## Start here
 
-- private verified process-orientation material maintained outside the public repository
-- `../../../05_SAP_Knowledge_Map.md`
-- `../../../07_Data_Collection_Protocol.md`
+| Resource | How to use it |
+|---|---|
+| [Student lesson](01_Student_Lesson.md) | Learn the vocabulary, set the process boundary and work through the J45 procurement reconstruction. |
+| [J45 and BD9 dossier](../../cases/M02_J45_and_BD9_Process_Reconstruction.md) | Read the registered reference observations with their exact locators. |
+| [Process reconstruction exercise](../../exercises/M02_Reconstruct_a_Process.md) | Map a separate BD9 case and explain the limits of each link. |
+| [Reading pack](../../reading-packs/M02_End_to_End_Processes.md) | Follow the technical orientation, process scholarship and source-access notes. |
 
-## Planned activity
+## How this module fits
 
-Students reconstruct a process from a diagram and supporting text, then mark uncertain boundaries and missing evidence.
+Bring the evidence annotation from [Module 1](../01_Enterprise_Software_and_Organisation/README.md). No SAP account or formal notation is needed. The [Stream 9 review](../../../literature/Stream_09_Business_Process_Management_Process_Architecture_Detailed_Review.md) provides the scholarly foundation. Take the process map into [Module 3](../03_Organisation_Design/README.md) to analyse how and why the work is divided.

@@ -1,0 +1,17 @@
+# Module 3 reading pack: Organisation Design
+
+Use the [student lesson](../modules/03_Organisation_Design/01_Student_Lesson.md) to orient yourself before the research articles. Follow links to the original sources rather than copying them into a course pack. The [shared bibliography](../../references/references.bib) remains the source of bibliographic records; the [Stream 1 review](../../literature/Stream_01_Organisation_Design_Detailed_Review.md) is the fuller synthesis.
+
+| When and role | Reading and assigned portion | Access and verification | Question to bring to class |
+|---|---|---|---|
+| Week 3 · Required orientation | [Student lesson, Part I](../modules/03_Organisation_Design/01_Student_Lesson.md#part-i-why-dividing-work-creates-a-design-problem). Use the process-vocabulary check below if needed. | Full local course text; draft for review | What does allocating a task leave unresolved about its dependencies? |
+| Week 3 · Essential scholarly reading | [Burton and Obel (2018), *The science of organizational design: fit between structure and coordination*](https://link.springer.com/article/10.1186/s41469-018-0029-2). Read the opening discussion of division of tasks and coordination; skim the conclusion. | Open publisher full text, checked in the shared Stream 1 review | Why is the suitability of a coordination mechanism a question about the arrangement, not the mechanism alone? |
+| Week 3 · Optional conceptual extension | [Puranam, Alexy and Reitzig (2014), *What's “New” About New Forms of Organizing?*](https://strategy.univie.ac.at/fileadmin/user_upload/p_strategy/Corporate/Puranam_Alexy_Reitzig_AMR_2014.pdf). Read the section introducing the four problems of organising. [Publisher DOI](https://doi.org/10.5465/amr.2011.0436). | University-hosted article; full text checked in shared review | Which problem is invisible if we draw only the flow of information? |
+| Week 4 · Required lesson and application | [Student lesson, Part II](../modules/03_Organisation_Design/01_Student_Lesson.md#part-ii-why-a-configuration-matters-more-than-a-feature) and the [J45 evidence cards](../cases/M03_J45_Invoice_Routes.md). Read the two source passages if accessible. | Local paraphrases trace to two reviewed Swiss SAP test procedures. Direct SAP access may vary. Record whether you read the original or the card. | What result is comparable and which dependency changes? |
+| Week 4 · Optional advanced reading | [Ethiraj and Levinthal (2004), *Modularity and Innovation in Complex Systems*](https://faculty.wharton.upenn.edu/wp-content/uploads/2004/09/Modularity-and-Innovation.pdf). Read the introduction and discussion of decomposition trade-offs. [Publisher DOI](https://doi.org/10.1287/mnsc.1030.0145). | Author-hosted article; full text checked in shared review | What do the simulation assumptions allow us to say, and why does that not amount to evidence about an ERP implementation? |
+
+Do not assign exact passages from Thompson, Galbraith or Mintzberg until the edition and reading access are verified. This pack makes no page-specific claims from those books.
+
+## Process-vocabulary check
+
+In an invoice procedure, the **role** is the represented performer, the **activity** is something the performer does, the **business record** is what they use or change, and the **state** describes its condition. The **process boundary** tells you where the analysis starts and stops. In the [J45 case](../cases/M03_J45_Invoice_Routes.md), try pointing to one of each. An expected posted state does not extend the case into payment.

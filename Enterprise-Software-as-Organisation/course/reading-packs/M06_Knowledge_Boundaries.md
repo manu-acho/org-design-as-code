@@ -1,0 +1,15 @@
+# Module 6 reading pack: Knowledge Boundaries
+
+Use the [Stream 2 review](../../literature/Stream_02_Coordination_Theory_Detailed_Review.md) for the fuller synthesis and the [shared bibliography](../../references/references.bib) for reference records. No source PDFs are copied here.
+
+| Role | Assigned material | Access and verification | Question to bring |
+|---|---|---|---|
+| Required orientation | [Student lesson](../modules/06_Knowledge_Boundaries/01_Student_Lesson.md) and [case](../cases/M06_J45_One_Order_Different_Meanings.md). | The case summary is sufficient for class. The case gives the original procedure and step locations. | What does the order line actually supply, and what remains open? |
+| Essential theory | [Carlile (2004), *Transferring, Translating, and Transforming*](https://people.bu.edu/carlile/docs/3-T%20Framework%20%28Carlile%29.pdf), sections 3.1 to 3.4 and Table 1. | University-hosted full text; relevant sections and table checked. | When does transfer fail even though the data arrived intact? |
+| Essential empirical example | [Bechky (2003), *Sharing Meaning Across Occupational Communities*](https://doi.org/10.1287/orsc.14.3.312.15162). Start with the abstract. If available, read the turbo pump fixture episode and its Table 2 row. | Publisher landing page and full article copy checked; the lesson summarises the episode if access is limited. | What did the demonstration make visible that the words had not? |
+| Optional boundary-object extension | [Carlile (2002), *A Pragmatic View of Knowledge and Boundaries*](https://doi.org/10.1287/orsc.13.4.442.2953). Start with the abstract. | The publisher page was checked when the pack was prepared; the shared review checked the full article. | How can an object help people make differences and consequences discussable? |
+| Optional relational extension | [Gittell (2002)](https://doi.org/10.1287/mnsc.48.11.1408.268), abstract. | Publisher abstract checked; the shared review records earlier full-article access. | How might a routine support rather than substitute for interaction? |
+| Optional expertise extension | [Faraj and Sproull (2000), *Coordinating Expertise in Software Development Teams*](https://doi.org/10.1287/mnsc.46.12.1554.12072), abstract. | Publisher abstract checked; no full-text access assumed. | Why is finding a specialist not the same as bringing their expertise into the decision? |
+| Optional architecture bridge | [The Open Group, TOGAF Practitioner competency mapping](https://help.opengroup.org/hc/en-us/articles/32127544219026-Competency-to-Role-Mapping-TOGAF-Enterprise-Architecture-Practitioner). See stakeholder management, architecture development and gap analysis. | Public official overview. The studio uses original material. | What should the target specify separately about roles, information and escalation? |
+
+If a reading is unavailable, use the relevant section of the lesson and state that you used the course synthesis. The article settings are not evidence about behaviour in the fictional company or a live SAP implementation.

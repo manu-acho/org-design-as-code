@@ -1,6 +1,6 @@
 # Module Development
 
-The ten modules form the postgraduate master curriculum. Each module folder contains a brief now and will later contain student lessons, seminar plans, activities, instructor notes, and links to verified cases.
+The ten modules form the postgraduate master curriculum. Each has a first draft package. Start with [Module 1](01_Enterprise_Software_and_Organisation/README.md) and follow the [student route](../START_HERE.md) for the sequence.
 
 ## Required module files
 
@@ -12,7 +12,7 @@ The ten modules form the postgraduate master curriculum. Each module folder cont
 | `03_Instructor_Notes.md` | Teaching sequence, misconceptions, boundaries, and solutions |
 | `04_Readings.md` | Required and optional readings with verification and access status |
 
-Only `README.md` is created during the architecture stage. The remaining files should be added when a module enters active content development.
+Only `README.md` is required at the architecture stage. In active development, the module index may link to activities, instructor notes and readings in their shared course folders rather than duplicating them.
 
 ## Module content sequence
 

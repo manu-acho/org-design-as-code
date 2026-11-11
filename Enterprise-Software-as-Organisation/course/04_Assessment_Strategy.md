@@ -21,9 +21,13 @@ The exact weighting may be adapted to institutional regulations, but the course 
 
 Students complete short exercises in process reconstruction, dependency identification, mechanism classification, information tracing, knowledge-boundary analysis, and decision-premise analysis. Revisions should be allowed so that the portfolio records learning rather than only first attempts.
 
+The [draft brief](assessments/Draft_Core_Assessment_Briefs.md#1-weekly-analytical-portfolio-20) identifies which practice entries to revise and submit. Some exercises also rehearse outcomes outside this component's primary outcome range. They are not additional graded components.
+
 ### Theory comparison paper
 
 Students analyse one organisational problem through two or three theoretical lenses. A strong paper explains what each perspective makes visible, how the perspectives relate, and which questions remain outside their reach.
+
+See the [draft brief](assessments/Draft_Core_Assessment_Briefs.md#2-theory-comparison-paper-20) for the two-lens default and planning range.
 
 ### Process architecture analysis
 
@@ -37,9 +41,11 @@ Students select a controlled artefact set and produce:
 - an inference-boundary statement;
 - a short reflection on missing evidence.
 
+See the [draft brief](assessments/Draft_Core_Assessment_Briefs.md#3-process-architecture-analysis-25) for the process boundary, case requirements and planning range.
+
 ### Integrative comparative project
 
-Students compare at least two process or architecture configurations. They must explain similarities and differences through documented dependencies and arrangements rather than assuming that one design represents universal best practice. The submission includes a written analysis and oral defence.
+Students compare at least two process or architecture configurations. They must explain similarities and differences through documented dependencies and arrangements rather than assuming that one design represents universal best practice. The submission includes a written analysis and oral defence. See the [draft comparative project brief](assessments/M10_Integrative_Comparative_Project.md) for provisional deliverables and marking guidance.
 
 ## Core marking dimensions
 

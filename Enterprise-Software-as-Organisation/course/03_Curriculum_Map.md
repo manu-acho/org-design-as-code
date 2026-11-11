@@ -2,7 +2,7 @@
 
 ## Course architecture
 
-The master course contains ten modules scheduled across twelve weeks. Modules 3 and 4 receive two weeks because they establish the central analytical vocabulary. Module 10 occupies the final two weeks to support synthesis and project presentation.
+The master course contains ten modules scheduled across twelve weeks. Modules 3 and 4 receive two weeks because they establish the central analytical vocabulary. Module 10 occupies the final week for synthesis and defence rehearsal; formal individual defences are scheduled separately if needed.
 
 | Week | Module | Central question | Principal concepts | Main applied activity |
 |---:|---|---|---|---|
@@ -16,17 +16,17 @@ The master course contains ten modules scheduled across twelve weeks. Modules 3 
 | 8 | 6. Knowledge Boundaries | When is shared data insufficient for coordination? | transfer, translation, transformation, boundary object, expertise | analyse one shared object across functional perspectives |
 | 9 | 7. Decision Theory | How does architecture shape possible choices? | bounded rationality, premises, programmes, defaults, thresholds, discretion | trace a decision programme and locate judgement |
 | 10 | 8. Governance and Control | Who may decide, act, monitor, override, and answer? | permission, responsibility, authority, accountability, control | analyse an approval, override, and audit trace |
-| 11 | 9. SAP Activate and Transformation | How does reference design enter implementation choice? | Fit-to-Standard, configuration, scope, standardisation, local variation | prepare questions for a design workshop |
-| 12 | 10. Comparative Process Analysis | What patterns recur, vary, or remain unsupported across processes? | configuration comparison, rival explanation, negative case, boundary | present and defend an integrative project |
+| 11 | 9. SAP Activate and Transformation | How does reference design enter implementation choice? | Fit-to-Standard, configuration, scope, standardisation, local variation | run a Fit-to-Standard simulation and hand decisions, backlog and tests to delivery |
+| 12 | 10. Comparative Process Analysis | What patterns recur, vary, or remain unsupported across processes? | configuration comparison, rival explanation, negative case, boundary | run a three-case comparative studio and rehearse the independent project defence |
 
 ## Concept progression
 
 The sequence is cumulative:
 
-1. A process representation makes organisational arrangements inspectable.
-2. Organisation design explains division and integration.
-3. Interdependence identifies what must be coordinated.
-4. Coordination theory links dependencies with proposed mechanisms and conditions.
+1. Enterprise software represents part of an organisational arrangement; the artefact is not the enacted organisation.
+2. End-to-end process reconstruction makes roles, objects, boundaries, handoffs and alternatives inspectable.
+3. Organisation design explains division and integration.
+4. Coordination theory identifies dependencies and connects them to proposed mechanisms and conditions.
 5. Information-processing theory explains informational demand and capacity.
 6. Knowledge-boundary research explains why common data may not create common meaning.
 7. Decision theory explains how premises, programmes, and discretion shape choice.
@@ -43,7 +43,7 @@ The preferred process sequence is:
 - R2R for shared representations, consolidation, control, close, and reporting;
 - Recruit to Retire when its corpus is sufficiently comparable for role, information, authority, and lifecycle analysis.
 
-Until the official corpus is collected, these are planned cases rather than completed teaching cases.
+The bounded Swiss J45, BD9 and J58 corpus supports the drafted cases. The [student route](START_HERE.md#why-cases-recur) explains how the course reuses them for different questions. Recruit to Retire is an orientation topic, not an equivalent documentary case.
 
 ## Required reading architecture
 

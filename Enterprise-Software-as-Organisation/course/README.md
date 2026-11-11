@@ -4,9 +4,13 @@
 
 **Enterprise Software as Organisation Design: Processes, Coordination and Digital Transformation**
 
+Studying the course? Open the [12-week student route](START_HERE.md).
+
 This workspace develops a postgraduate academic course from the project's verified literature, SAP learning material, documentary method, and eventual empirical findings. The master design is suitable for an MSc, MBA, Executive Master, or advanced professional programme. Undergraduate and executive pathways are derived from this master course through controlled changes in depth, pacing, readings, activities, and assessment.
 
 The course is not an SAP configuration course and is not a substitute for SAP certification training. SAP S/4HANA is the principal empirical setting through which students learn to analyse enterprise software as an organisational arrangement.
+
+The analytical questions apply beyond SAP. The course starts with familiar work situations, then uses documented SAP cases to examine how specific arrangements are represented. Optional consulting and enterprise architecture applications build on the same lessons without assuming prior product or framework knowledge.
 
 ## Governing boundary
 
@@ -27,15 +31,10 @@ An official reference artefact may support a teaching claim about encoded design
 | `02_Learning_Outcomes.md` | Programme outcomes and constructive alignment |
 | `03_Curriculum_Map.md` | Twelve-week postgraduate curriculum and concept progression |
 | `04_Assessment_Strategy.md` | Assessment design, integrity rules, and grading logic |
-| `05_Teaching_and_Evidence_Standard.md` | Source, writing, case, and inferential requirements |
-| `06_Literature_Crosswalk.md` | Module readiness, shared literature gaps, and non-duplication workflow |
-| `07_Serious_Game_Concept_Memo.md` | Deferred course-companion simulation concept and development gates |
-| `COURSE_STATUS.md` | Completed work, development gates, and next actions |
 | `modules/` | Ten content modules that can be scheduled across twelve teaching weeks |
 | `cases/` | Verified process and architecture cases |
 | `exercises/` | Reusable learning activities and analytical exercises |
 | `assessments/` | Assignment briefs, rubrics, and marking guidance |
-| `instructor/` | Teaching notes, lesson plans, and misconception guidance |
 | `slides/` | Slide architecture and future decks |
 | `reading-packs/` | Reading routes and access records, not duplicated source files |
 | `pathways/` | Controlled undergraduate and executive derivations |
@@ -66,4 +65,4 @@ A module may be outlined before its source material is complete. It may be descr
 
 ## Current state
 
-The curriculum architecture and controlled templates are established. Module content and empirical cases will be developed progressively as the literature streams and SAP corpus mature. No module is yet designated as fully teaching-ready.
+[Module 1](modules/01_Enterprise_Software_and_Organisation/README.md) is the entry point for learners new to enterprise systems. All ten modules have first draft packages, including documentary cases and clearly labelled workshop simulations. Pilot teaching, delivery checks and assessment approval remain pending.

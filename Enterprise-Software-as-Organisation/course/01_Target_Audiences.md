@@ -15,6 +15,8 @@ The primary audience comprises students in:
 
 Students should normally have prior exposure to organisations, business processes, information systems, or professional work in a related field. SAP experience is helpful but not required.
 
+The course also suits students and early-career professionals preparing for SAP functional consulting, business process consulting, enterprise architecture or ERP transformation roles. The cases build process and design reasoning that is useful beyond SAP. They do not substitute for hands-on configuration, implementation experience or certification preparation.
+
 ## Entry assumptions
 
 The course may assume that postgraduate students can:

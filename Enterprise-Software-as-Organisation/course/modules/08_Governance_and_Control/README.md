@@ -2,7 +2,8 @@
 
 ## Status
 
-**Stage:** Scaffold pending dedicated literature stream  
+**Stage:** Complete first draft package for Week 10. Teaching and rights review pending.
+
 **Teaching-ready:** No
 
 ## Organisational problem
@@ -19,13 +20,15 @@ Students should be able to:
 4. distinguish traceability from accountability;
 5. state the evidential limits of formal governance artefacts.
 
-## Core source route
+## Start here
 
-- `../../../03_Literature_Map.md`
-- `../../../02_Conceptual_Framework.md`
-- `../../../literature/Stream_03_Decision_Theory_Detailed_Review.md`
-- future governance and control detailed review
+| Resource | How to use it |
+|---|---|
+| [Student lesson](01_Student_Lesson.md) | Distinguish control, authority, traceability and accountability using a financial close example. |
+| [Reading pack](../../reading-packs/M08_Governance_and_Control.md) | Follow the scholarly foundations and source-access notes. |
+| [J58 case and fictional trace](../../cases/M08_J58_Verification_and_Accountability.md) | Compare the reference procedures with an invented close history and a proposed exception policy. |
+| [Formative exercise](../../exercises/M08_Test_a_Control_and_Trace.md) | Map a control, test rival explanations and design an accountability relationship. |
 
-## Planned activity
+## How this module fits
 
-Students analyse a formal approval and audit trace, then propose alternative governance interpretations and additional evidence needs.
+Bring the decision programme from [Module 7](../07_Decision_Theory/README.md). The [Stream 8 review](../../../literature/Stream_08_Governance_Control_Accountability_Decision_Rights_Detailed_Review.md) gives the fuller theory. The exception exercise is a paper simulation and does not require a live SAP system. [Module 9](../09_SAP_Activate_and_Transformation/README.md) will apply these distinctions to SAP Activate and Fit-to-Standard.

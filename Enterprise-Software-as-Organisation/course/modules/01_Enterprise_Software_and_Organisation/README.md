@@ -2,7 +2,8 @@
 
 ## Status
 
-**Stage:** Scaffold  
+**Stage:** Complete first draft package for Week 1. Teaching and rights review pending.
+
 **Teaching-ready:** No
 
 ## Organisational problem
@@ -18,12 +19,15 @@ Students should be able to:
 3. classify claims according to the evidence required to support them;
 4. explain the candidate concept of a software organisational primitive without treating it as established.
 
-## Core source route
+## Start here
 
-- `../../../00_Research_Vision.md`
-- `../../../02_Conceptual_Framework.md`
-- `../../../04_Literature_Review_Working_Draft.md`
+No SAP, TOGAF or enterprise architecture experience is required.
 
-## Planned activity
+| Resource | How to use it |
+|---|---|
+| [Student lesson](01_Student_Lesson.md) | Start with the grocery order, then learn to distinguish represented design, implementation, practice and outcomes. |
+| [Reading pack](../../reading-packs/M01_Enterprise_Software_and_Organisation.md) | Follow the short technical and scholarly readings, with their access limits. |
+| [BD9 evidence cards](../../cases/M01_BD9_Reading_a_Reference_Artefact.md) | Read two documented operations and separate the expected record from the physical event. |
+| [Annotation exercise](../../exercises/M01_Annotate_a_Reference_Artefact.md) | Make and qualify your first source-supported claim. |
 
-Students annotate a small reference artefact, separate observation from interpretation, and write one architectural claim plus one claim that the artefact cannot support.
+The [research conceptual framework](../../../02_Conceptual_Framework.md) develops the underlying argument. [Module 2](../02_End_to_End_Processes/README.md) takes the actor, action, record and evidence vocabulary into end-to-end mapping.
