@@ -329,7 +329,7 @@ Stream Six allows research on enterprise software as organisation design to take
 
 For Paper One, the strongest contribution is a bounded reconstruction of represented technical and organisational arrangements, including carefully labelled candidate affordances and constraints. For later implementation and enactment studies, the stream provides the concepts and evidence requirements needed to examine how configured technologies enter practice and with what consequences.
 
-## Part IV: Audit conclusion
+## Part IV: Synthesis and evidential limits
 
 The evidence supports five conclusions.
 
@@ -339,4 +339,4 @@ The evidence supports five conclusions.
 4. Actualisation is the empirical process that separates technological potential from organisational consequence.
 5. Documentary architecture can support bounded claims about represented arrangements and candidate possibilities, but not claims about perception, enacted practice, or realised outcomes.
 
-The supplied reports helped locate sources and sharpen the six-layer analytical chain. Their claims were not imported without checking. The resulting stream is therefore narrower in some places and stronger in others: it preserves materiality, practice, affordance, and sociomateriality while making every transition in the causal story answerable to an appropriate form of evidence.
+The six-layer analytical chain connects materiality, practice, affordance, and sociomateriality without treating their concepts as interchangeable. Each transition requires an appropriate form of evidence: a represented arrangement does not establish perception, actualisation, or an organisational outcome.

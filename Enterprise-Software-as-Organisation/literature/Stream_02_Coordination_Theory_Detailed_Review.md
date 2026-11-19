@@ -167,7 +167,7 @@ The following sections preserve the full scholarly review, its source qualificat
 
 This stream asks how enterprise software can be analysed as an arrangement for coordinating interdependent work. It does **not** assume that a workflow, data object, role, or alert produces coordination in practice. The defensible claim from reference artefacts is narrower: software can encode candidate dependencies, coordination mechanisms, visibility conditions, and escalation paths. Whether actors understand, accept, repair, or circumvent those arrangements requires implementation or practice evidence.
 
-The review was rebuilt around independently checked original publications. Discovery material was used only to locate candidate sources and is not treated as evidence. The supporting verification record distinguishes complete-text, abstract-level, metadata-only, and unresolved access so that each claim remains within the evidence actually inspected.
+The analysis draws on original scholarly publications. Where only an abstract is available, claims are limited to what that abstract establishes. Bibliographic metadata can establish a publication's identity, but not its substantive findings; unresolved sources do not support retained claims.
 
 ## 1. What coordination theory explains
 

@@ -170,7 +170,7 @@ The following sections preserve the full scholarly review, including its distinc
 
 This stream explains how organisations structure choice under bounded rationality and how enterprise software can encode decision premises, programmes, permissions, decision opportunities, and exceptions. Its central boundary is strict: a documented role, approval, rule, threshold, default, or automated action can reveal an encoded decision structure, but it cannot establish accepted authority, exercised discretion, substantive judgement, accountability, or decision quality.
 
-The synthesis below was rebuilt around independently identified scholarship. Discovery material was used only to locate candidate sources and is not treated as evidence. The supporting verification record distinguishes the access level and evidential limits of the sources used.
+The synthesis draws on original scholarship, with claims limited to the material available for each source. An abstract supports only the arguments or findings it states, while bibliographic metadata establishes publication identity rather than substantive support. Source-specific qualifications remain attached to the claims they limit.
 
 ## 1. Bounded rationality as an organisational problem
 
