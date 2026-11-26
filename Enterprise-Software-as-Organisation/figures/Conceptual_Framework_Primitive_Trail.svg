@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="890" viewBox="0 0 800 890" role="img" aria-labelledby="title desc">
+  <title id="title">Software organisational primitive: the audit trail</title>
+  <desc id="desc">Documented construct to candidate primitive to operation, route, restrict, signal, validate or aggregate, to organisational mechanism to process-level configuration to theoretical pattern.</desc>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#526276"/></marker></defs>
+  <rect width="800" height="890" fill="#fff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#172c3c" text-anchor="middle">
+    <text x="400" y="43" font-size="28" font-weight="700">From construct to theoretical pattern</text>
+    <text x="400" y="77" font-size="21" fill="#425568">The required audit trail</text>
+    <g fill="#f1f6fa" stroke="#9baab8" stroke-width="1.5">
+      <rect x="55" y="110" width="690" height="85" rx="12"/>
+      <rect x="55" y="235" width="690" height="85" rx="12"/>
+      <rect x="55" y="360" width="690" height="115" rx="12" fill="#eaf6f3" stroke="#166254"/>
+      <rect x="55" y="515" width="690" height="85" rx="12"/>
+      <rect x="55" y="640" width="690" height="85" rx="12"/>
+      <rect x="55" y="765" width="690" height="85" rx="12"/>
+    </g>
+    <g font-size="25" font-weight="700">
+      <text x="400" y="162">Documented construct</text>
+      <text x="400" y="287">Candidate primitive</text>
+      <text x="400" y="402">Operation</text>
+      <text x="400" y="567">Organisational mechanism</text>
+      <text x="400" y="692">Process-level configuration</text>
+      <text x="400" y="817">Theoretical pattern</text>
+    </g>
+    <text x="400" y="440" font-size="22">Route, restrict, signal, validate, aggregate</text>
+  </g>
+  <g fill="none" stroke="#526276" stroke-width="2" marker-end="url(#arrow)">
+    <path d="M400 197V228"/><path d="M400 322V353"/><path d="M400 477V508"/>
+    <path d="M400 602V633"/><path d="M400 727V758"/>
+  </g>
+</svg>

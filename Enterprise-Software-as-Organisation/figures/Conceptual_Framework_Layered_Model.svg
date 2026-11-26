@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1110" viewBox="0 0 800 1110" role="img" aria-labelledby="title desc">
+  <title id="title">Layered analytical model</title>
+  <desc id="desc">An analytical sequence, not a causal hierarchy: structure; division of labour; coordination; information; governance; control; discretion. Discretion cuts across all layers.</desc>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#526276"/></marker></defs>
+  <rect width="800" height="1110" fill="#fff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#172c3c" text-anchor="middle">
+    <text x="400" y="43" font-size="28" font-weight="700">Layered analytical model</text>
+    <text x="400" y="76" font-size="21" fill="#425568">Analytical sequence, not a universal causal hierarchy</text>
+    <g fill="#f1f6fa" stroke="#9baab8" stroke-width="1.5">
+      <rect x="55" y="110" width="690" height="105" rx="12"/>
+      <rect x="55" y="245" width="690" height="105" rx="12"/>
+      <rect x="55" y="380" width="690" height="105" rx="12"/>
+      <rect x="55" y="515" width="690" height="105" rx="12"/>
+      <rect x="55" y="650" width="690" height="105" rx="12"/>
+      <rect x="55" y="785" width="690" height="105" rx="12"/>
+      <rect x="55" y="920" width="690" height="125" rx="12" fill="#eaf6f3" stroke="#166254"/>
+    </g>
+    <g font-size="25" font-weight="700">
+      <text x="400" y="150">Structure</text>
+      <text x="400" y="285">Division of labour</text>
+      <text x="400" y="420">Coordination</text>
+      <text x="400" y="555">Information</text>
+      <text x="400" y="690">Governance</text>
+      <text x="400" y="825">Control</text>
+      <text x="400" y="960">Discretion</text>
+    </g>
+    <g font-size="22">
+      <text x="400" y="185">Units, domains and relationships</text>
+      <text x="400" y="320">Roles, tasks and objects</text>
+      <text x="400" y="455">Dependencies and linking mechanisms</text>
+      <text x="400" y="590">Creation, transfer, integration and visibility</text>
+      <text x="400" y="725">Rights, authority and accountability</text>
+      <text x="400" y="860">Rules, monitoring and consequences</text>
+      <text x="400" y="995">Mandatory, configurable, extensible</text>
+      <text x="400" y="1024">and exceptional space</text>
+    </g>
+    <text x="400" y="1082" font-size="21" fill="#425568">Discretion cuts across all layers.</text>
+  </g>
+  <g fill="none" stroke="#526276" stroke-width="2" marker-end="url(#arrow)">
+    <path d="M400 217V238"/><path d="M400 352V373"/><path d="M400 487V508"/>
+    <path d="M400 622V643"/><path d="M400 757V778"/><path d="M400 892V913"/>
+  </g>
+</svg>

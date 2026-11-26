@@ -4,29 +4,13 @@
 
 Encoded organisational logic is the representation and operationalisation of assumptions about differentiated work, dependency, information, authority, control, and legitimate variation within a software reference architecture. “Encoded” includes executable rules and workflows as well as reference models, role templates, and structural definitions that prescribe or enable configuration. It does not imply that all documentation is executable or that use conforms to design.
 
-```mermaid
-flowchart TB
-  A["Vendor reference architecture"] --> B["Encoded organisational logic"]
-  B --> C["Implemented organisational configuration"]
-  C --> D["Enacted organisational practice"]
-  A2["Configuration and extension choices"] --> C
-  D2["Local routines, interpretation and workaround"] --> D
-  B -. "Paper 1 boundary" .-> B
-```
+![Translation from vendor reference architecture through encoded organisational logic to implemented configuration and enacted practice, with the Paper 1 boundary at encoded logic](figures/Conceptual_Framework_Translation.svg)
 
-The arrows represent translation, not deterministic causation. Implementation selects and changes reference elements; enactment may reproduce or depart from the configured arrangement. Documentary analysis is valid for B and provides propositions - not evidence - about C or D.
+The arrows represent translation, not deterministic causation. Implementation selects and changes reference elements; enactment may reproduce or depart from the configured arrangement. Documentary analysis is valid for encoded organisational logic and provides propositions - not evidence - about implemented organisational configuration or enacted organisational practice.
 
 ## Layered analytical model
 
-```mermaid
-flowchart TB
-  S["Structure: units, domains and relationships"] --> L["Division of labour: roles, tasks and objects"]
-  L --> C["Coordination: dependencies and linking mechanisms"]
-  C --> I["Information: creation, transfer, integration and visibility"]
-  I --> G["Governance: rights, authority and accountability"]
-  G --> K["Control: rules, monitoring and consequences"]
-  K --> D["Discretion: mandatory, configurable, extensible and exceptional space"]
-```
+![Layered analytical model: structure, division of labour, coordination, information, governance, control and discretion, read as an analytical sequence rather than a causal hierarchy](figures/Conceptual_Framework_Layered_Model.svg)
 
 The model is an analytical sequence rather than a universal causal hierarchy. **Structure** identifies recognised organisational territories such as company codes, plants, purchasing organisations, and sales organisations. These constructs establish scopes for action, data, and responsibility. **Division of labour** allocates activities to business roles, system actors, and organisational units. It makes differentiation observable.
 
@@ -42,14 +26,7 @@ Thompson predicts that different interdependencies create different coordination
 
 A software organisational primitive is a recurring, bounded software construct through which an organisational mechanism is instantiated. Inclusion requires: (1) an identifiable construct in evidence; (2) recurrence or reusable type-status; (3) an operation or constraint affecting organisationally meaningful actors, objects, or activities; and (4) a defensible link to coordination, information processing, governance, or control. Exclude visual decoration, broad modules, purely infrastructural components without an organisational relation, and researcher-created abstractions lacking an SAP referent.
 
-```mermaid
-flowchart LR
-  E["Documented construct"] --> P["Candidate primitive"]
-  P --> O["Operation: route, restrict, signal, validate, aggregate"]
-  O --> M["Organisational mechanism"]
-  M --> F["Process-level configuration"]
-  F --> T["Theoretical pattern"]
-```
+![Audit trail from documented construct to candidate primitive, operation, organisational mechanism, process-level configuration and theoretical pattern](figures/Conceptual_Framework_Primitive_Trail.svg)
 
 The chain is the required audit trail. “Approval workflow” is not automatically “direct supervision”. Evidence must show its conditions, decision actor, object, consequence, and relations. The same primitive can instantiate several mechanisms; coding permits co-occurrence while the memo identifies the dominant explanation.
 

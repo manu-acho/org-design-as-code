@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="700" viewBox="0 0 960 700" role="img" aria-labelledby="title desc">
+  <title id="title">From reference architecture to enacted practice</title>
+  <desc id="desc">Vendor reference architecture leads to encoded organisational logic, implemented organisational configuration and enacted organisational practice. Configuration and extension choices enter implementation. Local routines, interpretation and workaround enter enactment. Paper1 is bounded at encoded organisational logic. Arrows denote translation, not deterministic causation.</desc>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#526276"/></marker></defs>
+  <rect width="960" height="700" fill="#fff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#172c3c" text-anchor="middle">
+    <text x="480" y="42" font-size="27" font-weight="700">Enterprise software as encoded organisation</text>
+    <text x="480" y="77" font-size="21" fill="#425568">Arrows represent translation, not deterministic causation.</text>
+    <g fill="#f1f6fa" stroke="#9baab8" stroke-width="1.5">
+      <rect x="55" y="110" width="510" height="85" rx="12"/>
+      <rect x="55" y="265" width="510" height="85" rx="12" fill="#eaf6f3" stroke="#166254"/>
+      <rect x="55" y="430" width="510" height="85" rx="12"/>
+      <rect x="55" y="585" width="510" height="85" rx="12"/>
+      <rect x="645" y="420" width="275" height="105" rx="12"/>
+      <rect x="645" y="570" width="275" height="115" rx="12"/>
+    </g>
+    <g font-size="23" font-weight="700">
+      <text x="310" y="161">Vendor reference architecture</text>
+      <text x="310" y="316">Encoded organisational logic</text>
+      <text x="310" y="465">Implemented organisational</text><text x="310" y="494">configuration</text>
+      <text x="310" y="636">Enacted organisational practice</text>
+    </g>
+    <g font-size="21">
+      <text x="782" y="459">Configuration and</text><text x="782" y="488">extension choices</text>
+      <text x="782" y="608">Local routines,</text><text x="782" y="637">interpretation</text><text x="782" y="666">and workaround</text>
+      <text x="760" y="257" fill="#166254">Paper 1 boundary</text>
+    </g>
+  </g>
+  <g fill="none" stroke="#526276" stroke-width="2" marker-end="url(#arrow)">
+    <path d="M310 197V258"/><path d="M310 352V423"/><path d="M310 517V578"/>
+    <path d="M643 472H572"/><path d="M643 628H572"/>
+  </g>
+  <path d="M567 284H900V332H567" fill="none" stroke="#166254" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#arrow)"/>
+</svg>
